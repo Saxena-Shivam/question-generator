@@ -1,0 +1,2487 @@
+Class,Subject Name,Subject Code,Topic,Question,Marks
+6,Mathematics,ma,a,maa0101,1
+6,Mathematics,ma,a,maa0201,1
+6,Mathematics,ma,a,maa0301,1
+6,Mathematics,ma,a,maa0401,1
+6,Mathematics,ma,a,maa0102,2
+6,Mathematics,ma,a,maa0202,2
+6,Mathematics,ma,a,maa0104,4
+6,Mathematics,ma,a,maa0204,4
+6,Mathematics,ma,a,maa0304,4
+6,Mathematics,ma,a,maa0404,4
+6,Mathematics,ma,a,maa0504,4
+6,Mathematics,ma,a,maa0604,4
+6,Mathematics,ma,a,maa0105,5
+6,Mathematics,ma,a,maa0205,5
+6,Mathematics,ma,a,maa0305,5
+6,Mathematics,ma,a,maa0405,5
+6,Mathematics,ma,a,maa0505,5
+6,Mathematics,ma,a,maa0605,5
+6,Mathematics,ma,a,maa0705,5
+6,Mathematics,ma,a,maa0110,10
+6,Mathematics,ma,a,maa0210,10
+6,Mathematics,ma,a,maa0310,10
+6,Mathematics,ma,a,maa0410,10
+6,Mathematics,ma,a,maa0510,10
+6,Mathematics,ma,a,maa0120,20
+6,Mathematics,ma,a,maa0220,20
+6,Mathematics,ma,a,maa0320,20
+6,Mathematics,ma,b,mab0101,1
+6,Mathematics,ma,b,mab0201,1
+6,Mathematics,ma,b,mab0301,1
+6,Mathematics,ma,b,mab0102,2
+6,Mathematics,ma,b,mab0202,2
+6,Mathematics,ma,b,mab0302,2
+6,Mathematics,ma,b,mab0402,2
+6,Mathematics,ma,b,mab0502,2
+6,Mathematics,ma,b,mab0602,2
+6,Mathematics,ma,b,mab0702,2
+6,Mathematics,ma,b,mab0802,2
+6,Mathematics,ma,b,mab0902,2
+6,Mathematics,ma,b,mab1002,2
+6,Mathematics,ma,b,mab0104,4
+6,Mathematics,ma,b,mab0204,4
+6,Mathematics,ma,b,mab0304,4
+6,Mathematics,ma,b,mab0404,4
+6,Mathematics,ma,b,mab0504,4
+6,Mathematics,ma,b,mab0604,4
+6,Mathematics,ma,b,mab0704,4
+6,Mathematics,ma,b,mab0804,4
+6,Mathematics,ma,b,mab0904,4
+6,Mathematics,ma,b,mab1004,4
+6,Mathematics,ma,b,mab0105,5
+6,Mathematics,ma,b,mab0205,5
+6,Mathematics,ma,b,mab0305,5
+6,Mathematics,ma,b,mab0405,5
+6,Mathematics,ma,b,mab0505,5
+6,Mathematics,ma,b,mab0605,5
+6,Mathematics,ma,b,mab0705,5
+6,Mathematics,ma,b,mab0805,5
+6,Mathematics,ma,b,mab0905,5
+6,Mathematics,ma,b,mab1005,5
+6,Mathematics,ma,b,mab0110,10
+6,Mathematics,ma,b,mab0210,10
+6,Mathematics,ma,b,mab0310,10
+6,Mathematics,ma,b,mab0410,10
+6,Mathematics,ma,b,mab0510,10
+6,Mathematics,ma,b,mab0610,10
+6,Mathematics,ma,b,mab0710,10
+6,Mathematics,ma,b,mab0120,20
+6,Mathematics,ma,c,mac0101,1
+6,Mathematics,ma,c,mac0201,1
+6,Mathematics,ma,c,mac0301,1
+6,Mathematics,ma,c,mac0102,2
+6,Mathematics,ma,c,mac0202,2
+6,Mathematics,ma,c,mac0302,2
+6,Mathematics,ma,c,mac0402,2
+6,Mathematics,ma,c,mac0502,2
+6,Mathematics,ma,c,mac0602,2
+6,Mathematics,ma,c,mac0702,2
+6,Mathematics,ma,c,mac0802,2
+6,Mathematics,ma,c,mac0902,2
+6,Mathematics,ma,c,mac0104,4
+6,Mathematics,ma,c,mac0204,4
+6,Mathematics,ma,c,mac0304,4
+6,Mathematics,ma,c,mac0105,5
+6,Mathematics,ma,c,mac0205,5
+6,Mathematics,ma,c,mac0305,5
+6,Mathematics,ma,c,mac0405,5
+6,Mathematics,ma,c,mac0505,5
+6,Mathematics,ma,c,mac0605,5
+6,Mathematics,ma,c,mac0705,5
+6,Mathematics,ma,c,mac0805,5
+6,Mathematics,ma,c,mac0905,5
+6,Mathematics,ma,c,mac1005,5
+6,Mathematics,ma,c,mac0110,10
+6,Mathematics,ma,c,mac0210,10
+6,Mathematics,ma,c,mac0310,10
+6,Mathematics,ma,c,mac0410,10
+6,Mathematics,ma,c,mac0510,10
+6,Mathematics,ma,c,mac0610,10
+6,Mathematics,ma,c,mac0710,10
+6,Mathematics,ma,c,mac0810,10
+6,Mathematics,ma,c,mac0910,10
+6,Mathematics,ma,c,mac1010,10
+6,Mathematics,ma,c,mac0120,20
+6,Mathematics,ma,c,mac0220,20
+6,Mathematics,ma,c,mac0320,20
+6,Mathematics,ma,c,mac0420,20
+6,Mathematics,ma,c,mac0520,20
+6,Mathematics,ma,c,mac0620,20
+6,Mathematics,ma,c,mac0720,20
+6,Mathematics,ma,c,mac0820,20
+6,Mathematics,ma,c,mac0920,20
+6,Mathematics,ma,c,mac1020,20
+6,Mathematics,ma,d,mad0101,1
+6,Mathematics,ma,d,mad0201,1
+6,Mathematics,ma,d,mad0301,1
+6,Mathematics,ma,d,mad0401,1
+6,Mathematics,ma,d,mad0501,1
+6,Mathematics,ma,d,mad0601,1
+6,Mathematics,ma,d,mad0701,1
+6,Mathematics,ma,d,mad0801,1
+6,Mathematics,ma,d,mad0901,1
+6,Mathematics,ma,d,mad0102,2
+6,Mathematics,ma,d,mad0202,2
+6,Mathematics,ma,d,mad0302,2
+6,Mathematics,ma,d,mad0402,2
+6,Mathematics,ma,d,mad0502,2
+6,Mathematics,ma,d,mad0602,2
+6,Mathematics,ma,d,mad0104,4
+6,Mathematics,ma,d,mad0105,5
+6,Mathematics,ma,d,mad0205,5
+6,Mathematics,ma,d,mad0305,5
+6,Mathematics,ma,d,mad0405,5
+6,Mathematics,ma,d,mad0505,5
+6,Mathematics,ma,d,mad0605,5
+6,Mathematics,ma,d,mad0705,5
+6,Mathematics,ma,d,mad0805,5
+6,Mathematics,ma,d,mad0110,10
+6,Mathematics,ma,d,mad0210,10
+6,Mathematics,ma,d,mad0310,10
+6,Mathematics,ma,d,mad0410,10
+6,Mathematics,ma,d,mad0120,20
+6,Mathematics,ma,d,mad0220,20
+6,Mathematics,ma,e,mae0101,1
+6,Mathematics,ma,e,mae0201,1
+6,Mathematics,ma,e,mae0301,1
+6,Mathematics,ma,e,mae0401,1
+6,Mathematics,ma,e,mae0501,1
+6,Mathematics,ma,e,mae0601,1
+6,Mathematics,ma,e,mae0701,1
+6,Mathematics,ma,e,mae0801,1
+6,Mathematics,ma,e,mae0901,1
+6,Mathematics,ma,e,mae1001,1
+6,Mathematics,ma,e,mae0102,2
+6,Mathematics,ma,e,mae0202,2
+6,Mathematics,ma,e,mae0302,2
+6,Mathematics,ma,e,mae0104,4
+6,Mathematics,ma,e,mae0204,4
+6,Mathematics,ma,e,mae0105,5
+6,Mathematics,ma,e,mae0205,5
+6,Mathematics,ma,e,mae0110,10
+6,Mathematics,ma,e,mae0210,10
+6,Mathematics,ma,e,mae0310,10
+6,Mathematics,ma,e,mae0410,10
+6,Mathematics,ma,e,mae0510,10
+6,Mathematics,ma,e,mae0610,10
+6,Mathematics,ma,e,mae0710,10
+6,Mathematics,ma,e,mae0810,10
+6,Mathematics,ma,e,mae0910,10
+6,Mathematics,ma,e,mae0120,20
+6,Mathematics,ma,e,mae0220,20
+6,Mathematics,ma,e,mae0320,20
+6,Mathematics,ma,e,mae0420,20
+6,Mathematics,ma,e,mae0520,20
+6,Mathematics,ma,e,mae0620,20
+6,Mathematics,ma,e,mae0720,20
+6,Mathematics,ma,e,mae0820,20
+6,Mathematics,ma,e,mae0920,20
+6,Mathematics,ma,e,mae1020,20
+6,Biology,bs,f,bsf0101,1
+6,Biology,bs,f,bsf0201,1
+6,Biology,bs,f,bsf0301,1
+6,Biology,bs,f,bsf0401,1
+6,Biology,bs,f,bsf0501,1
+6,Biology,bs,f,bsf0601,1
+6,Biology,bs,f,bsf0701,1
+6,Biology,bs,f,bsf0102,2
+6,Biology,bs,f,bsf0202,2
+6,Biology,bs,f,bsf0302,2
+6,Biology,bs,f,bsf0402,2
+6,Biology,bs,f,bsf0502,2
+6,Biology,bs,f,bsf0602,2
+6,Biology,bs,f,bsf0702,2
+6,Biology,bs,f,bsf0802,2
+6,Biology,bs,f,bsf0104,4
+6,Biology,bs,f,bsf0204,4
+6,Biology,bs,f,bsf0304,4
+6,Biology,bs,f,bsf0404,4
+6,Biology,bs,f,bsf0504,4
+6,Biology,bs,f,bsf0604,4
+6,Biology,bs,f,bsf0704,4
+6,Biology,bs,f,bsf0105,5
+6,Biology,bs,f,bsf0205,5
+6,Biology,bs,f,bsf0305,5
+6,Biology,bs,f,bsf0405,5
+6,Biology,bs,f,bsf0505,5
+6,Biology,bs,f,bsf0605,5
+6,Biology,bs,f,bsf0705,5
+6,Biology,bs,f,bsf0805,5
+6,Biology,bs,f,bsf0905,5
+6,Biology,bs,f,bsf0110,10
+6,Biology,bs,f,bsf0210,10
+6,Biology,bs,f,bsf0310,10
+6,Biology,bs,f,bsf0410,10
+6,Biology,bs,f,bsf0510,10
+6,Biology,bs,f,bsf0610,10
+6,Biology,bs,f,bsf0710,10
+6,Biology,bs,f,bsf0810,10
+6,Biology,bs,f,bsf0910,10
+6,Biology,bs,f,bsf0120,20
+6,Biology,bs,f,bsf0220,20
+6,Biology,bs,f,bsf0320,20
+6,Biology,bs,f,bsf0420,20
+6,Biology,bs,g,bsg0101,1
+6,Biology,bs,g,bsg0201,1
+6,Biology,bs,g,bsg0301,1
+6,Biology,bs,g,bsg0401,1
+6,Biology,bs,g,bsg0501,1
+6,Biology,bs,g,bsg0601,1
+6,Biology,bs,g,bsg0701,1
+6,Biology,bs,g,bsg0801,1
+6,Biology,bs,g,bsg0901,1
+6,Biology,bs,g,bsg0102,2
+6,Biology,bs,g,bsg0202,2
+6,Biology,bs,g,bsg0302,2
+6,Biology,bs,g,bsg0402,2
+6,Biology,bs,g,bsg0104,4
+6,Biology,bs,g,bsg0204,4
+6,Biology,bs,g,bsg0304,4
+6,Biology,bs,g,bsg0404,4
+6,Biology,bs,g,bsg0105,5
+6,Biology,bs,g,bsg0205,5
+6,Biology,bs,g,bsg0305,5
+6,Biology,bs,g,bsg0110,10
+6,Biology,bs,g,bsg0210,10
+6,Biology,bs,g,bsg0120,20
+6,Biology,bs,h,bsh0101,1
+6,Biology,bs,h,bsh0201,1
+6,Biology,bs,h,bsh0301,1
+6,Biology,bs,h,bsh0401,1
+6,Biology,bs,h,bsh0501,1
+6,Biology,bs,h,bsh0601,1
+6,Biology,bs,h,bsh0701,1
+6,Biology,bs,h,bsh0801,1
+6,Biology,bs,h,bsh0901,1
+6,Biology,bs,h,bsh1001,1
+6,Biology,bs,h,bsh0102,2
+6,Biology,bs,h,bsh0202,2
+6,Biology,bs,h,bsh0302,2
+6,Biology,bs,h,bsh0402,2
+6,Biology,bs,h,bsh0502,2
+6,Biology,bs,h,bsh0602,2
+6,Biology,bs,h,bsh0104,4
+6,Biology,bs,h,bsh0204,4
+6,Biology,bs,h,bsh0304,4
+6,Biology,bs,h,bsh0404,4
+6,Biology,bs,h,bsh0504,4
+6,Biology,bs,h,bsh0604,4
+6,Biology,bs,h,bsh0105,5
+6,Biology,bs,h,bsh0205,5
+6,Biology,bs,h,bsh0305,5
+6,Biology,bs,h,bsh0405,5
+6,Biology,bs,h,bsh0505,5
+6,Biology,bs,h,bsh0605,5
+6,Biology,bs,h,bsh0705,5
+6,Biology,bs,h,bsh0805,5
+6,Biology,bs,h,bsh0110,10
+6,Biology,bs,h,bsh0210,10
+6,Biology,bs,h,bsh0310,10
+6,Biology,bs,h,bsh0410,10
+6,Biology,bs,h,bsh0120,20
+6,Biology,bs,h,bsh0220,20
+6,Biology,bs,h,bsh0320,20
+6,Biology,bs,h,bsh0420,20
+6,Biology,bs,h,bsh0520,20
+6,Biology,bs,h,bsh0620,20
+6,Biology,bs,h,bsh0720,20
+6,Biology,bs,h,bsh0820,20
+6,Biology,bs,i,bsi0101,1
+6,Biology,bs,i,bsi0201,1
+6,Biology,bs,i,bsi0102,2
+6,Biology,bs,i,bsi0104,4
+6,Biology,bs,i,bsi0204,4
+6,Biology,bs,i,bsi0304,4
+6,Biology,bs,i,bsi0404,4
+6,Biology,bs,i,bsi0504,4
+6,Biology,bs,i,bsi0604,4
+6,Biology,bs,i,bsi0704,4
+6,Biology,bs,i,bsi0804,4
+6,Biology,bs,i,bsi0105,5
+6,Biology,bs,i,bsi0205,5
+6,Biology,bs,i,bsi0305,5
+6,Biology,bs,i,bsi0405,5
+6,Biology,bs,i,bsi0505,5
+6,Biology,bs,i,bsi0605,5
+6,Biology,bs,i,bsi0110,10
+6,Biology,bs,i,bsi0210,10
+6,Biology,bs,i,bsi0310,10
+6,Biology,bs,i,bsi0410,10
+6,Biology,bs,i,bsi0510,10
+6,Biology,bs,i,bsi0610,10
+6,Biology,bs,i,bsi0710,10
+6,Biology,bs,i,bsi0810,10
+6,Biology,bs,i,bsi0120,20
+6,Biology,bs,i,bsi0220,20
+6,Biology,bs,i,bsi0320,20
+6,Biology,bs,i,bsi0420,20
+6,Biology,bs,i,bsi0520,20
+6,Biology,bs,i,bsi0620,20
+6,Biology,bs,j,bsj0101,1
+6,Biology,bs,j,bsj0201,1
+6,Biology,bs,j,bsj0301,1
+6,Biology,bs,j,bsj0401,1
+6,Biology,bs,j,bsj0501,1
+6,Biology,bs,j,bsj0601,1
+6,Biology,bs,j,bsj0102,2
+6,Biology,bs,j,bsj0202,2
+6,Biology,bs,j,bsj0302,2
+6,Biology,bs,j,bsj0402,2
+6,Biology,bs,j,bsj0502,2
+6,Biology,bs,j,bsj0602,2
+6,Biology,bs,j,bsj0702,2
+6,Biology,bs,j,bsj0802,2
+6,Biology,bs,j,bsj0104,4
+6,Biology,bs,j,bsj0204,4
+6,Biology,bs,j,bsj0304,4
+6,Biology,bs,j,bsj0404,4
+6,Biology,bs,j,bsj0105,5
+6,Biology,bs,j,bsj0205,5
+6,Biology,bs,j,bsj0110,10
+6,Biology,bs,j,bsj0210,10
+6,Biology,bs,j,bsj0120,20
+6,Biology,bs,j,bsj0220,20
+6,Biology,bs,j,bsj0320,20
+6,Biology,bs,j,bsj0420,20
+6,Social Studies,ss,k,ssk0101,1
+6,Social Studies,ss,k,ssk0201,1
+6,Social Studies,ss,k,ssk0301,1
+6,Social Studies,ss,k,ssk0102,2
+6,Social Studies,ss,k,ssk0202,2
+6,Social Studies,ss,k,ssk0302,2
+6,Social Studies,ss,k,ssk0402,2
+6,Social Studies,ss,k,ssk0502,2
+6,Social Studies,ss,k,ssk0602,2
+6,Social Studies,ss,k,ssk0702,2
+6,Social Studies,ss,k,ssk0802,2
+6,Social Studies,ss,k,ssk0902,2
+6,Social Studies,ss,k,ssk1002,2
+6,Social Studies,ss,k,ssk0104,4
+6,Social Studies,ss,k,ssk0204,4
+6,Social Studies,ss,k,ssk0304,4
+6,Social Studies,ss,k,ssk0404,4
+6,Social Studies,ss,k,ssk0105,5
+6,Social Studies,ss,k,ssk0205,5
+6,Social Studies,ss,k,ssk0305,5
+6,Social Studies,ss,k,ssk0405,5
+6,Social Studies,ss,k,ssk0505,5
+6,Social Studies,ss,k,ssk0605,5
+6,Social Studies,ss,k,ssk0705,5
+6,Social Studies,ss,k,ssk0805,5
+6,Social Studies,ss,k,ssk0905,5
+6,Social Studies,ss,k,ssk0110,10
+6,Social Studies,ss,k,ssk0120,20
+6,Social Studies,ss,k,ssk0220,20
+6,Social Studies,ss,k,ssk0320,20
+6,Social Studies,ss,k,ssk0420,20
+6,Social Studies,ss,k,ssk0520,20
+6,Social Studies,ss,k,ssk0620,20
+6,Social Studies,ss,k,ssk0720,20
+6,Social Studies,ss,k,ssk0820,20
+6,Social Studies,ss,l,ssl0101,1
+6,Social Studies,ss,l,ssl0102,2
+6,Social Studies,ss,l,ssl0104,4
+6,Social Studies,ss,l,ssl0204,4
+6,Social Studies,ss,l,ssl0105,5
+6,Social Studies,ss,l,ssl0205,5
+6,Social Studies,ss,l,ssl0305,5
+6,Social Studies,ss,l,ssl0405,5
+6,Social Studies,ss,l,ssl0505,5
+6,Social Studies,ss,l,ssl0605,5
+6,Social Studies,ss,l,ssl0705,5
+6,Social Studies,ss,l,ssl0805,5
+6,Social Studies,ss,l,ssl0110,10
+6,Social Studies,ss,l,ssl0210,10
+6,Social Studies,ss,l,ssl0310,10
+6,Social Studies,ss,l,ssl0120,20
+6,Social Studies,ss,l,ssl0220,20
+6,Social Studies,ss,l,ssl0320,20
+6,Social Studies,ss,l,ssl0420,20
+6,Social Studies,ss,l,ssl0520,20
+6,Social Studies,ss,l,ssl0620,20
+6,Social Studies,ss,l,ssl0720,20
+6,Social Studies,ss,l,ssl0820,20
+6,Social Studies,ss,m,ssm0101,1
+6,Social Studies,ss,m,ssm0201,1
+6,Social Studies,ss,m,ssm0301,1
+6,Social Studies,ss,m,ssm0401,1
+6,Social Studies,ss,m,ssm0501,1
+6,Social Studies,ss,m,ssm0601,1
+6,Social Studies,ss,m,ssm0701,1
+6,Social Studies,ss,m,ssm0102,2
+6,Social Studies,ss,m,ssm0202,2
+6,Social Studies,ss,m,ssm0302,2
+6,Social Studies,ss,m,ssm0402,2
+6,Social Studies,ss,m,ssm0502,2
+6,Social Studies,ss,m,ssm0602,2
+6,Social Studies,ss,m,ssm0104,4
+6,Social Studies,ss,m,ssm0204,4
+6,Social Studies,ss,m,ssm0304,4
+6,Social Studies,ss,m,ssm0404,4
+6,Social Studies,ss,m,ssm0105,5
+6,Social Studies,ss,m,ssm0205,5
+6,Social Studies,ss,m,ssm0305,5
+6,Social Studies,ss,m,ssm0405,5
+6,Social Studies,ss,m,ssm0505,5
+6,Social Studies,ss,m,ssm0605,5
+6,Social Studies,ss,m,ssm0110,10
+6,Social Studies,ss,m,ssm0210,10
+6,Social Studies,ss,m,ssm0310,10
+6,Social Studies,ss,m,ssm0410,10
+6,Social Studies,ss,m,ssm0510,10
+6,Social Studies,ss,m,ssm0610,10
+6,Social Studies,ss,m,ssm0710,10
+6,Social Studies,ss,m,ssm0120,20
+6,Social Studies,ss,m,ssm0220,20
+6,Social Studies,ss,m,ssm0320,20
+6,Social Studies,ss,m,ssm0420,20
+6,Social Studies,ss,m,ssm0520,20
+6,Social Studies,ss,m,ssm0620,20
+6,Social Studies,ss,m,ssm0720,20
+6,Social Studies,ss,m,ssm0820,20
+6,Social Studies,ss,n,ssn0101,1
+6,Social Studies,ss,n,ssn0201,1
+6,Social Studies,ss,n,ssn0301,1
+6,Social Studies,ss,n,ssn0401,1
+6,Social Studies,ss,n,ssn0501,1
+6,Social Studies,ss,n,ssn0601,1
+6,Social Studies,ss,n,ssn0102,2
+6,Social Studies,ss,n,ssn0202,2
+6,Social Studies,ss,n,ssn0302,2
+6,Social Studies,ss,n,ssn0402,2
+6,Social Studies,ss,n,ssn0502,2
+6,Social Studies,ss,n,ssn0602,2
+6,Social Studies,ss,n,ssn0104,4
+6,Social Studies,ss,n,ssn0204,4
+6,Social Studies,ss,n,ssn0304,4
+6,Social Studies,ss,n,ssn0404,4
+6,Social Studies,ss,n,ssn0504,4
+6,Social Studies,ss,n,ssn0604,4
+6,Social Studies,ss,n,ssn0704,4
+6,Social Studies,ss,n,ssn0804,4
+6,Social Studies,ss,n,ssn0105,5
+6,Social Studies,ss,n,ssn0205,5
+6,Social Studies,ss,n,ssn0305,5
+6,Social Studies,ss,n,ssn0405,5
+6,Social Studies,ss,n,ssn0505,5
+6,Social Studies,ss,n,ssn0605,5
+6,Social Studies,ss,n,ssn0110,10
+6,Social Studies,ss,n,ssn0210,10
+6,Social Studies,ss,n,ssn0310,10
+6,Social Studies,ss,n,ssn0410,10
+6,Social Studies,ss,n,ssn0510,10
+6,Social Studies,ss,n,ssn0120,20
+6,Social Studies,ss,n,ssn0220,20
+6,Social Studies,ss,n,ssn0320,20
+6,Social Studies,ss,n,ssn0420,20
+6,Social Studies,ss,n,ssn0520,20
+6,Social Studies,ss,n,ssn0620,20
+6,Social Studies,ss,n,ssn0720,20
+6,Social Studies,ss,n,ssn0820,20
+6,Social Studies,ss,n,ssn0920,20
+6,Social Studies,ss,o,sso0101,1
+6,Social Studies,ss,o,sso0201,1
+6,Social Studies,ss,o,sso0301,1
+6,Social Studies,ss,o,sso0401,1
+6,Social Studies,ss,o,sso0501,1
+6,Social Studies,ss,o,sso0601,1
+6,Social Studies,ss,o,sso0701,1
+6,Social Studies,ss,o,sso0801,1
+6,Social Studies,ss,o,sso0901,1
+6,Social Studies,ss,o,sso0102,2
+6,Social Studies,ss,o,sso0202,2
+6,Social Studies,ss,o,sso0302,2
+6,Social Studies,ss,o,sso0402,2
+6,Social Studies,ss,o,sso0104,4
+6,Social Studies,ss,o,sso0204,4
+6,Social Studies,ss,o,sso0304,4
+6,Social Studies,ss,o,sso0404,4
+6,Social Studies,ss,o,sso0504,4
+6,Social Studies,ss,o,sso0604,4
+6,Social Studies,ss,o,sso0704,4
+6,Social Studies,ss,o,sso0804,4
+6,Social Studies,ss,o,sso0904,4
+6,Social Studies,ss,o,sso1004,4
+6,Social Studies,ss,o,sso0105,5
+6,Social Studies,ss,o,sso0205,5
+6,Social Studies,ss,o,sso0305,5
+6,Social Studies,ss,o,sso0405,5
+6,Social Studies,ss,o,sso0505,5
+6,Social Studies,ss,o,sso0110,10
+6,Social Studies,ss,o,sso0210,10
+6,Social Studies,ss,o,sso0310,10
+6,Social Studies,ss,o,sso0410,10
+6,Social Studies,ss,o,sso0510,10
+6,Social Studies,ss,o,sso0610,10
+6,Social Studies,ss,o,sso0710,10
+6,Social Studies,ss,o,sso0120,20
+6,Social Studies,ss,o,sso0220,20
+6,Social Studies,ss,o,sso0320,20
+6,Social Studies,ss,o,sso0420,20
+6,Social Studies,ss,o,sso0520,20
+6,Social Studies,ss,o,sso0620,20
+6,Social Studies,ss,o,sso0720,20
+6,Social Studies,ss,o,sso0820,20
+6,Social Studies,ss,o,sso0920,20
+7,Mathematics,ma,a,maa0101,1
+7,Mathematics,ma,a,maa0201,1
+7,Mathematics,ma,a,maa0301,1
+7,Mathematics,ma,a,maa0401,1
+7,Mathematics,ma,a,maa0501,1
+7,Mathematics,ma,a,maa0601,1
+7,Mathematics,ma,a,maa0102,2
+7,Mathematics,ma,a,maa0202,2
+7,Mathematics,ma,a,maa0302,2
+7,Mathematics,ma,a,maa0402,2
+7,Mathematics,ma,a,maa0502,2
+7,Mathematics,ma,a,maa0602,2
+7,Mathematics,ma,a,maa0702,2
+7,Mathematics,ma,a,maa0802,2
+7,Mathematics,ma,a,maa0902,2
+7,Mathematics,ma,a,maa0104,4
+7,Mathematics,ma,a,maa0204,4
+7,Mathematics,ma,a,maa0304,4
+7,Mathematics,ma,a,maa0404,4
+7,Mathematics,ma,a,maa0105,5
+7,Mathematics,ma,a,maa0205,5
+7,Mathematics,ma,a,maa0305,5
+7,Mathematics,ma,a,maa0405,5
+7,Mathematics,ma,a,maa0505,5
+7,Mathematics,ma,a,maa0605,5
+7,Mathematics,ma,a,maa0705,5
+7,Mathematics,ma,a,maa0805,5
+7,Mathematics,ma,a,maa0905,5
+7,Mathematics,ma,a,maa0110,10
+7,Mathematics,ma,a,maa0210,10
+7,Mathematics,ma,a,maa0310,10
+7,Mathematics,ma,a,maa0120,20
+7,Mathematics,ma,a,maa0220,20
+7,Mathematics,ma,b,mab0101,1
+7,Mathematics,ma,b,mab0201,1
+7,Mathematics,ma,b,mab0301,1
+7,Mathematics,ma,b,mab0401,1
+7,Mathematics,ma,b,mab0501,1
+7,Mathematics,ma,b,mab0601,1
+7,Mathematics,ma,b,mab0701,1
+7,Mathematics,ma,b,mab0801,1
+7,Mathematics,ma,b,mab0102,2
+7,Mathematics,ma,b,mab0202,2
+7,Mathematics,ma,b,mab0302,2
+7,Mathematics,ma,b,mab0402,2
+7,Mathematics,ma,b,mab0502,2
+7,Mathematics,ma,b,mab0602,2
+7,Mathematics,ma,b,mab0702,2
+7,Mathematics,ma,b,mab0802,2
+7,Mathematics,ma,b,mab0902,2
+7,Mathematics,ma,b,mab0104,4
+7,Mathematics,ma,b,mab0105,5
+7,Mathematics,ma,b,mab0205,5
+7,Mathematics,ma,b,mab0305,5
+7,Mathematics,ma,b,mab0405,5
+7,Mathematics,ma,b,mab0505,5
+7,Mathematics,ma,b,mab0110,10
+7,Mathematics,ma,b,mab0210,10
+7,Mathematics,ma,b,mab0310,10
+7,Mathematics,ma,b,mab0120,20
+7,Mathematics,ma,b,mab0220,20
+7,Mathematics,ma,b,mab0320,20
+7,Mathematics,ma,b,mab0420,20
+7,Mathematics,ma,b,mab0520,20
+7,Mathematics,ma,b,mab0620,20
+7,Mathematics,ma,b,mab0720,20
+7,Mathematics,ma,b,mab0820,20
+7,Mathematics,ma,c,mac0101,1
+7,Mathematics,ma,c,mac0201,1
+7,Mathematics,ma,c,mac0102,2
+7,Mathematics,ma,c,mac0104,4
+7,Mathematics,ma,c,mac0204,4
+7,Mathematics,ma,c,mac0304,4
+7,Mathematics,ma,c,mac0404,4
+7,Mathematics,ma,c,mac0105,5
+7,Mathematics,ma,c,mac0205,5
+7,Mathematics,ma,c,mac0305,5
+7,Mathematics,ma,c,mac0405,5
+7,Mathematics,ma,c,mac0505,5
+7,Mathematics,ma,c,mac0110,10
+7,Mathematics,ma,c,mac0210,10
+7,Mathematics,ma,c,mac0310,10
+7,Mathematics,ma,c,mac0410,10
+7,Mathematics,ma,c,mac0510,10
+7,Mathematics,ma,c,mac0120,20
+7,Mathematics,ma,c,mac0220,20
+7,Mathematics,ma,c,mac0320,20
+7,Mathematics,ma,c,mac0420,20
+7,Mathematics,ma,d,mad0101,1
+7,Mathematics,ma,d,mad0201,1
+7,Mathematics,ma,d,mad0301,1
+7,Mathematics,ma,d,mad0401,1
+7,Mathematics,ma,d,mad0501,1
+7,Mathematics,ma,d,mad0601,1
+7,Mathematics,ma,d,mad0701,1
+7,Mathematics,ma,d,mad0801,1
+7,Mathematics,ma,d,mad0102,2
+7,Mathematics,ma,d,mad0202,2
+7,Mathematics,ma,d,mad0302,2
+7,Mathematics,ma,d,mad0402,2
+7,Mathematics,ma,d,mad0502,2
+7,Mathematics,ma,d,mad0104,4
+7,Mathematics,ma,d,mad0204,4
+7,Mathematics,ma,d,mad0304,4
+7,Mathematics,ma,d,mad0404,4
+7,Mathematics,ma,d,mad0504,4
+7,Mathematics,ma,d,mad0604,4
+7,Mathematics,ma,d,mad0704,4
+7,Mathematics,ma,d,mad0804,4
+7,Mathematics,ma,d,mad0904,4
+7,Mathematics,ma,d,mad1004,4
+7,Mathematics,ma,d,mad0105,5
+7,Mathematics,ma,d,mad0205,5
+7,Mathematics,ma,d,mad0305,5
+7,Mathematics,ma,d,mad0405,5
+7,Mathematics,ma,d,mad0110,10
+7,Mathematics,ma,d,mad0210,10
+7,Mathematics,ma,d,mad0310,10
+7,Mathematics,ma,d,mad0410,10
+7,Mathematics,ma,d,mad0510,10
+7,Mathematics,ma,d,mad0120,20
+7,Mathematics,ma,d,mad0220,20
+7,Mathematics,ma,d,mad0320,20
+7,Mathematics,ma,d,mad0420,20
+7,Mathematics,ma,d,mad0520,20
+7,Mathematics,ma,e,mae0101,1
+7,Mathematics,ma,e,mae0201,1
+7,Mathematics,ma,e,mae0301,1
+7,Mathematics,ma,e,mae0401,1
+7,Mathematics,ma,e,mae0102,2
+7,Mathematics,ma,e,mae0202,2
+7,Mathematics,ma,e,mae0104,4
+7,Mathematics,ma,e,mae0204,4
+7,Mathematics,ma,e,mae0304,4
+7,Mathematics,ma,e,mae0404,4
+7,Mathematics,ma,e,mae0504,4
+7,Mathematics,ma,e,mae0604,4
+7,Mathematics,ma,e,mae0704,4
+7,Mathematics,ma,e,mae0105,5
+7,Mathematics,ma,e,mae0205,5
+7,Mathematics,ma,e,mae0305,5
+7,Mathematics,ma,e,mae0405,5
+7,Mathematics,ma,e,mae0505,5
+7,Mathematics,ma,e,mae0110,10
+7,Mathematics,ma,e,mae0210,10
+7,Mathematics,ma,e,mae0310,10
+7,Mathematics,ma,e,mae0120,20
+7,Biology,bs,f,bsf0101,1
+7,Biology,bs,f,bsf0201,1
+7,Biology,bs,f,bsf0301,1
+7,Biology,bs,f,bsf0401,1
+7,Biology,bs,f,bsf0501,1
+7,Biology,bs,f,bsf0601,1
+7,Biology,bs,f,bsf0701,1
+7,Biology,bs,f,bsf0801,1
+7,Biology,bs,f,bsf0102,2
+7,Biology,bs,f,bsf0202,2
+7,Biology,bs,f,bsf0302,2
+7,Biology,bs,f,bsf0402,2
+7,Biology,bs,f,bsf0502,2
+7,Biology,bs,f,bsf0602,2
+7,Biology,bs,f,bsf0702,2
+7,Biology,bs,f,bsf0802,2
+7,Biology,bs,f,bsf0104,4
+7,Biology,bs,f,bsf0204,4
+7,Biology,bs,f,bsf0304,4
+7,Biology,bs,f,bsf0404,4
+7,Biology,bs,f,bsf0504,4
+7,Biology,bs,f,bsf0604,4
+7,Biology,bs,f,bsf0704,4
+7,Biology,bs,f,bsf0804,4
+7,Biology,bs,f,bsf0904,4
+7,Biology,bs,f,bsf1004,4
+7,Biology,bs,f,bsf0105,5
+7,Biology,bs,f,bsf0205,5
+7,Biology,bs,f,bsf0305,5
+7,Biology,bs,f,bsf0405,5
+7,Biology,bs,f,bsf0110,10
+7,Biology,bs,f,bsf0210,10
+7,Biology,bs,f,bsf0310,10
+7,Biology,bs,f,bsf0410,10
+7,Biology,bs,f,bsf0510,10
+7,Biology,bs,f,bsf0120,20
+7,Biology,bs,f,bsf0220,20
+7,Biology,bs,f,bsf0320,20
+7,Biology,bs,f,bsf0420,20
+7,Biology,bs,f,bsf0520,20
+7,Biology,bs,f,bsf0620,20
+7,Biology,bs,f,bsf0720,20
+7,Biology,bs,f,bsf0820,20
+7,Biology,bs,f,bsf0920,20
+7,Biology,bs,f,bsf1020,20
+7,Biology,bs,g,bsg0101,1
+7,Biology,bs,g,bsg0201,1
+7,Biology,bs,g,bsg0301,1
+7,Biology,bs,g,bsg0401,1
+7,Biology,bs,g,bsg0102,2
+7,Biology,bs,g,bsg0202,2
+7,Biology,bs,g,bsg0302,2
+7,Biology,bs,g,bsg0402,2
+7,Biology,bs,g,bsg0502,2
+7,Biology,bs,g,bsg0602,2
+7,Biology,bs,g,bsg0702,2
+7,Biology,bs,g,bsg0802,2
+7,Biology,bs,g,bsg0902,2
+7,Biology,bs,g,bsg0104,4
+7,Biology,bs,g,bsg0204,4
+7,Biology,bs,g,bsg0304,4
+7,Biology,bs,g,bsg0404,4
+7,Biology,bs,g,bsg0504,4
+7,Biology,bs,g,bsg0604,4
+7,Biology,bs,g,bsg0704,4
+7,Biology,bs,g,bsg0804,4
+7,Biology,bs,g,bsg0904,4
+7,Biology,bs,g,bsg1004,4
+7,Biology,bs,g,bsg0105,5
+7,Biology,bs,g,bsg0205,5
+7,Biology,bs,g,bsg0305,5
+7,Biology,bs,g,bsg0405,5
+7,Biology,bs,g,bsg0505,5
+7,Biology,bs,g,bsg0110,10
+7,Biology,bs,g,bsg0210,10
+7,Biology,bs,g,bsg0120,20
+7,Biology,bs,g,bsg0220,20
+7,Biology,bs,h,bsh0101,1
+7,Biology,bs,h,bsh0201,1
+7,Biology,bs,h,bsh0301,1
+7,Biology,bs,h,bsh0401,1
+7,Biology,bs,h,bsh0501,1
+7,Biology,bs,h,bsh0102,2
+7,Biology,bs,h,bsh0202,2
+7,Biology,bs,h,bsh0302,2
+7,Biology,bs,h,bsh0402,2
+7,Biology,bs,h,bsh0502,2
+7,Biology,bs,h,bsh0602,2
+7,Biology,bs,h,bsh0104,4
+7,Biology,bs,h,bsh0204,4
+7,Biology,bs,h,bsh0304,4
+7,Biology,bs,h,bsh0404,4
+7,Biology,bs,h,bsh0504,4
+7,Biology,bs,h,bsh0105,5
+7,Biology,bs,h,bsh0205,5
+7,Biology,bs,h,bsh0305,5
+7,Biology,bs,h,bsh0405,5
+7,Biology,bs,h,bsh0505,5
+7,Biology,bs,h,bsh0605,5
+7,Biology,bs,h,bsh0705,5
+7,Biology,bs,h,bsh0805,5
+7,Biology,bs,h,bsh0905,5
+7,Biology,bs,h,bsh1005,5
+7,Biology,bs,h,bsh0110,10
+7,Biology,bs,h,bsh0210,10
+7,Biology,bs,h,bsh0310,10
+7,Biology,bs,h,bsh0410,10
+7,Biology,bs,h,bsh0510,10
+7,Biology,bs,h,bsh0610,10
+7,Biology,bs,h,bsh0120,20
+7,Biology,bs,h,bsh0220,20
+7,Biology,bs,h,bsh0320,20
+7,Biology,bs,h,bsh0420,20
+7,Biology,bs,h,bsh0520,20
+7,Biology,bs,h,bsh0620,20
+7,Biology,bs,h,bsh0720,20
+7,Biology,bs,h,bsh0820,20
+7,Biology,bs,i,bsi0101,1
+7,Biology,bs,i,bsi0201,1
+7,Biology,bs,i,bsi0301,1
+7,Biology,bs,i,bsi0401,1
+7,Biology,bs,i,bsi0501,1
+7,Biology,bs,i,bsi0601,1
+7,Biology,bs,i,bsi0701,1
+7,Biology,bs,i,bsi0801,1
+7,Biology,bs,i,bsi0901,1
+7,Biology,bs,i,bsi1001,1
+7,Biology,bs,i,bsi0102,2
+7,Biology,bs,i,bsi0202,2
+7,Biology,bs,i,bsi0302,2
+7,Biology,bs,i,bsi0402,2
+7,Biology,bs,i,bsi0502,2
+7,Biology,bs,i,bsi0602,2
+7,Biology,bs,i,bsi0702,2
+7,Biology,bs,i,bsi0802,2
+7,Biology,bs,i,bsi0902,2
+7,Biology,bs,i,bsi0104,4
+7,Biology,bs,i,bsi0105,5
+7,Biology,bs,i,bsi0205,5
+7,Biology,bs,i,bsi0305,5
+7,Biology,bs,i,bsi0110,10
+7,Biology,bs,i,bsi0210,10
+7,Biology,bs,i,bsi0310,10
+7,Biology,bs,i,bsi0410,10
+7,Biology,bs,i,bsi0510,10
+7,Biology,bs,i,bsi0120,20
+7,Biology,bs,j,bsj0101,1
+7,Biology,bs,j,bsj0201,1
+7,Biology,bs,j,bsj0301,1
+7,Biology,bs,j,bsj0102,2
+7,Biology,bs,j,bsj0202,2
+7,Biology,bs,j,bsj0302,2
+7,Biology,bs,j,bsj0402,2
+7,Biology,bs,j,bsj0104,4
+7,Biology,bs,j,bsj0204,4
+7,Biology,bs,j,bsj0304,4
+7,Biology,bs,j,bsj0404,4
+7,Biology,bs,j,bsj0504,4
+7,Biology,bs,j,bsj0604,4
+7,Biology,bs,j,bsj0704,4
+7,Biology,bs,j,bsj0804,4
+7,Biology,bs,j,bsj0105,5
+7,Biology,bs,j,bsj0205,5
+7,Biology,bs,j,bsj0305,5
+7,Biology,bs,j,bsj0110,10
+7,Biology,bs,j,bsj0210,10
+7,Biology,bs,j,bsj0310,10
+7,Biology,bs,j,bsj0410,10
+7,Biology,bs,j,bsj0120,20
+7,Social Studies,ss,k,ssk0101,1
+7,Social Studies,ss,k,ssk0201,1
+7,Social Studies,ss,k,ssk0301,1
+7,Social Studies,ss,k,ssk0401,1
+7,Social Studies,ss,k,ssk0501,1
+7,Social Studies,ss,k,ssk0601,1
+7,Social Studies,ss,k,ssk0701,1
+7,Social Studies,ss,k,ssk0801,1
+7,Social Studies,ss,k,ssk0901,1
+7,Social Studies,ss,k,ssk1001,1
+7,Social Studies,ss,k,ssk0102,2
+7,Social Studies,ss,k,ssk0202,2
+7,Social Studies,ss,k,ssk0302,2
+7,Social Studies,ss,k,ssk0402,2
+7,Social Studies,ss,k,ssk0502,2
+7,Social Studies,ss,k,ssk0602,2
+7,Social Studies,ss,k,ssk0702,2
+7,Social Studies,ss,k,ssk0802,2
+7,Social Studies,ss,k,ssk0902,2
+7,Social Studies,ss,k,ssk0104,4
+7,Social Studies,ss,k,ssk0105,5
+7,Social Studies,ss,k,ssk0205,5
+7,Social Studies,ss,k,ssk0305,5
+7,Social Studies,ss,k,ssk0405,5
+7,Social Studies,ss,k,ssk0505,5
+7,Social Studies,ss,k,ssk0605,5
+7,Social Studies,ss,k,ssk0705,5
+7,Social Studies,ss,k,ssk0110,10
+7,Social Studies,ss,k,ssk0210,10
+7,Social Studies,ss,k,ssk0310,10
+7,Social Studies,ss,k,ssk0410,10
+7,Social Studies,ss,k,ssk0510,10
+7,Social Studies,ss,k,ssk0120,20
+7,Social Studies,ss,k,ssk0220,20
+7,Social Studies,ss,k,ssk0320,20
+7,Social Studies,ss,k,ssk0420,20
+7,Social Studies,ss,k,ssk0520,20
+7,Social Studies,ss,l,ssl0101,1
+7,Social Studies,ss,l,ssl0201,1
+7,Social Studies,ss,l,ssl0301,1
+7,Social Studies,ss,l,ssl0401,1
+7,Social Studies,ss,l,ssl0501,1
+7,Social Studies,ss,l,ssl0601,1
+7,Social Studies,ss,l,ssl0701,1
+7,Social Studies,ss,l,ssl0801,1
+7,Social Studies,ss,l,ssl0901,1
+7,Social Studies,ss,l,ssl0102,2
+7,Social Studies,ss,l,ssl0202,2
+7,Social Studies,ss,l,ssl0302,2
+7,Social Studies,ss,l,ssl0402,2
+7,Social Studies,ss,l,ssl0104,4
+7,Social Studies,ss,l,ssl0204,4
+7,Social Studies,ss,l,ssl0105,5
+7,Social Studies,ss,l,ssl0110,10
+7,Social Studies,ss,l,ssl0120,20
+7,Social Studies,ss,l,ssl0220,20
+7,Social Studies,ss,l,ssl0320,20
+7,Social Studies,ss,m,ssm0101,1
+7,Social Studies,ss,m,ssm0201,1
+7,Social Studies,ss,m,ssm0301,1
+7,Social Studies,ss,m,ssm0401,1
+7,Social Studies,ss,m,ssm0102,2
+7,Social Studies,ss,m,ssm0202,2
+7,Social Studies,ss,m,ssm0302,2
+7,Social Studies,ss,m,ssm0104,4
+7,Social Studies,ss,m,ssm0204,4
+7,Social Studies,ss,m,ssm0304,4
+7,Social Studies,ss,m,ssm0404,4
+7,Social Studies,ss,m,ssm0504,4
+7,Social Studies,ss,m,ssm0604,4
+7,Social Studies,ss,m,ssm0704,4
+7,Social Studies,ss,m,ssm0804,4
+7,Social Studies,ss,m,ssm0904,4
+7,Social Studies,ss,m,ssm0105,5
+7,Social Studies,ss,m,ssm0205,5
+7,Social Studies,ss,m,ssm0305,5
+7,Social Studies,ss,m,ssm0405,5
+7,Social Studies,ss,m,ssm0505,5
+7,Social Studies,ss,m,ssm0605,5
+7,Social Studies,ss,m,ssm0705,5
+7,Social Studies,ss,m,ssm0805,5
+7,Social Studies,ss,m,ssm0905,5
+7,Social Studies,ss,m,ssm0110,10
+7,Social Studies,ss,m,ssm0210,10
+7,Social Studies,ss,m,ssm0310,10
+7,Social Studies,ss,m,ssm0410,10
+7,Social Studies,ss,m,ssm0510,10
+7,Social Studies,ss,m,ssm0120,20
+7,Social Studies,ss,m,ssm0220,20
+7,Social Studies,ss,m,ssm0320,20
+7,Social Studies,ss,m,ssm0420,20
+7,Social Studies,ss,m,ssm0520,20
+7,Social Studies,ss,m,ssm0620,20
+7,Social Studies,ss,m,ssm0720,20
+7,Social Studies,ss,m,ssm0820,20
+7,Social Studies,ss,m,ssm0920,20
+7,Social Studies,ss,m,ssm1020,20
+7,Social Studies,ss,n,ssn0101,1
+7,Social Studies,ss,n,ssn0201,1
+7,Social Studies,ss,n,ssn0102,2
+7,Social Studies,ss,n,ssn0202,2
+7,Social Studies,ss,n,ssn0302,2
+7,Social Studies,ss,n,ssn0402,2
+7,Social Studies,ss,n,ssn0502,2
+7,Social Studies,ss,n,ssn0602,2
+7,Social Studies,ss,n,ssn0702,2
+7,Social Studies,ss,n,ssn0104,4
+7,Social Studies,ss,n,ssn0204,4
+7,Social Studies,ss,n,ssn0304,4
+7,Social Studies,ss,n,ssn0404,4
+7,Social Studies,ss,n,ssn0504,4
+7,Social Studies,ss,n,ssn0604,4
+7,Social Studies,ss,n,ssn0704,4
+7,Social Studies,ss,n,ssn0804,4
+7,Social Studies,ss,n,ssn0904,4
+7,Social Studies,ss,n,ssn0105,5
+7,Social Studies,ss,n,ssn0205,5
+7,Social Studies,ss,n,ssn0305,5
+7,Social Studies,ss,n,ssn0405,5
+7,Social Studies,ss,n,ssn0505,5
+7,Social Studies,ss,n,ssn0110,10
+7,Social Studies,ss,n,ssn0210,10
+7,Social Studies,ss,n,ssn0120,20
+7,Social Studies,ss,n,ssn0220,20
+7,Social Studies,ss,n,ssn0320,20
+7,Social Studies,ss,n,ssn0420,20
+7,Social Studies,ss,o,sso0101,1
+7,Social Studies,ss,o,sso0102,2
+7,Social Studies,ss,o,sso0202,2
+7,Social Studies,ss,o,sso0302,2
+7,Social Studies,ss,o,sso0402,2
+7,Social Studies,ss,o,sso0502,2
+7,Social Studies,ss,o,sso0602,2
+7,Social Studies,ss,o,sso0702,2
+7,Social Studies,ss,o,sso0802,2
+7,Social Studies,ss,o,sso0104,4
+7,Social Studies,ss,o,sso0204,4
+7,Social Studies,ss,o,sso0304,4
+7,Social Studies,ss,o,sso0404,4
+7,Social Studies,ss,o,sso0504,4
+7,Social Studies,ss,o,sso0604,4
+7,Social Studies,ss,o,sso0704,4
+7,Social Studies,ss,o,sso0804,4
+7,Social Studies,ss,o,sso0904,4
+7,Social Studies,ss,o,sso1004,4
+7,Social Studies,ss,o,sso0105,5
+7,Social Studies,ss,o,sso0205,5
+7,Social Studies,ss,o,sso0110,10
+7,Social Studies,ss,o,sso0210,10
+7,Social Studies,ss,o,sso0310,10
+7,Social Studies,ss,o,sso0410,10
+7,Social Studies,ss,o,sso0510,10
+7,Social Studies,ss,o,sso0610,10
+7,Social Studies,ss,o,sso0710,10
+7,Social Studies,ss,o,sso0810,10
+7,Social Studies,ss,o,sso0910,10
+7,Social Studies,ss,o,sso1010,10
+7,Social Studies,ss,o,sso0120,20
+7,Social Studies,ss,o,sso0220,20
+7,Social Studies,ss,o,sso0320,20
+7,Social Studies,ss,o,sso0420,20
+8,Mathematics,ma,a,maa0101,1
+8,Mathematics,ma,a,maa0201,1
+8,Mathematics,ma,a,maa0301,1
+8,Mathematics,ma,a,maa0401,1
+8,Mathematics,ma,a,maa0102,2
+8,Mathematics,ma,a,maa0202,2
+8,Mathematics,ma,a,maa0302,2
+8,Mathematics,ma,a,maa0402,2
+8,Mathematics,ma,a,maa0502,2
+8,Mathematics,ma,a,maa0602,2
+8,Mathematics,ma,a,maa0702,2
+8,Mathematics,ma,a,maa0104,4
+8,Mathematics,ma,a,maa0204,4
+8,Mathematics,ma,a,maa0304,4
+8,Mathematics,ma,a,maa0404,4
+8,Mathematics,ma,a,maa0504,4
+8,Mathematics,ma,a,maa0604,4
+8,Mathematics,ma,a,maa0704,4
+8,Mathematics,ma,a,maa0804,4
+8,Mathematics,ma,a,maa0904,4
+8,Mathematics,ma,a,maa1004,4
+8,Mathematics,ma,a,maa0105,5
+8,Mathematics,ma,a,maa0205,5
+8,Mathematics,ma,a,maa0110,10
+8,Mathematics,ma,a,maa0210,10
+8,Mathematics,ma,a,maa0310,10
+8,Mathematics,ma,a,maa0410,10
+8,Mathematics,ma,a,maa0120,20
+8,Mathematics,ma,a,maa0220,20
+8,Mathematics,ma,a,maa0320,20
+8,Mathematics,ma,a,maa0420,20
+8,Mathematics,ma,a,maa0520,20
+8,Mathematics,ma,a,maa0620,20
+8,Mathematics,ma,a,maa0720,20
+8,Mathematics,ma,a,maa0820,20
+8,Mathematics,ma,a,maa0920,20
+8,Mathematics,ma,a,maa1020,20
+8,Mathematics,ma,b,mab0101,1
+8,Mathematics,ma,b,mab0201,1
+8,Mathematics,ma,b,mab0301,1
+8,Mathematics,ma,b,mab0401,1
+8,Mathematics,ma,b,mab0501,1
+8,Mathematics,ma,b,mab0601,1
+8,Mathematics,ma,b,mab0701,1
+8,Mathematics,ma,b,mab0801,1
+8,Mathematics,ma,b,mab0102,2
+8,Mathematics,ma,b,mab0202,2
+8,Mathematics,ma,b,mab0302,2
+8,Mathematics,ma,b,mab0402,2
+8,Mathematics,ma,b,mab0502,2
+8,Mathematics,ma,b,mab0104,4
+8,Mathematics,ma,b,mab0204,4
+8,Mathematics,ma,b,mab0304,4
+8,Mathematics,ma,b,mab0404,4
+8,Mathematics,ma,b,mab0105,5
+8,Mathematics,ma,b,mab0205,5
+8,Mathematics,ma,b,mab0305,5
+8,Mathematics,ma,b,mab0405,5
+8,Mathematics,ma,b,mab0505,5
+8,Mathematics,ma,b,mab0605,5
+8,Mathematics,ma,b,mab0705,5
+8,Mathematics,ma,b,mab0805,5
+8,Mathematics,ma,b,mab0905,5
+8,Mathematics,ma,b,mab0110,10
+8,Mathematics,ma,b,mab0210,10
+8,Mathematics,ma,b,mab0310,10
+8,Mathematics,ma,b,mab0410,10
+8,Mathematics,ma,b,mab0510,10
+8,Mathematics,ma,b,mab0120,20
+8,Mathematics,ma,b,mab0220,20
+8,Mathematics,ma,b,mab0320,20
+8,Mathematics,ma,b,mab0420,20
+8,Mathematics,ma,b,mab0520,20
+8,Mathematics,ma,b,mab0620,20
+8,Mathematics,ma,b,mab0720,20
+8,Mathematics,ma,b,mab0820,20
+8,Mathematics,ma,c,mac0101,1
+8,Mathematics,ma,c,mac0201,1
+8,Mathematics,ma,c,mac0301,1
+8,Mathematics,ma,c,mac0401,1
+8,Mathematics,ma,c,mac0501,1
+8,Mathematics,ma,c,mac0601,1
+8,Mathematics,ma,c,mac0701,1
+8,Mathematics,ma,c,mac0801,1
+8,Mathematics,ma,c,mac0901,1
+8,Mathematics,ma,c,mac1001,1
+8,Mathematics,ma,c,mac0102,2
+8,Mathematics,ma,c,mac0202,2
+8,Mathematics,ma,c,mac0302,2
+8,Mathematics,ma,c,mac0402,2
+8,Mathematics,ma,c,mac0502,2
+8,Mathematics,ma,c,mac0602,2
+8,Mathematics,ma,c,mac0104,4
+8,Mathematics,ma,c,mac0204,4
+8,Mathematics,ma,c,mac0304,4
+8,Mathematics,ma,c,mac0404,4
+8,Mathematics,ma,c,mac0504,4
+8,Mathematics,ma,c,mac0105,5
+8,Mathematics,ma,c,mac0205,5
+8,Mathematics,ma,c,mac0110,10
+8,Mathematics,ma,c,mac0210,10
+8,Mathematics,ma,c,mac0310,10
+8,Mathematics,ma,c,mac0410,10
+8,Mathematics,ma,c,mac0120,20
+8,Mathematics,ma,d,mad0101,1
+8,Mathematics,ma,d,mad0201,1
+8,Mathematics,ma,d,mad0301,1
+8,Mathematics,ma,d,mad0401,1
+8,Mathematics,ma,d,mad0501,1
+8,Mathematics,ma,d,mad0601,1
+8,Mathematics,ma,d,mad0701,1
+8,Mathematics,ma,d,mad0801,1
+8,Mathematics,ma,d,mad0102,2
+8,Mathematics,ma,d,mad0202,2
+8,Mathematics,ma,d,mad0302,2
+8,Mathematics,ma,d,mad0402,2
+8,Mathematics,ma,d,mad0502,2
+8,Mathematics,ma,d,mad0602,2
+8,Mathematics,ma,d,mad0702,2
+8,Mathematics,ma,d,mad0802,2
+8,Mathematics,ma,d,mad0902,2
+8,Mathematics,ma,d,mad0104,4
+8,Mathematics,ma,d,mad0204,4
+8,Mathematics,ma,d,mad0304,4
+8,Mathematics,ma,d,mad0404,4
+8,Mathematics,ma,d,mad0504,4
+8,Mathematics,ma,d,mad0604,4
+8,Mathematics,ma,d,mad0704,4
+8,Mathematics,ma,d,mad0804,4
+8,Mathematics,ma,d,mad0904,4
+8,Mathematics,ma,d,mad1004,4
+8,Mathematics,ma,d,mad0105,5
+8,Mathematics,ma,d,mad0205,5
+8,Mathematics,ma,d,mad0305,5
+8,Mathematics,ma,d,mad0405,5
+8,Mathematics,ma,d,mad0505,5
+8,Mathematics,ma,d,mad0605,5
+8,Mathematics,ma,d,mad0110,10
+8,Mathematics,ma,d,mad0210,10
+8,Mathematics,ma,d,mad0120,20
+8,Mathematics,ma,d,mad0220,20
+8,Mathematics,ma,d,mad0320,20
+8,Mathematics,ma,d,mad0420,20
+8,Mathematics,ma,d,mad0520,20
+8,Mathematics,ma,d,mad0620,20
+8,Mathematics,ma,e,mae0101,1
+8,Mathematics,ma,e,mae0201,1
+8,Mathematics,ma,e,mae0102,2
+8,Mathematics,ma,e,mae0202,2
+8,Mathematics,ma,e,mae0302,2
+8,Mathematics,ma,e,mae0402,2
+8,Mathematics,ma,e,mae0104,4
+8,Mathematics,ma,e,mae0105,5
+8,Mathematics,ma,e,mae0205,5
+8,Mathematics,ma,e,mae0305,5
+8,Mathematics,ma,e,mae0405,5
+8,Mathematics,ma,e,mae0505,5
+8,Mathematics,ma,e,mae0605,5
+8,Mathematics,ma,e,mae0705,5
+8,Mathematics,ma,e,mae0805,5
+8,Mathematics,ma,e,mae0905,5
+8,Mathematics,ma,e,mae0110,10
+8,Mathematics,ma,e,mae0210,10
+8,Mathematics,ma,e,mae0310,10
+8,Mathematics,ma,e,mae0120,20
+8,Biology,bs,f,bsf0101,1
+8,Biology,bs,f,bsf0201,1
+8,Biology,bs,f,bsf0301,1
+8,Biology,bs,f,bsf0102,2
+8,Biology,bs,f,bsf0202,2
+8,Biology,bs,f,bsf0302,2
+8,Biology,bs,f,bsf0402,2
+8,Biology,bs,f,bsf0502,2
+8,Biology,bs,f,bsf0602,2
+8,Biology,bs,f,bsf0702,2
+8,Biology,bs,f,bsf0802,2
+8,Biology,bs,f,bsf0902,2
+8,Biology,bs,f,bsf0104,4
+8,Biology,bs,f,bsf0105,5
+8,Biology,bs,f,bsf0205,5
+8,Biology,bs,f,bsf0305,5
+8,Biology,bs,f,bsf0405,5
+8,Biology,bs,f,bsf0505,5
+8,Biology,bs,f,bsf0605,5
+8,Biology,bs,f,bsf0705,5
+8,Biology,bs,f,bsf0805,5
+8,Biology,bs,f,bsf0905,5
+8,Biology,bs,f,bsf0110,10
+8,Biology,bs,f,bsf0210,10
+8,Biology,bs,f,bsf0310,10
+8,Biology,bs,f,bsf0410,10
+8,Biology,bs,f,bsf0510,10
+8,Biology,bs,f,bsf0610,10
+8,Biology,bs,f,bsf0710,10
+8,Biology,bs,f,bsf0120,20
+8,Biology,bs,f,bsf0220,20
+8,Biology,bs,f,bsf0320,20
+8,Biology,bs,f,bsf0420,20
+8,Biology,bs,f,bsf0520,20
+8,Biology,bs,f,bsf0620,20
+8,Biology,bs,f,bsf0720,20
+8,Biology,bs,f,bsf0820,20
+8,Biology,bs,f,bsf0920,20
+8,Biology,bs,g,bsg0101,1
+8,Biology,bs,g,bsg0201,1
+8,Biology,bs,g,bsg0301,1
+8,Biology,bs,g,bsg0401,1
+8,Biology,bs,g,bsg0501,1
+8,Biology,bs,g,bsg0601,1
+8,Biology,bs,g,bsg0701,1
+8,Biology,bs,g,bsg0801,1
+8,Biology,bs,g,bsg0901,1
+8,Biology,bs,g,bsg1001,1
+8,Biology,bs,g,bsg0102,2
+8,Biology,bs,g,bsg0202,2
+8,Biology,bs,g,bsg0302,2
+8,Biology,bs,g,bsg0402,2
+8,Biology,bs,g,bsg0502,2
+8,Biology,bs,g,bsg0602,2
+8,Biology,bs,g,bsg0702,2
+8,Biology,bs,g,bsg0104,4
+8,Biology,bs,g,bsg0204,4
+8,Biology,bs,g,bsg0304,4
+8,Biology,bs,g,bsg0404,4
+8,Biology,bs,g,bsg0504,4
+8,Biology,bs,g,bsg0604,4
+8,Biology,bs,g,bsg0704,4
+8,Biology,bs,g,bsg0105,5
+8,Biology,bs,g,bsg0110,10
+8,Biology,bs,g,bsg0210,10
+8,Biology,bs,g,bsg0310,10
+8,Biology,bs,g,bsg0120,20
+8,Biology,bs,g,bsg0220,20
+8,Biology,bs,h,bsh0101,1
+8,Biology,bs,h,bsh0201,1
+8,Biology,bs,h,bsh0301,1
+8,Biology,bs,h,bsh0401,1
+8,Biology,bs,h,bsh0501,1
+8,Biology,bs,h,bsh0102,2
+8,Biology,bs,h,bsh0202,2
+8,Biology,bs,h,bsh0302,2
+8,Biology,bs,h,bsh0402,2
+8,Biology,bs,h,bsh0502,2
+8,Biology,bs,h,bsh0602,2
+8,Biology,bs,h,bsh0702,2
+8,Biology,bs,h,bsh0104,4
+8,Biology,bs,h,bsh0204,4
+8,Biology,bs,h,bsh0304,4
+8,Biology,bs,h,bsh0404,4
+8,Biology,bs,h,bsh0504,4
+8,Biology,bs,h,bsh0604,4
+8,Biology,bs,h,bsh0704,4
+8,Biology,bs,h,bsh0804,4
+8,Biology,bs,h,bsh0904,4
+8,Biology,bs,h,bsh1004,4
+8,Biology,bs,h,bsh0105,5
+8,Biology,bs,h,bsh0110,10
+8,Biology,bs,h,bsh0210,10
+8,Biology,bs,h,bsh0310,10
+8,Biology,bs,h,bsh0410,10
+8,Biology,bs,h,bsh0510,10
+8,Biology,bs,h,bsh0610,10
+8,Biology,bs,h,bsh0120,20
+8,Biology,bs,i,bsi0101,1
+8,Biology,bs,i,bsi0201,1
+8,Biology,bs,i,bsi0301,1
+8,Biology,bs,i,bsi0401,1
+8,Biology,bs,i,bsi0102,2
+8,Biology,bs,i,bsi0202,2
+8,Biology,bs,i,bsi0302,2
+8,Biology,bs,i,bsi0402,2
+8,Biology,bs,i,bsi0502,2
+8,Biology,bs,i,bsi0602,2
+8,Biology,bs,i,bsi0702,2
+8,Biology,bs,i,bsi0802,2
+8,Biology,bs,i,bsi0902,2
+8,Biology,bs,i,bsi0104,4
+8,Biology,bs,i,bsi0204,4
+8,Biology,bs,i,bsi0304,4
+8,Biology,bs,i,bsi0404,4
+8,Biology,bs,i,bsi0504,4
+8,Biology,bs,i,bsi0604,4
+8,Biology,bs,i,bsi0704,4
+8,Biology,bs,i,bsi0105,5
+8,Biology,bs,i,bsi0205,5
+8,Biology,bs,i,bsi0305,5
+8,Biology,bs,i,bsi0110,10
+8,Biology,bs,i,bsi0210,10
+8,Biology,bs,i,bsi0310,10
+8,Biology,bs,i,bsi0120,20
+8,Biology,bs,i,bsi0220,20
+8,Biology,bs,i,bsi0320,20
+8,Biology,bs,i,bsi0420,20
+8,Biology,bs,i,bsi0520,20
+8,Biology,bs,i,bsi0620,20
+8,Biology,bs,i,bsi0720,20
+8,Biology,bs,j,bsj0101,1
+8,Biology,bs,j,bsj0201,1
+8,Biology,bs,j,bsj0301,1
+8,Biology,bs,j,bsj0102,2
+8,Biology,bs,j,bsj0104,4
+8,Biology,bs,j,bsj0204,4
+8,Biology,bs,j,bsj0304,4
+8,Biology,bs,j,bsj0404,4
+8,Biology,bs,j,bsj0504,4
+8,Biology,bs,j,bsj0604,4
+8,Biology,bs,j,bsj0704,4
+8,Biology,bs,j,bsj0804,4
+8,Biology,bs,j,bsj0105,5
+8,Biology,bs,j,bsj0205,5
+8,Biology,bs,j,bsj0305,5
+8,Biology,bs,j,bsj0405,5
+8,Biology,bs,j,bsj0505,5
+8,Biology,bs,j,bsj0605,5
+8,Biology,bs,j,bsj0110,10
+8,Biology,bs,j,bsj0210,10
+8,Biology,bs,j,bsj0310,10
+8,Biology,bs,j,bsj0410,10
+8,Biology,bs,j,bsj0510,10
+8,Biology,bs,j,bsj0610,10
+8,Biology,bs,j,bsj0710,10
+8,Biology,bs,j,bsj0810,10
+8,Biology,bs,j,bsj0120,20
+8,Biology,bs,j,bsj0220,20
+8,Social Studies,ss,k,ssk0101,1
+8,Social Studies,ss,k,ssk0201,1
+8,Social Studies,ss,k,ssk0301,1
+8,Social Studies,ss,k,ssk0401,1
+8,Social Studies,ss,k,ssk0501,1
+8,Social Studies,ss,k,ssk0601,1
+8,Social Studies,ss,k,ssk0701,1
+8,Social Studies,ss,k,ssk0801,1
+8,Social Studies,ss,k,ssk0901,1
+8,Social Studies,ss,k,ssk0102,2
+8,Social Studies,ss,k,ssk0202,2
+8,Social Studies,ss,k,ssk0302,2
+8,Social Studies,ss,k,ssk0104,4
+8,Social Studies,ss,k,ssk0105,5
+8,Social Studies,ss,k,ssk0110,10
+8,Social Studies,ss,k,ssk0210,10
+8,Social Studies,ss,k,ssk0310,10
+8,Social Studies,ss,k,ssk0120,20
+8,Social Studies,ss,k,ssk0220,20
+8,Social Studies,ss,k,ssk0320,20
+8,Social Studies,ss,k,ssk0420,20
+8,Social Studies,ss,k,ssk0520,20
+8,Social Studies,ss,k,ssk0620,20
+8,Social Studies,ss,k,ssk0720,20
+8,Social Studies,ss,k,ssk0820,20
+8,Social Studies,ss,k,ssk0920,20
+8,Social Studies,ss,k,ssk1020,20
+8,Social Studies,ss,l,ssl0101,1
+8,Social Studies,ss,l,ssl0201,1
+8,Social Studies,ss,l,ssl0301,1
+8,Social Studies,ss,l,ssl0401,1
+8,Social Studies,ss,l,ssl0501,1
+8,Social Studies,ss,l,ssl0601,1
+8,Social Studies,ss,l,ssl0701,1
+8,Social Studies,ss,l,ssl0801,1
+8,Social Studies,ss,l,ssl0901,1
+8,Social Studies,ss,l,ssl0102,2
+8,Social Studies,ss,l,ssl0202,2
+8,Social Studies,ss,l,ssl0302,2
+8,Social Studies,ss,l,ssl0402,2
+8,Social Studies,ss,l,ssl0104,4
+8,Social Studies,ss,l,ssl0204,4
+8,Social Studies,ss,l,ssl0304,4
+8,Social Studies,ss,l,ssl0105,5
+8,Social Studies,ss,l,ssl0205,5
+8,Social Studies,ss,l,ssl0305,5
+8,Social Studies,ss,l,ssl0405,5
+8,Social Studies,ss,l,ssl0505,5
+8,Social Studies,ss,l,ssl0605,5
+8,Social Studies,ss,l,ssl0110,10
+8,Social Studies,ss,l,ssl0120,20
+8,Social Studies,ss,l,ssl0220,20
+8,Social Studies,ss,l,ssl0320,20
+8,Social Studies,ss,l,ssl0420,20
+8,Social Studies,ss,l,ssl0520,20
+8,Social Studies,ss,l,ssl0620,20
+8,Social Studies,ss,l,ssl0720,20
+8,Social Studies,ss,l,ssl0820,20
+8,Social Studies,ss,m,ssm0101,1
+8,Social Studies,ss,m,ssm0201,1
+8,Social Studies,ss,m,ssm0301,1
+8,Social Studies,ss,m,ssm0401,1
+8,Social Studies,ss,m,ssm0501,1
+8,Social Studies,ss,m,ssm0601,1
+8,Social Studies,ss,m,ssm0701,1
+8,Social Studies,ss,m,ssm0102,2
+8,Social Studies,ss,m,ssm0202,2
+8,Social Studies,ss,m,ssm0302,2
+8,Social Studies,ss,m,ssm0402,2
+8,Social Studies,ss,m,ssm0502,2
+8,Social Studies,ss,m,ssm0602,2
+8,Social Studies,ss,m,ssm0702,2
+8,Social Studies,ss,m,ssm0104,4
+8,Social Studies,ss,m,ssm0204,4
+8,Social Studies,ss,m,ssm0304,4
+8,Social Studies,ss,m,ssm0404,4
+8,Social Studies,ss,m,ssm0504,4
+8,Social Studies,ss,m,ssm0604,4
+8,Social Studies,ss,m,ssm0704,4
+8,Social Studies,ss,m,ssm0804,4
+8,Social Studies,ss,m,ssm0904,4
+8,Social Studies,ss,m,ssm1004,4
+8,Social Studies,ss,m,ssm0105,5
+8,Social Studies,ss,m,ssm0205,5
+8,Social Studies,ss,m,ssm0305,5
+8,Social Studies,ss,m,ssm0110,10
+8,Social Studies,ss,m,ssm0210,10
+8,Social Studies,ss,m,ssm0310,10
+8,Social Studies,ss,m,ssm0410,10
+8,Social Studies,ss,m,ssm0510,10
+8,Social Studies,ss,m,ssm0610,10
+8,Social Studies,ss,m,ssm0710,10
+8,Social Studies,ss,m,ssm0810,10
+8,Social Studies,ss,m,ssm0910,10
+8,Social Studies,ss,m,ssm0120,20
+8,Social Studies,ss,m,ssm0220,20
+8,Social Studies,ss,m,ssm0320,20
+8,Social Studies,ss,m,ssm0420,20
+8,Social Studies,ss,m,ssm0520,20
+8,Social Studies,ss,m,ssm0620,20
+8,Social Studies,ss,m,ssm0720,20
+8,Social Studies,ss,m,ssm0820,20
+8,Social Studies,ss,n,ssn0101,1
+8,Social Studies,ss,n,ssn0201,1
+8,Social Studies,ss,n,ssn0301,1
+8,Social Studies,ss,n,ssn0401,1
+8,Social Studies,ss,n,ssn0501,1
+8,Social Studies,ss,n,ssn0601,1
+8,Social Studies,ss,n,ssn0701,1
+8,Social Studies,ss,n,ssn0102,2
+8,Social Studies,ss,n,ssn0202,2
+8,Social Studies,ss,n,ssn0104,4
+8,Social Studies,ss,n,ssn0204,4
+8,Social Studies,ss,n,ssn0304,4
+8,Social Studies,ss,n,ssn0404,4
+8,Social Studies,ss,n,ssn0504,4
+8,Social Studies,ss,n,ssn0105,5
+8,Social Studies,ss,n,ssn0205,5
+8,Social Studies,ss,n,ssn0305,5
+8,Social Studies,ss,n,ssn0405,5
+8,Social Studies,ss,n,ssn0505,5
+8,Social Studies,ss,n,ssn0605,5
+8,Social Studies,ss,n,ssn0705,5
+8,Social Studies,ss,n,ssn0805,5
+8,Social Studies,ss,n,ssn0905,5
+8,Social Studies,ss,n,ssn0110,10
+8,Social Studies,ss,n,ssn0210,10
+8,Social Studies,ss,n,ssn0310,10
+8,Social Studies,ss,n,ssn0410,10
+8,Social Studies,ss,n,ssn0510,10
+8,Social Studies,ss,n,ssn0120,20
+8,Social Studies,ss,n,ssn0220,20
+8,Social Studies,ss,n,ssn0320,20
+8,Social Studies,ss,n,ssn0420,20
+8,Social Studies,ss,o,sso0101,1
+8,Social Studies,ss,o,sso0102,2
+8,Social Studies,ss,o,sso0104,4
+8,Social Studies,ss,o,sso0204,4
+8,Social Studies,ss,o,sso0304,4
+8,Social Studies,ss,o,sso0404,4
+8,Social Studies,ss,o,sso0504,4
+8,Social Studies,ss,o,sso0105,5
+8,Social Studies,ss,o,sso0205,5
+8,Social Studies,ss,o,sso0305,5
+8,Social Studies,ss,o,sso0405,5
+8,Social Studies,ss,o,sso0505,5
+8,Social Studies,ss,o,sso0605,5
+8,Social Studies,ss,o,sso0705,5
+8,Social Studies,ss,o,sso0805,5
+8,Social Studies,ss,o,sso0110,10
+8,Social Studies,ss,o,sso0210,10
+8,Social Studies,ss,o,sso0310,10
+8,Social Studies,ss,o,sso0410,10
+8,Social Studies,ss,o,sso0120,20
+8,Social Studies,ss,o,sso0220,20
+9,Mathematics,ma,a,maa0101,1
+9,Mathematics,ma,a,maa0201,1
+9,Mathematics,ma,a,maa0301,1
+9,Mathematics,ma,a,maa0401,1
+9,Mathematics,ma,a,maa0501,1
+9,Mathematics,ma,a,maa0601,1
+9,Mathematics,ma,a,maa0701,1
+9,Mathematics,ma,a,maa0801,1
+9,Mathematics,ma,a,maa0901,1
+9,Mathematics,ma,a,maa1001,1
+9,Mathematics,ma,a,maa0102,2
+9,Mathematics,ma,a,maa0202,2
+9,Mathematics,ma,a,maa0302,2
+9,Mathematics,ma,a,maa0402,2
+9,Mathematics,ma,a,maa0502,2
+9,Mathematics,ma,a,maa0104,4
+9,Mathematics,ma,a,maa0204,4
+9,Mathematics,ma,a,maa0304,4
+9,Mathematics,ma,a,maa0404,4
+9,Mathematics,ma,a,maa0504,4
+9,Mathematics,ma,a,maa0604,4
+9,Mathematics,ma,a,maa0704,4
+9,Mathematics,ma,a,maa0804,4
+9,Mathematics,ma,a,maa0904,4
+9,Mathematics,ma,a,maa1004,4
+9,Mathematics,ma,a,maa0105,5
+9,Mathematics,ma,a,maa0205,5
+9,Mathematics,ma,a,maa0305,5
+9,Mathematics,ma,a,maa0405,5
+9,Mathematics,ma,a,maa0505,5
+9,Mathematics,ma,a,maa0110,10
+9,Mathematics,ma,a,maa0210,10
+9,Mathematics,ma,a,maa0310,10
+9,Mathematics,ma,a,maa0410,10
+9,Mathematics,ma,a,maa0510,10
+9,Mathematics,ma,a,maa0610,10
+9,Mathematics,ma,a,maa0710,10
+9,Mathematics,ma,a,maa0120,20
+9,Mathematics,ma,a,maa0220,20
+9,Mathematics,ma,a,maa0320,20
+9,Mathematics,ma,a,maa0420,20
+9,Mathematics,ma,a,maa0520,20
+9,Mathematics,ma,a,maa0620,20
+9,Mathematics,ma,a,maa0720,20
+9,Mathematics,ma,a,maa0820,20
+9,Mathematics,ma,a,maa0920,20
+9,Mathematics,ma,a,maa1020,20
+9,Mathematics,ma,b,mab0101,1
+9,Mathematics,ma,b,mab0201,1
+9,Mathematics,ma,b,mab0301,1
+9,Mathematics,ma,b,mab0102,2
+9,Mathematics,ma,b,mab0202,2
+9,Mathematics,ma,b,mab0302,2
+9,Mathematics,ma,b,mab0402,2
+9,Mathematics,ma,b,mab0502,2
+9,Mathematics,ma,b,mab0104,4
+9,Mathematics,ma,b,mab0204,4
+9,Mathematics,ma,b,mab0304,4
+9,Mathematics,ma,b,mab0404,4
+9,Mathematics,ma,b,mab0504,4
+9,Mathematics,ma,b,mab0105,5
+9,Mathematics,ma,b,mab0205,5
+9,Mathematics,ma,b,mab0305,5
+9,Mathematics,ma,b,mab0405,5
+9,Mathematics,ma,b,mab0505,5
+9,Mathematics,ma,b,mab0605,5
+9,Mathematics,ma,b,mab0705,5
+9,Mathematics,ma,b,mab0805,5
+9,Mathematics,ma,b,mab0905,5
+9,Mathematics,ma,b,mab1005,5
+9,Mathematics,ma,b,mab0110,10
+9,Mathematics,ma,b,mab0210,10
+9,Mathematics,ma,b,mab0310,10
+9,Mathematics,ma,b,mab0410,10
+9,Mathematics,ma,b,mab0510,10
+9,Mathematics,ma,b,mab0610,10
+9,Mathematics,ma,b,mab0710,10
+9,Mathematics,ma,b,mab0810,10
+9,Mathematics,ma,b,mab0120,20
+9,Mathematics,ma,b,mab0220,20
+9,Mathematics,ma,b,mab0320,20
+9,Mathematics,ma,c,mac0101,1
+9,Mathematics,ma,c,mac0201,1
+9,Mathematics,ma,c,mac0301,1
+9,Mathematics,ma,c,mac0401,1
+9,Mathematics,ma,c,mac0501,1
+9,Mathematics,ma,c,mac0102,2
+9,Mathematics,ma,c,mac0202,2
+9,Mathematics,ma,c,mac0302,2
+9,Mathematics,ma,c,mac0402,2
+9,Mathematics,ma,c,mac0502,2
+9,Mathematics,ma,c,mac0602,2
+9,Mathematics,ma,c,mac0702,2
+9,Mathematics,ma,c,mac0802,2
+9,Mathematics,ma,c,mac0104,4
+9,Mathematics,ma,c,mac0204,4
+9,Mathematics,ma,c,mac0304,4
+9,Mathematics,ma,c,mac0404,4
+9,Mathematics,ma,c,mac0504,4
+9,Mathematics,ma,c,mac0604,4
+9,Mathematics,ma,c,mac0704,4
+9,Mathematics,ma,c,mac0804,4
+9,Mathematics,ma,c,mac0904,4
+9,Mathematics,ma,c,mac0105,5
+9,Mathematics,ma,c,mac0205,5
+9,Mathematics,ma,c,mac0305,5
+9,Mathematics,ma,c,mac0405,5
+9,Mathematics,ma,c,mac0505,5
+9,Mathematics,ma,c,mac0605,5
+9,Mathematics,ma,c,mac0705,5
+9,Mathematics,ma,c,mac0805,5
+9,Mathematics,ma,c,mac0905,5
+9,Mathematics,ma,c,mac0110,10
+9,Mathematics,ma,c,mac0210,10
+9,Mathematics,ma,c,mac0310,10
+9,Mathematics,ma,c,mac0120,20
+9,Mathematics,ma,c,mac0220,20
+9,Mathematics,ma,c,mac0320,20
+9,Mathematics,ma,c,mac0420,20
+9,Mathematics,ma,c,mac0520,20
+9,Mathematics,ma,d,mad0101,1
+9,Mathematics,ma,d,mad0201,1
+9,Mathematics,ma,d,mad0301,1
+9,Mathematics,ma,d,mad0401,1
+9,Mathematics,ma,d,mad0501,1
+9,Mathematics,ma,d,mad0102,2
+9,Mathematics,ma,d,mad0202,2
+9,Mathematics,ma,d,mad0302,2
+9,Mathematics,ma,d,mad0402,2
+9,Mathematics,ma,d,mad0502,2
+9,Mathematics,ma,d,mad0602,2
+9,Mathematics,ma,d,mad0702,2
+9,Mathematics,ma,d,mad0802,2
+9,Mathematics,ma,d,mad0902,2
+9,Mathematics,ma,d,mad1002,2
+9,Mathematics,ma,d,mad0104,4
+9,Mathematics,ma,d,mad0204,4
+9,Mathematics,ma,d,mad0304,4
+9,Mathematics,ma,d,mad0404,4
+9,Mathematics,ma,d,mad0504,4
+9,Mathematics,ma,d,mad0604,4
+9,Mathematics,ma,d,mad0704,4
+9,Mathematics,ma,d,mad0804,4
+9,Mathematics,ma,d,mad0105,5
+9,Mathematics,ma,d,mad0205,5
+9,Mathematics,ma,d,mad0305,5
+9,Mathematics,ma,d,mad0405,5
+9,Mathematics,ma,d,mad0505,5
+9,Mathematics,ma,d,mad0605,5
+9,Mathematics,ma,d,mad0705,5
+9,Mathematics,ma,d,mad0805,5
+9,Mathematics,ma,d,mad0110,10
+9,Mathematics,ma,d,mad0210,10
+9,Mathematics,ma,d,mad0310,10
+9,Mathematics,ma,d,mad0410,10
+9,Mathematics,ma,d,mad0510,10
+9,Mathematics,ma,d,mad0610,10
+9,Mathematics,ma,d,mad0710,10
+9,Mathematics,ma,d,mad0810,10
+9,Mathematics,ma,d,mad0910,10
+9,Mathematics,ma,d,mad1010,10
+9,Mathematics,ma,d,mad0120,20
+9,Mathematics,ma,d,mad0220,20
+9,Mathematics,ma,d,mad0320,20
+9,Mathematics,ma,d,mad0420,20
+9,Mathematics,ma,d,mad0520,20
+9,Mathematics,ma,d,mad0620,20
+9,Mathematics,ma,d,mad0720,20
+9,Mathematics,ma,d,mad0820,20
+9,Mathematics,ma,e,mae0101,1
+9,Mathematics,ma,e,mae0201,1
+9,Mathematics,ma,e,mae0301,1
+9,Mathematics,ma,e,mae0401,1
+9,Mathematics,ma,e,mae0501,1
+9,Mathematics,ma,e,mae0601,1
+9,Mathematics,ma,e,mae0102,2
+9,Mathematics,ma,e,mae0202,2
+9,Mathematics,ma,e,mae0302,2
+9,Mathematics,ma,e,mae0402,2
+9,Mathematics,ma,e,mae0502,2
+9,Mathematics,ma,e,mae0602,2
+9,Mathematics,ma,e,mae0104,4
+9,Mathematics,ma,e,mae0204,4
+9,Mathematics,ma,e,mae0304,4
+9,Mathematics,ma,e,mae0404,4
+9,Mathematics,ma,e,mae0105,5
+9,Mathematics,ma,e,mae0205,5
+9,Mathematics,ma,e,mae0305,5
+9,Mathematics,ma,e,mae0110,10
+9,Mathematics,ma,e,mae0210,10
+9,Mathematics,ma,e,mae0310,10
+9,Mathematics,ma,e,mae0410,10
+9,Mathematics,ma,e,mae0510,10
+9,Mathematics,ma,e,mae0610,10
+9,Mathematics,ma,e,mae0710,10
+9,Mathematics,ma,e,mae0810,10
+9,Mathematics,ma,e,mae0910,10
+9,Mathematics,ma,e,mae1010,10
+9,Mathematics,ma,e,mae0120,20
+9,Mathematics,ma,e,mae0220,20
+9,Mathematics,ma,e,mae0320,20
+9,Mathematics,ma,e,mae0420,20
+9,Mathematics,ma,e,mae0520,20
+9,Mathematics,ma,e,mae0620,20
+9,Mathematics,ma,e,mae0720,20
+9,Mathematics,ma,e,mae0820,20
+9,Mathematics,ma,e,mae0920,20
+9,Biology,bs,f,bsf0101,1
+9,Biology,bs,f,bsf0201,1
+9,Biology,bs,f,bsf0301,1
+9,Biology,bs,f,bsf0401,1
+9,Biology,bs,f,bsf0501,1
+9,Biology,bs,f,bsf0601,1
+9,Biology,bs,f,bsf0701,1
+9,Biology,bs,f,bsf0801,1
+9,Biology,bs,f,bsf0901,1
+9,Biology,bs,f,bsf0102,2
+9,Biology,bs,f,bsf0202,2
+9,Biology,bs,f,bsf0302,2
+9,Biology,bs,f,bsf0402,2
+9,Biology,bs,f,bsf0502,2
+9,Biology,bs,f,bsf0602,2
+9,Biology,bs,f,bsf0702,2
+9,Biology,bs,f,bsf0104,4
+9,Biology,bs,f,bsf0105,5
+9,Biology,bs,f,bsf0205,5
+9,Biology,bs,f,bsf0305,5
+9,Biology,bs,f,bsf0110,10
+9,Biology,bs,f,bsf0210,10
+9,Biology,bs,f,bsf0310,10
+9,Biology,bs,f,bsf0410,10
+9,Biology,bs,f,bsf0510,10
+9,Biology,bs,f,bsf0610,10
+9,Biology,bs,f,bsf0120,20
+9,Biology,bs,g,bsg0101,1
+9,Biology,bs,g,bsg0201,1
+9,Biology,bs,g,bsg0301,1
+9,Biology,bs,g,bsg0401,1
+9,Biology,bs,g,bsg0501,1
+9,Biology,bs,g,bsg0601,1
+9,Biology,bs,g,bsg0102,2
+9,Biology,bs,g,bsg0202,2
+9,Biology,bs,g,bsg0302,2
+9,Biology,bs,g,bsg0402,2
+9,Biology,bs,g,bsg0104,4
+9,Biology,bs,g,bsg0204,4
+9,Biology,bs,g,bsg0304,4
+9,Biology,bs,g,bsg0404,4
+9,Biology,bs,g,bsg0504,4
+9,Biology,bs,g,bsg0604,4
+9,Biology,bs,g,bsg0704,4
+9,Biology,bs,g,bsg0804,4
+9,Biology,bs,g,bsg0904,4
+9,Biology,bs,g,bsg0105,5
+9,Biology,bs,g,bsg0205,5
+9,Biology,bs,g,bsg0305,5
+9,Biology,bs,g,bsg0405,5
+9,Biology,bs,g,bsg0505,5
+9,Biology,bs,g,bsg0605,5
+9,Biology,bs,g,bsg0110,10
+9,Biology,bs,g,bsg0210,10
+9,Biology,bs,g,bsg0310,10
+9,Biology,bs,g,bsg0410,10
+9,Biology,bs,g,bsg0510,10
+9,Biology,bs,g,bsg0610,10
+9,Biology,bs,g,bsg0710,10
+9,Biology,bs,g,bsg0810,10
+9,Biology,bs,g,bsg0910,10
+9,Biology,bs,g,bsg0120,20
+9,Biology,bs,g,bsg0220,20
+9,Biology,bs,g,bsg0320,20
+9,Biology,bs,g,bsg0420,20
+9,Biology,bs,g,bsg0520,20
+9,Biology,bs,g,bsg0620,20
+9,Biology,bs,g,bsg0720,20
+9,Biology,bs,h,bsh0101,1
+9,Biology,bs,h,bsh0201,1
+9,Biology,bs,h,bsh0301,1
+9,Biology,bs,h,bsh0401,1
+9,Biology,bs,h,bsh0501,1
+9,Biology,bs,h,bsh0601,1
+9,Biology,bs,h,bsh0701,1
+9,Biology,bs,h,bsh0102,2
+9,Biology,bs,h,bsh0202,2
+9,Biology,bs,h,bsh0302,2
+9,Biology,bs,h,bsh0402,2
+9,Biology,bs,h,bsh0104,4
+9,Biology,bs,h,bsh0105,5
+9,Biology,bs,h,bsh0205,5
+9,Biology,bs,h,bsh0305,5
+9,Biology,bs,h,bsh0405,5
+9,Biology,bs,h,bsh0505,5
+9,Biology,bs,h,bsh0605,5
+9,Biology,bs,h,bsh0705,5
+9,Biology,bs,h,bsh0805,5
+9,Biology,bs,h,bsh0110,10
+9,Biology,bs,h,bsh0120,20
+9,Biology,bs,h,bsh0220,20
+9,Biology,bs,h,bsh0320,20
+9,Biology,bs,h,bsh0420,20
+9,Biology,bs,i,bsi0101,1
+9,Biology,bs,i,bsi0201,1
+9,Biology,bs,i,bsi0301,1
+9,Biology,bs,i,bsi0102,2
+9,Biology,bs,i,bsi0202,2
+9,Biology,bs,i,bsi0302,2
+9,Biology,bs,i,bsi0402,2
+9,Biology,bs,i,bsi0502,2
+9,Biology,bs,i,bsi0602,2
+9,Biology,bs,i,bsi0702,2
+9,Biology,bs,i,bsi0802,2
+9,Biology,bs,i,bsi0104,4
+9,Biology,bs,i,bsi0204,4
+9,Biology,bs,i,bsi0304,4
+9,Biology,bs,i,bsi0404,4
+9,Biology,bs,i,bsi0504,4
+9,Biology,bs,i,bsi0604,4
+9,Biology,bs,i,bsi0704,4
+9,Biology,bs,i,bsi0804,4
+9,Biology,bs,i,bsi0904,4
+9,Biology,bs,i,bsi1004,4
+9,Biology,bs,i,bsi0105,5
+9,Biology,bs,i,bsi0205,5
+9,Biology,bs,i,bsi0305,5
+9,Biology,bs,i,bsi0405,5
+9,Biology,bs,i,bsi0505,5
+9,Biology,bs,i,bsi0605,5
+9,Biology,bs,i,bsi0705,5
+9,Biology,bs,i,bsi0805,5
+9,Biology,bs,i,bsi0905,5
+9,Biology,bs,i,bsi0110,10
+9,Biology,bs,i,bsi0210,10
+9,Biology,bs,i,bsi0310,10
+9,Biology,bs,i,bsi0410,10
+9,Biology,bs,i,bsi0510,10
+9,Biology,bs,i,bsi0610,10
+9,Biology,bs,i,bsi0120,20
+9,Biology,bs,i,bsi0220,20
+9,Biology,bs,i,bsi0320,20
+9,Biology,bs,i,bsi0420,20
+9,Biology,bs,i,bsi0520,20
+9,Biology,bs,i,bsi0620,20
+9,Biology,bs,i,bsi0720,20
+9,Biology,bs,j,bsj0101,1
+9,Biology,bs,j,bsj0201,1
+9,Biology,bs,j,bsj0301,1
+9,Biology,bs,j,bsj0401,1
+9,Biology,bs,j,bsj0501,1
+9,Biology,bs,j,bsj0601,1
+9,Biology,bs,j,bsj0701,1
+9,Biology,bs,j,bsj0801,1
+9,Biology,bs,j,bsj0102,2
+9,Biology,bs,j,bsj0202,2
+9,Biology,bs,j,bsj0302,2
+9,Biology,bs,j,bsj0402,2
+9,Biology,bs,j,bsj0104,4
+9,Biology,bs,j,bsj0204,4
+9,Biology,bs,j,bsj0105,5
+9,Biology,bs,j,bsj0110,10
+9,Biology,bs,j,bsj0120,20
+9,Biology,bs,j,bsj0220,20
+9,Biology,bs,j,bsj0320,20
+9,Biology,bs,j,bsj0420,20
+9,Biology,bs,j,bsj0520,20
+9,Biology,bs,j,bsj0620,20
+9,Biology,bs,j,bsj0720,20
+9,Biology,bs,j,bsj0820,20
+9,Biology,bs,j,bsj0920,20
+9,Biology,bs,j,bsj1020,20
+9,Social Studies,ss,k,ssk0101,1
+9,Social Studies,ss,k,ssk0201,1
+9,Social Studies,ss,k,ssk0102,2
+9,Social Studies,ss,k,ssk0202,2
+9,Social Studies,ss,k,ssk0302,2
+9,Social Studies,ss,k,ssk0402,2
+9,Social Studies,ss,k,ssk0502,2
+9,Social Studies,ss,k,ssk0602,2
+9,Social Studies,ss,k,ssk0104,4
+9,Social Studies,ss,k,ssk0204,4
+9,Social Studies,ss,k,ssk0304,4
+9,Social Studies,ss,k,ssk0404,4
+9,Social Studies,ss,k,ssk0105,5
+9,Social Studies,ss,k,ssk0205,5
+9,Social Studies,ss,k,ssk0305,5
+9,Social Studies,ss,k,ssk0405,5
+9,Social Studies,ss,k,ssk0505,5
+9,Social Studies,ss,k,ssk0605,5
+9,Social Studies,ss,k,ssk0110,10
+9,Social Studies,ss,k,ssk0210,10
+9,Social Studies,ss,k,ssk0120,20
+9,Social Studies,ss,k,ssk0220,20
+9,Social Studies,ss,l,ssl0101,1
+9,Social Studies,ss,l,ssl0201,1
+9,Social Studies,ss,l,ssl0301,1
+9,Social Studies,ss,l,ssl0401,1
+9,Social Studies,ss,l,ssl0501,1
+9,Social Studies,ss,l,ssl0102,2
+9,Social Studies,ss,l,ssl0202,2
+9,Social Studies,ss,l,ssl0302,2
+9,Social Studies,ss,l,ssl0402,2
+9,Social Studies,ss,l,ssl0104,4
+9,Social Studies,ss,l,ssl0204,4
+9,Social Studies,ss,l,ssl0304,4
+9,Social Studies,ss,l,ssl0404,4
+9,Social Studies,ss,l,ssl0504,4
+9,Social Studies,ss,l,ssl0105,5
+9,Social Studies,ss,l,ssl0205,5
+9,Social Studies,ss,l,ssl0305,5
+9,Social Studies,ss,l,ssl0405,5
+9,Social Studies,ss,l,ssl0505,5
+9,Social Studies,ss,l,ssl0605,5
+9,Social Studies,ss,l,ssl0705,5
+9,Social Studies,ss,l,ssl0110,10
+9,Social Studies,ss,l,ssl0120,20
+9,Social Studies,ss,l,ssl0220,20
+9,Social Studies,ss,l,ssl0320,20
+9,Social Studies,ss,l,ssl0420,20
+9,Social Studies,ss,l,ssl0520,20
+9,Social Studies,ss,l,ssl0620,20
+9,Social Studies,ss,l,ssl0720,20
+9,Social Studies,ss,m,ssm0101,1
+9,Social Studies,ss,m,ssm0201,1
+9,Social Studies,ss,m,ssm0301,1
+9,Social Studies,ss,m,ssm0401,1
+9,Social Studies,ss,m,ssm0501,1
+9,Social Studies,ss,m,ssm0102,2
+9,Social Studies,ss,m,ssm0202,2
+9,Social Studies,ss,m,ssm0302,2
+9,Social Studies,ss,m,ssm0402,2
+9,Social Studies,ss,m,ssm0502,2
+9,Social Studies,ss,m,ssm0602,2
+9,Social Studies,ss,m,ssm0104,4
+9,Social Studies,ss,m,ssm0204,4
+9,Social Studies,ss,m,ssm0304,4
+9,Social Studies,ss,m,ssm0404,4
+9,Social Studies,ss,m,ssm0504,4
+9,Social Studies,ss,m,ssm0105,5
+9,Social Studies,ss,m,ssm0110,10
+9,Social Studies,ss,m,ssm0210,10
+9,Social Studies,ss,m,ssm0310,10
+9,Social Studies,ss,m,ssm0120,20
+9,Social Studies,ss,m,ssm0220,20
+9,Social Studies,ss,n,ssn0101,1
+9,Social Studies,ss,n,ssn0201,1
+9,Social Studies,ss,n,ssn0102,2
+9,Social Studies,ss,n,ssn0202,2
+9,Social Studies,ss,n,ssn0302,2
+9,Social Studies,ss,n,ssn0104,4
+9,Social Studies,ss,n,ssn0204,4
+9,Social Studies,ss,n,ssn0304,4
+9,Social Studies,ss,n,ssn0404,4
+9,Social Studies,ss,n,ssn0504,4
+9,Social Studies,ss,n,ssn0604,4
+9,Social Studies,ss,n,ssn0704,4
+9,Social Studies,ss,n,ssn0804,4
+9,Social Studies,ss,n,ssn0904,4
+9,Social Studies,ss,n,ssn1004,4
+9,Social Studies,ss,n,ssn0105,5
+9,Social Studies,ss,n,ssn0205,5
+9,Social Studies,ss,n,ssn0305,5
+9,Social Studies,ss,n,ssn0405,5
+9,Social Studies,ss,n,ssn0505,5
+9,Social Studies,ss,n,ssn0110,10
+9,Social Studies,ss,n,ssn0210,10
+9,Social Studies,ss,n,ssn0310,10
+9,Social Studies,ss,n,ssn0410,10
+9,Social Studies,ss,n,ssn0510,10
+9,Social Studies,ss,n,ssn0610,10
+9,Social Studies,ss,n,ssn0710,10
+9,Social Studies,ss,n,ssn0810,10
+9,Social Studies,ss,n,ssn0910,10
+9,Social Studies,ss,n,ssn1010,10
+9,Social Studies,ss,n,ssn0120,20
+9,Social Studies,ss,o,sso0101,1
+9,Social Studies,ss,o,sso0201,1
+9,Social Studies,ss,o,sso0301,1
+9,Social Studies,ss,o,sso0401,1
+9,Social Studies,ss,o,sso0501,1
+9,Social Studies,ss,o,sso0601,1
+9,Social Studies,ss,o,sso0701,1
+9,Social Studies,ss,o,sso0801,1
+9,Social Studies,ss,o,sso0102,2
+9,Social Studies,ss,o,sso0202,2
+9,Social Studies,ss,o,sso0302,2
+9,Social Studies,ss,o,sso0402,2
+9,Social Studies,ss,o,sso0502,2
+9,Social Studies,ss,o,sso0602,2
+9,Social Studies,ss,o,sso0104,4
+9,Social Studies,ss,o,sso0204,4
+9,Social Studies,ss,o,sso0304,4
+9,Social Studies,ss,o,sso0404,4
+9,Social Studies,ss,o,sso0504,4
+9,Social Studies,ss,o,sso0604,4
+9,Social Studies,ss,o,sso0105,5
+9,Social Studies,ss,o,sso0205,5
+9,Social Studies,ss,o,sso0305,5
+9,Social Studies,ss,o,sso0405,5
+9,Social Studies,ss,o,sso0505,5
+9,Social Studies,ss,o,sso0605,5
+9,Social Studies,ss,o,sso0705,5
+9,Social Studies,ss,o,sso0805,5
+9,Social Studies,ss,o,sso0110,10
+9,Social Studies,ss,o,sso0210,10
+9,Social Studies,ss,o,sso0310,10
+9,Social Studies,ss,o,sso0120,20
+9,Social Studies,ss,o,sso0220,20
+9,Social Studies,ss,o,sso0320,20
+9,Social Studies,ss,o,sso0420,20
+9,Social Studies,ss,o,sso0520,20
+9,Social Studies,ss,o,sso0620,20
+10,Mathematics,ma,a,maa0101,1
+10,Mathematics,ma,a,maa0201,1
+10,Mathematics,ma,a,maa0301,1
+10,Mathematics,ma,a,maa0401,1
+10,Mathematics,ma,a,maa0102,2
+10,Mathematics,ma,a,maa0202,2
+10,Mathematics,ma,a,maa0302,2
+10,Mathematics,ma,a,maa0402,2
+10,Mathematics,ma,a,maa0104,4
+10,Mathematics,ma,a,maa0204,4
+10,Mathematics,ma,a,maa0304,4
+10,Mathematics,ma,a,maa0105,5
+10,Mathematics,ma,a,maa0205,5
+10,Mathematics,ma,a,maa0305,5
+10,Mathematics,ma,a,maa0405,5
+10,Mathematics,ma,a,maa0505,5
+10,Mathematics,ma,a,maa0110,10
+10,Mathematics,ma,a,maa0210,10
+10,Mathematics,ma,a,maa0310,10
+10,Mathematics,ma,a,maa0410,10
+10,Mathematics,ma,a,maa0120,20
+10,Mathematics,ma,a,maa0220,20
+10,Mathematics,ma,a,maa0320,20
+10,Mathematics,ma,a,maa0420,20
+10,Mathematics,ma,a,maa0520,20
+10,Mathematics,ma,b,mab0101,1
+10,Mathematics,ma,b,mab0201,1
+10,Mathematics,ma,b,mab0301,1
+10,Mathematics,ma,b,mab0401,1
+10,Mathematics,ma,b,mab0501,1
+10,Mathematics,ma,b,mab0601,1
+10,Mathematics,ma,b,mab0701,1
+10,Mathematics,ma,b,mab0102,2
+10,Mathematics,ma,b,mab0104,4
+10,Mathematics,ma,b,mab0204,4
+10,Mathematics,ma,b,mab0304,4
+10,Mathematics,ma,b,mab0404,4
+10,Mathematics,ma,b,mab0504,4
+10,Mathematics,ma,b,mab0604,4
+10,Mathematics,ma,b,mab0704,4
+10,Mathematics,ma,b,mab0804,4
+10,Mathematics,ma,b,mab0904,4
+10,Mathematics,ma,b,mab1004,4
+10,Mathematics,ma,b,mab0105,5
+10,Mathematics,ma,b,mab0205,5
+10,Mathematics,ma,b,mab0305,5
+10,Mathematics,ma,b,mab0405,5
+10,Mathematics,ma,b,mab0505,5
+10,Mathematics,ma,b,mab0605,5
+10,Mathematics,ma,b,mab0705,5
+10,Mathematics,ma,b,mab0805,5
+10,Mathematics,ma,b,mab0905,5
+10,Mathematics,ma,b,mab1005,5
+10,Mathematics,ma,b,mab0110,10
+10,Mathematics,ma,b,mab0210,10
+10,Mathematics,ma,b,mab0120,20
+10,Mathematics,ma,b,mab0220,20
+10,Mathematics,ma,b,mab0320,20
+10,Mathematics,ma,c,mac0101,1
+10,Mathematics,ma,c,mac0201,1
+10,Mathematics,ma,c,mac0301,1
+10,Mathematics,ma,c,mac0102,2
+10,Mathematics,ma,c,mac0202,2
+10,Mathematics,ma,c,mac0302,2
+10,Mathematics,ma,c,mac0402,2
+10,Mathematics,ma,c,mac0502,2
+10,Mathematics,ma,c,mac0602,2
+10,Mathematics,ma,c,mac0104,4
+10,Mathematics,ma,c,mac0204,4
+10,Mathematics,ma,c,mac0304,4
+10,Mathematics,ma,c,mac0404,4
+10,Mathematics,ma,c,mac0504,4
+10,Mathematics,ma,c,mac0604,4
+10,Mathematics,ma,c,mac0704,4
+10,Mathematics,ma,c,mac0804,4
+10,Mathematics,ma,c,mac0904,4
+10,Mathematics,ma,c,mac0105,5
+10,Mathematics,ma,c,mac0205,5
+10,Mathematics,ma,c,mac0305,5
+10,Mathematics,ma,c,mac0405,5
+10,Mathematics,ma,c,mac0505,5
+10,Mathematics,ma,c,mac0605,5
+10,Mathematics,ma,c,mac0705,5
+10,Mathematics,ma,c,mac0805,5
+10,Mathematics,ma,c,mac0905,5
+10,Mathematics,ma,c,mac1005,5
+10,Mathematics,ma,c,mac0110,10
+10,Mathematics,ma,c,mac0210,10
+10,Mathematics,ma,c,mac0310,10
+10,Mathematics,ma,c,mac0410,10
+10,Mathematics,ma,c,mac0120,20
+10,Mathematics,ma,c,mac0220,20
+10,Mathematics,ma,c,mac0320,20
+10,Mathematics,ma,c,mac0420,20
+10,Mathematics,ma,c,mac0520,20
+10,Mathematics,ma,c,mac0620,20
+10,Mathematics,ma,c,mac0720,20
+10,Mathematics,ma,d,mad0101,1
+10,Mathematics,ma,d,mad0201,1
+10,Mathematics,ma,d,mad0301,1
+10,Mathematics,ma,d,mad0401,1
+10,Mathematics,ma,d,mad0102,2
+10,Mathematics,ma,d,mad0202,2
+10,Mathematics,ma,d,mad0302,2
+10,Mathematics,ma,d,mad0104,4
+10,Mathematics,ma,d,mad0204,4
+10,Mathematics,ma,d,mad0304,4
+10,Mathematics,ma,d,mad0404,4
+10,Mathematics,ma,d,mad0504,4
+10,Mathematics,ma,d,mad0604,4
+10,Mathematics,ma,d,mad0704,4
+10,Mathematics,ma,d,mad0804,4
+10,Mathematics,ma,d,mad0904,4
+10,Mathematics,ma,d,mad1004,4
+10,Mathematics,ma,d,mad0105,5
+10,Mathematics,ma,d,mad0205,5
+10,Mathematics,ma,d,mad0305,5
+10,Mathematics,ma,d,mad0405,5
+10,Mathematics,ma,d,mad0505,5
+10,Mathematics,ma,d,mad0605,5
+10,Mathematics,ma,d,mad0705,5
+10,Mathematics,ma,d,mad0805,5
+10,Mathematics,ma,d,mad0905,5
+10,Mathematics,ma,d,mad0110,10
+10,Mathematics,ma,d,mad0210,10
+10,Mathematics,ma,d,mad0310,10
+10,Mathematics,ma,d,mad0410,10
+10,Mathematics,ma,d,mad0510,10
+10,Mathematics,ma,d,mad0120,20
+10,Mathematics,ma,d,mad0220,20
+10,Mathematics,ma,d,mad0320,20
+10,Mathematics,ma,d,mad0420,20
+10,Mathematics,ma,d,mad0520,20
+10,Mathematics,ma,d,mad0620,20
+10,Mathematics,ma,d,mad0720,20
+10,Mathematics,ma,d,mad0820,20
+10,Mathematics,ma,e,mae0101,1
+10,Mathematics,ma,e,mae0201,1
+10,Mathematics,ma,e,mae0301,1
+10,Mathematics,ma,e,mae0401,1
+10,Mathematics,ma,e,mae0501,1
+10,Mathematics,ma,e,mae0601,1
+10,Mathematics,ma,e,mae0102,2
+10,Mathematics,ma,e,mae0202,2
+10,Mathematics,ma,e,mae0302,2
+10,Mathematics,ma,e,mae0402,2
+10,Mathematics,ma,e,mae0502,2
+10,Mathematics,ma,e,mae0104,4
+10,Mathematics,ma,e,mae0204,4
+10,Mathematics,ma,e,mae0304,4
+10,Mathematics,ma,e,mae0404,4
+10,Mathematics,ma,e,mae0504,4
+10,Mathematics,ma,e,mae0604,4
+10,Mathematics,ma,e,mae0704,4
+10,Mathematics,ma,e,mae0804,4
+10,Mathematics,ma,e,mae0904,4
+10,Mathematics,ma,e,mae1004,4
+10,Mathematics,ma,e,mae0105,5
+10,Mathematics,ma,e,mae0110,10
+10,Mathematics,ma,e,mae0210,10
+10,Mathematics,ma,e,mae0310,10
+10,Mathematics,ma,e,mae0410,10
+10,Mathematics,ma,e,mae0510,10
+10,Mathematics,ma,e,mae0610,10
+10,Mathematics,ma,e,mae0710,10
+10,Mathematics,ma,e,mae0810,10
+10,Mathematics,ma,e,mae0120,20
+10,Mathematics,ma,e,mae0220,20
+10,Mathematics,ma,e,mae0320,20
+10,Mathematics,ma,e,mae0420,20
+10,Mathematics,ma,e,mae0520,20
+10,Mathematics,ma,e,mae0620,20
+10,Mathematics,ma,e,mae0720,20
+10,Biology,bs,f,bsf0101,1
+10,Biology,bs,f,bsf0201,1
+10,Biology,bs,f,bsf0301,1
+10,Biology,bs,f,bsf0102,2
+10,Biology,bs,f,bsf0104,4
+10,Biology,bs,f,bsf0204,4
+10,Biology,bs,f,bsf0304,4
+10,Biology,bs,f,bsf0404,4
+10,Biology,bs,f,bsf0504,4
+10,Biology,bs,f,bsf0604,4
+10,Biology,bs,f,bsf0704,4
+10,Biology,bs,f,bsf0804,4
+10,Biology,bs,f,bsf0904,4
+10,Biology,bs,f,bsf0105,5
+10,Biology,bs,f,bsf0205,5
+10,Biology,bs,f,bsf0305,5
+10,Biology,bs,f,bsf0405,5
+10,Biology,bs,f,bsf0505,5
+10,Biology,bs,f,bsf0605,5
+10,Biology,bs,f,bsf0705,5
+10,Biology,bs,f,bsf0805,5
+10,Biology,bs,f,bsf0110,10
+10,Biology,bs,f,bsf0210,10
+10,Biology,bs,f,bsf0310,10
+10,Biology,bs,f,bsf0410,10
+10,Biology,bs,f,bsf0120,20
+10,Biology,bs,g,bsg0101,1
+10,Biology,bs,g,bsg0102,2
+10,Biology,bs,g,bsg0202,2
+10,Biology,bs,g,bsg0104,4
+10,Biology,bs,g,bsg0204,4
+10,Biology,bs,g,bsg0304,4
+10,Biology,bs,g,bsg0404,4
+10,Biology,bs,g,bsg0105,5
+10,Biology,bs,g,bsg0205,5
+10,Biology,bs,g,bsg0305,5
+10,Biology,bs,g,bsg0405,5
+10,Biology,bs,g,bsg0505,5
+10,Biology,bs,g,bsg0605,5
+10,Biology,bs,g,bsg0705,5
+10,Biology,bs,g,bsg0805,5
+10,Biology,bs,g,bsg0905,5
+10,Biology,bs,g,bsg1005,5
+10,Biology,bs,g,bsg0110,10
+10,Biology,bs,g,bsg0210,10
+10,Biology,bs,g,bsg0310,10
+10,Biology,bs,g,bsg0410,10
+10,Biology,bs,g,bsg0510,10
+10,Biology,bs,g,bsg0610,10
+10,Biology,bs,g,bsg0710,10
+10,Biology,bs,g,bsg0810,10
+10,Biology,bs,g,bsg0120,20
+10,Biology,bs,g,bsg0220,20
+10,Biology,bs,g,bsg0320,20
+10,Biology,bs,g,bsg0420,20
+10,Biology,bs,h,bsh0101,1
+10,Biology,bs,h,bsh0201,1
+10,Biology,bs,h,bsh0301,1
+10,Biology,bs,h,bsh0401,1
+10,Biology,bs,h,bsh0501,1
+10,Biology,bs,h,bsh0601,1
+10,Biology,bs,h,bsh0701,1
+10,Biology,bs,h,bsh0801,1
+10,Biology,bs,h,bsh0102,2
+10,Biology,bs,h,bsh0202,2
+10,Biology,bs,h,bsh0302,2
+10,Biology,bs,h,bsh0402,2
+10,Biology,bs,h,bsh0502,2
+10,Biology,bs,h,bsh0602,2
+10,Biology,bs,h,bsh0702,2
+10,Biology,bs,h,bsh0104,4
+10,Biology,bs,h,bsh0204,4
+10,Biology,bs,h,bsh0304,4
+10,Biology,bs,h,bsh0404,4
+10,Biology,bs,h,bsh0504,4
+10,Biology,bs,h,bsh0105,5
+10,Biology,bs,h,bsh0205,5
+10,Biology,bs,h,bsh0305,5
+10,Biology,bs,h,bsh0405,5
+10,Biology,bs,h,bsh0505,5
+10,Biology,bs,h,bsh0605,5
+10,Biology,bs,h,bsh0705,5
+10,Biology,bs,h,bsh0110,10
+10,Biology,bs,h,bsh0210,10
+10,Biology,bs,h,bsh0310,10
+10,Biology,bs,h,bsh0120,20
+10,Biology,bs,h,bsh0220,20
+10,Biology,bs,h,bsh0320,20
+10,Biology,bs,h,bsh0420,20
+10,Biology,bs,h,bsh0520,20
+10,Biology,bs,h,bsh0620,20
+10,Biology,bs,h,bsh0720,20
+10,Biology,bs,i,bsi0101,1
+10,Biology,bs,i,bsi0201,1
+10,Biology,bs,i,bsi0301,1
+10,Biology,bs,i,bsi0401,1
+10,Biology,bs,i,bsi0501,1
+10,Biology,bs,i,bsi0102,2
+10,Biology,bs,i,bsi0202,2
+10,Biology,bs,i,bsi0302,2
+10,Biology,bs,i,bsi0402,2
+10,Biology,bs,i,bsi0502,2
+10,Biology,bs,i,bsi0602,2
+10,Biology,bs,i,bsi0104,4
+10,Biology,bs,i,bsi0204,4
+10,Biology,bs,i,bsi0304,4
+10,Biology,bs,i,bsi0105,5
+10,Biology,bs,i,bsi0205,5
+10,Biology,bs,i,bsi0305,5
+10,Biology,bs,i,bsi0405,5
+10,Biology,bs,i,bsi0505,5
+10,Biology,bs,i,bsi0605,5
+10,Biology,bs,i,bsi0705,5
+10,Biology,bs,i,bsi0805,5
+10,Biology,bs,i,bsi0905,5
+10,Biology,bs,i,bsi1005,5
+10,Biology,bs,i,bsi0110,10
+10,Biology,bs,i,bsi0210,10
+10,Biology,bs,i,bsi0310,10
+10,Biology,bs,i,bsi0410,10
+10,Biology,bs,i,bsi0510,10
+10,Biology,bs,i,bsi0610,10
+10,Biology,bs,i,bsi0710,10
+10,Biology,bs,i,bsi0810,10
+10,Biology,bs,i,bsi0120,20
+10,Biology,bs,i,bsi0220,20
+10,Biology,bs,i,bsi0320,20
+10,Biology,bs,i,bsi0420,20
+10,Biology,bs,i,bsi0520,20
+10,Biology,bs,i,bsi0620,20
+10,Biology,bs,i,bsi0720,20
+10,Biology,bs,i,bsi0820,20
+10,Biology,bs,i,bsi0920,20
+10,Biology,bs,j,bsj0101,1
+10,Biology,bs,j,bsj0201,1
+10,Biology,bs,j,bsj0301,1
+10,Biology,bs,j,bsj0401,1
+10,Biology,bs,j,bsj0501,1
+10,Biology,bs,j,bsj0102,2
+10,Biology,bs,j,bsj0202,2
+10,Biology,bs,j,bsj0302,2
+10,Biology,bs,j,bsj0104,4
+10,Biology,bs,j,bsj0204,4
+10,Biology,bs,j,bsj0304,4
+10,Biology,bs,j,bsj0404,4
+10,Biology,bs,j,bsj0105,5
+10,Biology,bs,j,bsj0205,5
+10,Biology,bs,j,bsj0305,5
+10,Biology,bs,j,bsj0405,5
+10,Biology,bs,j,bsj0505,5
+10,Biology,bs,j,bsj0605,5
+10,Biology,bs,j,bsj0705,5
+10,Biology,bs,j,bsj0805,5
+10,Biology,bs,j,bsj0905,5
+10,Biology,bs,j,bsj0110,10
+10,Biology,bs,j,bsj0210,10
+10,Biology,bs,j,bsj0310,10
+10,Biology,bs,j,bsj0410,10
+10,Biology,bs,j,bsj0510,10
+10,Biology,bs,j,bsj0610,10
+10,Biology,bs,j,bsj0710,10
+10,Biology,bs,j,bsj0810,10
+10,Biology,bs,j,bsj0120,20
+10,Biology,bs,j,bsj0220,20
+10,Biology,bs,j,bsj0320,20
+10,Biology,bs,j,bsj0420,20
+10,Biology,bs,j,bsj0520,20
+10,Biology,bs,j,bsj0620,20
+10,Biology,bs,j,bsj0720,20
+10,Biology,bs,j,bsj0820,20
+10,Biology,bs,j,bsj0920,20
+10,Biology,bs,j,bsj1020,20
+10,Social Studies,ss,k,ssk0101,1
+10,Social Studies,ss,k,ssk0102,2
+10,Social Studies,ss,k,ssk0202,2
+10,Social Studies,ss,k,ssk0302,2
+10,Social Studies,ss,k,ssk0402,2
+10,Social Studies,ss,k,ssk0502,2
+10,Social Studies,ss,k,ssk0602,2
+10,Social Studies,ss,k,ssk0702,2
+10,Social Studies,ss,k,ssk0104,4
+10,Social Studies,ss,k,ssk0204,4
+10,Social Studies,ss,k,ssk0304,4
+10,Social Studies,ss,k,ssk0404,4
+10,Social Studies,ss,k,ssk0504,4
+10,Social Studies,ss,k,ssk0604,4
+10,Social Studies,ss,k,ssk0704,4
+10,Social Studies,ss,k,ssk0804,4
+10,Social Studies,ss,k,ssk0904,4
+10,Social Studies,ss,k,ssk1004,4
+10,Social Studies,ss,k,ssk0105,5
+10,Social Studies,ss,k,ssk0205,5
+10,Social Studies,ss,k,ssk0305,5
+10,Social Studies,ss,k,ssk0405,5
+10,Social Studies,ss,k,ssk0505,5
+10,Social Studies,ss,k,ssk0605,5
+10,Social Studies,ss,k,ssk0705,5
+10,Social Studies,ss,k,ssk0805,5
+10,Social Studies,ss,k,ssk0110,10
+10,Social Studies,ss,k,ssk0210,10
+10,Social Studies,ss,k,ssk0310,10
+10,Social Studies,ss,k,ssk0410,10
+10,Social Studies,ss,k,ssk0510,10
+10,Social Studies,ss,k,ssk0610,10
+10,Social Studies,ss,k,ssk0710,10
+10,Social Studies,ss,k,ssk0120,20
+10,Social Studies,ss,k,ssk0220,20
+10,Social Studies,ss,k,ssk0320,20
+10,Social Studies,ss,l,ssl0101,1
+10,Social Studies,ss,l,ssl0201,1
+10,Social Studies,ss,l,ssl0102,2
+10,Social Studies,ss,l,ssl0104,4
+10,Social Studies,ss,l,ssl0204,4
+10,Social Studies,ss,l,ssl0304,4
+10,Social Studies,ss,l,ssl0404,4
+10,Social Studies,ss,l,ssl0504,4
+10,Social Studies,ss,l,ssl0604,4
+10,Social Studies,ss,l,ssl0704,4
+10,Social Studies,ss,l,ssl0105,5
+10,Social Studies,ss,l,ssl0110,10
+10,Social Studies,ss,l,ssl0210,10
+10,Social Studies,ss,l,ssl0310,10
+10,Social Studies,ss,l,ssl0410,10
+10,Social Studies,ss,l,ssl0510,10
+10,Social Studies,ss,l,ssl0610,10
+10,Social Studies,ss,l,ssl0710,10
+10,Social Studies,ss,l,ssl0810,10
+10,Social Studies,ss,l,ssl0120,20
+10,Social Studies,ss,l,ssl0220,20
+10,Social Studies,ss,l,ssl0320,20
+10,Social Studies,ss,l,ssl0420,20
+10,Social Studies,ss,l,ssl0520,20
+10,Social Studies,ss,l,ssl0620,20
+10,Social Studies,ss,l,ssl0720,20
+10,Social Studies,ss,l,ssl0820,20
+10,Social Studies,ss,m,ssm0101,1
+10,Social Studies,ss,m,ssm0201,1
+10,Social Studies,ss,m,ssm0301,1
+10,Social Studies,ss,m,ssm0401,1
+10,Social Studies,ss,m,ssm0501,1
+10,Social Studies,ss,m,ssm0601,1
+10,Social Studies,ss,m,ssm0701,1
+10,Social Studies,ss,m,ssm0102,2
+10,Social Studies,ss,m,ssm0202,2
+10,Social Studies,ss,m,ssm0302,2
+10,Social Studies,ss,m,ssm0402,2
+10,Social Studies,ss,m,ssm0502,2
+10,Social Studies,ss,m,ssm0104,4
+10,Social Studies,ss,m,ssm0204,4
+10,Social Studies,ss,m,ssm0304,4
+10,Social Studies,ss,m,ssm0404,4
+10,Social Studies,ss,m,ssm0504,4
+10,Social Studies,ss,m,ssm0604,4
+10,Social Studies,ss,m,ssm0704,4
+10,Social Studies,ss,m,ssm0804,4
+10,Social Studies,ss,m,ssm0105,5
+10,Social Studies,ss,m,ssm0205,5
+10,Social Studies,ss,m,ssm0305,5
+10,Social Studies,ss,m,ssm0405,5
+10,Social Studies,ss,m,ssm0505,5
+10,Social Studies,ss,m,ssm0605,5
+10,Social Studies,ss,m,ssm0705,5
+10,Social Studies,ss,m,ssm0110,10
+10,Social Studies,ss,m,ssm0210,10
+10,Social Studies,ss,m,ssm0310,10
+10,Social Studies,ss,m,ssm0410,10
+10,Social Studies,ss,m,ssm0510,10
+10,Social Studies,ss,m,ssm0610,10
+10,Social Studies,ss,m,ssm0710,10
+10,Social Studies,ss,m,ssm0120,20
+10,Social Studies,ss,m,ssm0220,20
+10,Social Studies,ss,m,ssm0320,20
+10,Social Studies,ss,m,ssm0420,20
+10,Social Studies,ss,m,ssm0520,20
+10,Social Studies,ss,m,ssm0620,20
+10,Social Studies,ss,m,ssm0720,20
+10,Social Studies,ss,m,ssm0820,20
+10,Social Studies,ss,n,ssn0101,1
+10,Social Studies,ss,n,ssn0201,1
+10,Social Studies,ss,n,ssn0301,1
+10,Social Studies,ss,n,ssn0401,1
+10,Social Studies,ss,n,ssn0501,1
+10,Social Studies,ss,n,ssn0601,1
+10,Social Studies,ss,n,ssn0701,1
+10,Social Studies,ss,n,ssn0102,2
+10,Social Studies,ss,n,ssn0202,2
+10,Social Studies,ss,n,ssn0302,2
+10,Social Studies,ss,n,ssn0402,2
+10,Social Studies,ss,n,ssn0104,4
+10,Social Studies,ss,n,ssn0204,4
+10,Social Studies,ss,n,ssn0105,5
+10,Social Studies,ss,n,ssn0205,5
+10,Social Studies,ss,n,ssn0305,5
+10,Social Studies,ss,n,ssn0405,5
+10,Social Studies,ss,n,ssn0505,5
+10,Social Studies,ss,n,ssn0605,5
+10,Social Studies,ss,n,ssn0705,5
+10,Social Studies,ss,n,ssn0805,5
+10,Social Studies,ss,n,ssn0110,10
+10,Social Studies,ss,n,ssn0210,10
+10,Social Studies,ss,n,ssn0120,20
+10,Social Studies,ss,n,ssn0220,20
+10,Social Studies,ss,n,ssn0320,20
+10,Social Studies,ss,o,sso0101,1
+10,Social Studies,ss,o,sso0102,2
+10,Social Studies,ss,o,sso0202,2
+10,Social Studies,ss,o,sso0302,2
+10,Social Studies,ss,o,sso0104,4
+10,Social Studies,ss,o,sso0204,4
+10,Social Studies,ss,o,sso0304,4
+10,Social Studies,ss,o,sso0404,4
+10,Social Studies,ss,o,sso0504,4
+10,Social Studies,ss,o,sso0604,4
+10,Social Studies,ss,o,sso0704,4
+10,Social Studies,ss,o,sso0105,5
+10,Social Studies,ss,o,sso0205,5
+10,Social Studies,ss,o,sso0305,5
+10,Social Studies,ss,o,sso0405,5
+10,Social Studies,ss,o,sso0110,10
+10,Social Studies,ss,o,sso0210,10
+10,Social Studies,ss,o,sso0310,10
+10,Social Studies,ss,o,sso0120,20

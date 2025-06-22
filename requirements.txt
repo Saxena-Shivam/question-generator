@@ -1,0 +1,5 @@
+pymongo
+streamlit
+openai
+groq
+python-dotenv

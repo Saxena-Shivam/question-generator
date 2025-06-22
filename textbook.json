@@ -1,0 +1,2224 @@
+[
+  {
+    "class": 6,
+    "subject": "Mathematics",
+    "code": "ma",
+    "topics": [
+      {
+        "topic": "a",
+        "questions": {
+          "True/False": [
+            {
+              "question": "The sum of 5 and 7 is 12.",
+              "answer": "True"
+            },
+            {
+              "question": "9 × 6 = 54.",
+              "answer": "True"
+            },
+            {
+              "question": "15 - 8 = 6.",
+              "answer": "False"
+            },
+            {
+              "question": "100 ÷ 4 = 25.",
+              "answer": "True"
+            },
+            {
+              "question": "7 squared is 49.",
+              "answer": "True"
+            },
+            {
+              "question": "The product of 0 and any number is 1.",
+              "answer": "False"
+            },
+            {
+              "question": "24 ÷ 3 = 7.",
+              "answer": "False"
+            },
+            {
+              "question": "3/4 is greater than 1/2.",
+              "answer": "True"
+            },
+            {
+              "question": "All even numbers are divisible by 2.",
+              "answer": "True"
+            },
+            {
+              "question": "The square root of 16 is 5.",
+              "answer": "False"
+            }
+          ],
+          "Fill in the blank": [
+            {
+              "question": "15 divided by 3 equals ___.",
+              "answer": "5"
+            },
+            {
+              "question": "The product of 6 and 7 is ___.",
+              "answer": "42"
+            },
+            {
+              "question": "12 + ___ = 20.",
+              "answer": "8"
+            },
+            {
+              "question": "25 - ___ = 17.",
+              "answer": "8"
+            },
+            {
+              "question": "3 × ___ = 27.",
+              "answer": "9"
+            },
+            {
+              "question": "___ ÷ 4 = 6.",
+              "answer": "24"
+            },
+            {
+              "question": "The square of 5 is ___.",
+              "answer": "25"
+            },
+            {
+              "question": "1/2 + 1/4 = ___.",
+              "answer": "3/4"
+            },
+            {
+              "question": "0.5 × 10 = ___.",
+              "answer": "5"
+            },
+            {
+              "question": "The next prime number after 7 is ___.",
+              "answer": "11"
+            }
+          ],
+          "MCQ": [
+            {
+              "question": "What is 8 × 9?",
+              "options": ["72", "64", "81", "56"],
+              "answer": "72"
+            },
+            {
+              "question": "Which is the smallest even prime number?",
+              "options": ["0", "1", "2", "4"],
+              "answer": "2"
+            },
+            {
+              "question": "What is 144 ÷ 12?",
+              "options": ["10", "11", "12", "13"],
+              "answer": "12"
+            },
+            {
+              "question": "Which fraction is equivalent to 0.5?",
+              "options": ["1/3", "1/2", "2/3", "3/4"],
+              "answer": "1/2"
+            },
+            {
+              "question": "What is the sum of the angles in a triangle?",
+              "options": ["90°", "180°", "270°", "360°"],
+              "answer": "180°"
+            },
+            {
+              "question": "Which of these is a multiple of 9?",
+              "options": ["18", "28", "38", "48"],
+              "answer": "18"
+            },
+            {
+              "question": "What is the value of π (pi) to two decimal places?",
+              "options": ["3.12", "3.14", "3.16", "3.18"],
+              "answer": "3.14"
+            },
+            {
+              "question": "Which of these numbers is a perfect square?",
+              "options": ["20", "25", "30", "35"],
+              "answer": "25"
+            },
+            {
+              "question": "What is the Roman numeral for 50?",
+              "options": ["X", "L", "C", "D"],
+              "answer": "L"
+            },
+            {
+              "question": "Which operation should be performed first in: 3 + 5 × 2?",
+              "options": [
+                "Addition",
+                "Subtraction",
+                "Multiplication",
+                "Division"
+              ],
+              "answer": "Multiplication"
+            }
+          ]
+        }
+      },
+      {
+        "topic": "b",
+        "questions": {
+          "True/False": [
+            {
+              "question": "1/2 is greater than 1/3.",
+              "answer": "True"
+            },
+            {
+              "question": "2/4 simplified is 1/2.",
+              "answer": "True"
+            },
+            {
+              "question": "3/5 is less than 1/2.",
+              "answer": "False"
+            },
+            {
+              "question": "5/10 is equal to 0.5.",
+              "answer": "True"
+            },
+            {
+              "question": "1/4 + 1/4 = 1/2.",
+              "answer": "True"
+            },
+            {
+              "question": "All fractions are less than 1.",
+              "answer": "False"
+            },
+            {
+              "question": "3/7 is a proper fraction.",
+              "answer": "True"
+            },
+            {
+              "question": "7/4 is an improper fraction.",
+              "answer": "True"
+            },
+            {
+              "question": "1/8 is greater than 1/6.",
+              "answer": "False"
+            },
+            {
+              "question": "Mixed numbers contain a whole number and a fraction.",
+              "answer": "True"
+            }
+          ],
+          "Fill in the blank": [
+            {
+              "question": "1/4 + 1/4 = ___.",
+              "answer": "1/2"
+            },
+            {
+              "question": "3/5 × 1/2 = ___.",
+              "answer": "3/10"
+            },
+            {
+              "question": "1 - 2/5 = ___.",
+              "answer": "3/5"
+            },
+            {
+              "question": "2/3 of 12 is ___.",
+              "answer": "8"
+            },
+            {
+              "question": "The reciprocal of 3/4 is ___.",
+              "answer": "4/3"
+            },
+            {
+              "question": "5/6 - 1/3 = ___.",
+              "answer": "1/2"
+            },
+            {
+              "question": "1/2 × 1/3 = ___.",
+              "answer": "1/6"
+            },
+            {
+              "question": "3 ÷ 1/4 = ___.",
+              "answer": "12"
+            },
+            {
+              "question": "The mixed number for 7/3 is ___.",
+              "answer": "2 1/3"
+            },
+            {
+              "question": "0.75 as a fraction is ___.",
+              "answer": "3/4"
+            }
+          ],
+          "MCQ": [
+            {
+              "question": "Which fraction is equivalent to 0.5?",
+              "options": ["1/4", "1/2", "2/3", "3/4"],
+              "answer": "1/2"
+            },
+            {
+              "question": "Which of these fractions is smallest?",
+              "options": ["1/3", "1/4", "1/5", "1/6"],
+              "answer": "1/6"
+            },
+            {
+              "question": "What is 1/2 + 1/8?",
+              "options": ["5/8", "3/4", "1/10", "2/10"],
+              "answer": "5/8"
+            },
+            {
+              "question": "Which is a proper fraction?",
+              "options": ["5/4", "3/2", "3/4", "7/3"],
+              "answer": "3/4"
+            },
+            {
+              "question": "What is 2/3 ÷ 4/5?",
+              "options": ["5/6", "8/15", "6/5", "10/12"],
+              "answer": "5/6"
+            },
+            {
+              "question": "Which fraction is greater than 1?",
+              "options": ["3/4", "5/6", "7/8", "9/8"],
+              "answer": "9/8"
+            },
+            {
+              "question": "What is the decimal for 3/5?",
+              "options": ["0.3", "0.5", "0.6", "0.8"],
+              "answer": "0.6"
+            },
+            {
+              "question": "Which is the mixed number for 11/4?",
+              "options": ["2 3/4", "3 1/4", "2 1/4", "1 3/4"],
+              "answer": "2 3/4"
+            },
+            {
+              "question": "What is 1/3 of 21?",
+              "options": ["6", "7", "8", "9"],
+              "answer": "7"
+            },
+            {
+              "question": "Which operation is performed first: 1/2 + 1/4 × 1/3?",
+              "options": [
+                "Addition",
+                "Subtraction",
+                "Multiplication",
+                "Division"
+              ],
+              "answer": "Multiplication"
+            }
+          ]
+        }
+      },
+      {
+        "topic": "c",
+        "questions": {
+          "True/False": [
+            {
+              "question": "A square has 4 equal sides.",
+              "answer": "True"
+            },
+            {
+              "question": "All rectangles are squares.",
+              "answer": "False"
+            },
+            {
+              "question": "A triangle has 3 sides and 3 angles.",
+              "answer": "True"
+            },
+            {
+              "question": "A circle has 0 sides.",
+              "answer": "True"
+            },
+            {
+              "question": "Parallel lines never meet.",
+              "answer": "True"
+            },
+            {
+              "question": "A right angle measures exactly 90 degrees.",
+              "answer": "True"
+            },
+            {
+              "question": "All quadrilaterals have 4 right angles.",
+              "answer": "False"
+            },
+            {
+              "question": "The diameter of a circle is twice its radius.",
+              "answer": "True"
+            },
+            {
+              "question": "An acute angle is greater than 90 degrees.",
+              "answer": "False"
+            },
+            {
+              "question": "A pentagon has 6 sides.",
+              "answer": "False"
+            }
+          ],
+          "Fill in the blank": [
+            {
+              "question": "A triangle with all sides equal is called ___ triangle.",
+              "answer": "equilateral"
+            },
+            {
+              "question": "The sum of angles in a quadrilateral is ___ degrees.",
+              "answer": "360"
+            },
+            {
+              "question": "A ___ angle measures between 90 and 180 degrees.",
+              "answer": "obtuse"
+            },
+            {
+              "question": "A 5-sided polygon is called a ___.",
+              "answer": "pentagon"
+            },
+            {
+              "question": "The distance around a circle is called its ___.",
+              "answer": "circumference"
+            },
+            {
+              "question": "A ___ triangle has two sides equal.",
+              "answer": "isosceles"
+            },
+            {
+              "question": "Lines that intersect at right angles are ___.",
+              "answer": "perpendicular"
+            },
+            {
+              "question": "A ___ has one pair of parallel sides.",
+              "answer": "trapezoid"
+            },
+            {
+              "question": "The space inside a shape is called its ___.",
+              "answer": "area"
+            },
+            {
+              "question": "π (pi) is approximately equal to ___.",
+              "answer": "3.14"
+            }
+          ],
+          "MCQ": [
+            {
+              "question": "How many degrees are in a right angle?",
+              "options": ["45", "90", "180", "360"],
+              "answer": "90"
+            },
+            {
+              "question": "Which shape has 6 equal sides?",
+              "options": ["Square", "Pentagon", "Hexagon", "Octagon"],
+              "answer": "Hexagon"
+            },
+            {
+              "question": "What is the perimeter of a square with side 5 cm?",
+              "options": ["10 cm", "15 cm", "20 cm", "25 cm"],
+              "answer": "20 cm"
+            },
+            {
+              "question": "Which triangle has all angles less than 90°?",
+              "options": ["Right", "Obtuse", "Acute", "Equilateral"],
+              "answer": "Acute"
+            },
+            {
+              "question": "What is the area of a rectangle 6 cm by 4 cm?",
+              "options": ["10 cm²", "20 cm²", "24 cm²", "28 cm²"],
+              "answer": "24 cm²"
+            },
+            {
+              "question": "Which is NOT a quadrilateral?",
+              "options": ["Square", "Rhombus", "Triangle", "Rectangle"],
+              "answer": "Triangle"
+            },
+            {
+              "question": "How many sides does a decagon have?",
+              "options": ["8", "10", "12", "15"],
+              "answer": "10"
+            },
+            {
+              "question": "What is the diameter of a circle with radius 7 cm?",
+              "options": ["7 cm", "14 cm", "21 cm", "28 cm"],
+              "answer": "14 cm"
+            },
+            {
+              "question": "Which angle is 180°?",
+              "options": ["Acute", "Right", "Obtuse", "Straight"],
+              "answer": "Straight"
+            },
+            {
+              "question": "What is the circumference of a circle with diameter 10 cm? (π=3.14)",
+              "options": ["15.7 cm", "31.4 cm", "62.8 cm", "78.5 cm"],
+              "answer": "31.4 cm"
+            }
+          ]
+        }
+      },
+      {
+        "topic": "d",
+        "questions": {
+          "True/False": [
+            {
+              "question": "0.5 is equal to 1/2.",
+              "answer": "True"
+            },
+            {
+              "question": "0.25 × 4 = 1.",
+              "answer": "True"
+            },
+            {
+              "question": "0.3 is greater than 0.30.",
+              "answer": "False"
+            },
+            {
+              "question": "0.75 is equivalent to 3/4.",
+              "answer": "True"
+            },
+            {
+              "question": "0.1 + 0.2 = 0.3.",
+              "answer": "True"
+            },
+            {
+              "question": "0.9 is less than 0.89.",
+              "answer": "False"
+            },
+            {
+              "question": "2.5 is a decimal number.",
+              "answer": "True"
+            },
+            {
+              "question": "0.333... is equal to 1/3.",
+              "answer": "True"
+            },
+            {
+              "question": "0.50 is greater than 0.5.",
+              "answer": "False"
+            },
+            {
+              "question": "Decimals can be converted to fractions.",
+              "answer": "True"
+            }
+          ],
+          "Fill in the blank": [
+            {
+              "question": "0.25 × 4 = ___.",
+              "answer": "1"
+            },
+            {
+              "question": "0.5 + 0.3 = ___.",
+              "answer": "0.8"
+            },
+            {
+              "question": "1.2 - 0.7 = ___.",
+              "answer": "0.5"
+            },
+            {
+              "question": "0.75 as a fraction is ___.",
+              "answer": "3/4"
+            },
+            {
+              "question": "0.1 × 0.1 = ___.",
+              "answer": "0.01"
+            },
+            {
+              "question": "2.5 ÷ 0.5 = ___.",
+              "answer": "5"
+            },
+            {
+              "question": "The decimal for 1/5 is ___.",
+              "answer": "0.2"
+            },
+            {
+              "question": "0.9 - ___ = 0.4.",
+              "answer": "0.5"
+            },
+            {
+              "question": "3.6 ÷ 6 = ___.",
+              "answer": "0.6"
+            },
+            {
+              "question": "0.008 × 100 = ___.",
+              "answer": "0.8"
+            }
+          ],
+          "MCQ": [
+            {
+              "question": "Which decimal is equal to 3/4?",
+              "options": ["0.25", "0.5", "0.75", "1.0"],
+              "answer": "0.75"
+            },
+            {
+              "question": "What is 0.5 × 0.2?",
+              "options": ["0.1", "0.7", "1.0", "0.01"],
+              "answer": "0.1"
+            },
+            {
+              "question": "Which is the largest decimal?",
+              "options": ["0.09", "0.9", "0.19", "0.91"],
+              "answer": "0.91"
+            },
+            {
+              "question": "What is 0.25 + 0.75?",
+              "options": ["0.50", "1.00", "1.50", "0.100"],
+              "answer": "1.00"
+            },
+            {
+              "question": "Which fraction equals 0.125?",
+              "options": ["1/8", "1/4", "1/2", "1/3"],
+              "answer": "1/8"
+            },
+            {
+              "question": "What is 1.5 ÷ 0.5?",
+              "options": ["0.3", "3", "30", "0.03"],
+              "answer": "3"
+            },
+            {
+              "question": "Which decimal represents 7/10?",
+              "options": ["0.07", "0.7", "7.0", "70"],
+              "answer": "0.7"
+            },
+            {
+              "question": "What is 0.9 × 10?",
+              "options": ["0.09", "9", "90", "0.9"],
+              "answer": "9"
+            },
+            {
+              "question": "Which is the smallest decimal?",
+              "options": ["0.5", "0.05", "0.55", "0.005"],
+              "answer": "0.005"
+            },
+            {
+              "question": "What is 0.333... as a fraction?",
+              "options": ["1/2", "1/3", "1/4", "1/5"],
+              "answer": "1/3"
+            }
+          ]
+        }
+      },
+      {
+        "topic": "e",
+        "questions": {
+          "True/False": [
+            {
+              "question": "1 kilometer equals 1000 meters.",
+              "answer": "True"
+            },
+            {
+              "question": "1 liter is equal to 100 milliliters.",
+              "answer": "False"
+            },
+            {
+              "question": "1 kilogram is heavier than 1 pound.",
+              "answer": "True"
+            },
+            {
+              "question": "There are 100 centimeters in 1 meter.",
+              "answer": "True"
+            },
+            {
+              "question": "Temperature is measured in grams.",
+              "answer": "False"
+            },
+            {
+              "question": "1 week has 7 days.",
+              "answer": "True"
+            },
+            {
+              "question": "1 hour equals 60 seconds.",
+              "answer": "False"
+            },
+            {
+              "question": "Area is measured in square units.",
+              "answer": "True"
+            },
+            {
+              "question": "Volume is measured in liters or cubic centimeters.",
+              "answer": "True"
+            },
+            {
+              "question": "1 ton equals 1000 kilograms.",
+              "answer": "True"
+            }
+          ],
+          "Fill in the blank": [
+            {
+              "question": "1 meter = ___ centimeters.",
+              "answer": "100"
+            },
+            {
+              "question": "1 kilogram = ___ grams.",
+              "answer": "1000"
+            },
+            {
+              "question": "1 liter = ___ milliliters.",
+              "answer": "1000"
+            },
+            {
+              "question": "1 hour = ___ minutes.",
+              "answer": "60"
+            },
+            {
+              "question": "1 week = ___ days.",
+              "answer": "7"
+            },
+            {
+              "question": "1 year = ___ months.",
+              "answer": "12"
+            },
+            {
+              "question": "1 century = ___ years.",
+              "answer": "100"
+            },
+            {
+              "question": "1 foot = ___ inches.",
+              "answer": "12"
+            },
+            {
+              "question": "1 gallon = ___ quarts.",
+              "answer": "4"
+            },
+            {
+              "question": "1 ton = ___ pounds.",
+              "answer": "2000"
+            }
+          ],
+          "MCQ": [
+            {
+              "question": "Which is the longest?",
+              "options": [
+                "1 meter",
+                "100 centimeters",
+                "1000 millimeters",
+                "All are equal"
+              ],
+              "answer": "All are equal"
+            },
+            {
+              "question": "How many milliliters in 2 liters?",
+              "options": ["20", "200", "2000", "20000"],
+              "answer": "2000"
+            },
+            {
+              "question": "Which unit measures weight?",
+              "options": ["Liter", "Meter", "Gram", "Second"],
+              "answer": "Gram"
+            },
+            {
+              "question": "How many centimeters in 3 meters?",
+              "options": ["30", "300", "3000", "30000"],
+              "answer": "300"
+            },
+            {
+              "question": "What is the basic unit of length in metric system?",
+              "options": ["Gram", "Liter", "Meter", "Second"],
+              "answer": "Meter"
+            },
+            {
+              "question": "How many seconds in 5 minutes?",
+              "options": ["50", "300", "500", "3000"],
+              "answer": "300"
+            },
+            {
+              "question": "Which is the heaviest?",
+              "options": ["1 kg", "2 lbs", "1000 g", "All equal"],
+              "answer": "All equal"
+            },
+            {
+              "question": "What is the area of a 5 cm × 4 cm rectangle?",
+              "options": ["9 cm²", "18 cm²", "20 cm²", "25 cm²"],
+              "answer": "20 cm²"
+            },
+            {
+              "question": "How many months in 2.5 years?",
+              "options": ["25", "30", "35", "40"],
+              "answer": "30"
+            },
+            {
+              "question": "Which is a unit of volume?",
+              "options": ["Kilogram", "Liter", "Meter", "Celsius"],
+              "answer": "Liter"
+            }
+          ]
+        }
+      }
+    ]
+  },
+
+  {
+    "class": 6,
+    "subject": "Biology",
+    "code": "bs",
+    "topics": [
+      {
+        "topic": "f",
+        "questions": {
+          "True/False": [
+            {
+              "question": "All living things are made of cells.",
+              "answer": "True"
+            },
+            {
+              "question": "Plants can move from one place to another.",
+              "answer": "False"
+            },
+            {
+              "question": "Animals breathe in oxygen and breathe out carbon dioxide.",
+              "answer": "True"
+            },
+            {
+              "question": "The heart is part of the digestive system.",
+              "answer": "False"
+            },
+            {
+              "question": "Roots absorb water and minerals from the soil.",
+              "answer": "True"
+            },
+            {
+              "question": "All bacteria are harmful to humans.",
+              "answer": "False"
+            },
+            {
+              "question": "Leaves are the food factories of plants.",
+              "answer": "True"
+            },
+            {
+              "question": "The brain is part of the nervous system.",
+              "answer": "True"
+            },
+            {
+              "question": "All animals have bones.",
+              "answer": "False"
+            },
+            {
+              "question": "Fungi are plants.",
+              "answer": "False"
+            }
+          ],
+          "Fill in the blank": [
+            {
+              "question": "The process by which plants make food is called ___.",
+              "answer": "photosynthesis"
+            },
+            {
+              "question": "The green pigment in leaves is called ___.",
+              "answer": "chlorophyll"
+            },
+            {
+              "question": "Humans have ___ bones in their body.",
+              "answer": "206"
+            },
+            {
+              "question": "The largest organ of the human body is the ___.",
+              "answer": "skin"
+            },
+            {
+              "question": "The liquid part of blood is called ___.",
+              "answer": "plasma"
+            },
+            {
+              "question": "The ___ system helps the body to move.",
+              "answer": "muscular"
+            },
+            {
+              "question": "The ___ pumps blood throughout the body.",
+              "answer": "heart"
+            },
+            {
+              "question": "The process of breathing in is called ___.",
+              "answer": "inhalation"
+            },
+            {
+              "question": "The ___ is the control center of the body.",
+              "answer": "brain"
+            },
+            {
+              "question": "The ___ system breaks down food for energy.",
+              "answer": "digestive"
+            }
+          ],
+          "MCQ": [
+            {
+              "question": "Which of these is NOT a plant?",
+              "options": ["Fern", "Mushroom", "Rose", "Oak"],
+              "answer": "Mushroom"
+            },
+            {
+              "question": "Which organ pumps blood?",
+              "options": ["Liver", "Heart", "Lung", "Kidney"],
+              "answer": "Heart"
+            },
+            {
+              "question": "Which gas do plants absorb during photosynthesis?",
+              "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+              "answer": "Carbon dioxide"
+            },
+            {
+              "question": "Which of these is a vertebrate?",
+              "options": ["Spider", "Earthworm", "Fish", "Jellyfish"],
+              "answer": "Fish"
+            },
+            {
+              "question": "Which part of the plant absorbs water?",
+              "options": ["Leaves", "Stem", "Roots", "Flowers"],
+              "answer": "Roots"
+            },
+            {
+              "question": "Which of these is NOT a sense organ?",
+              "options": ["Eyes", "Ears", "Liver", "Nose"],
+              "answer": "Liver"
+            },
+            {
+              "question": "Which system protects the body from diseases?",
+              "options": ["Digestive", "Respiratory", "Immune", "Nervous"],
+              "answer": "Immune"
+            },
+            {
+              "question": "Which of these is a mammal?",
+              "options": ["Shark", "Frog", "Whale", "Snake"],
+              "answer": "Whale"
+            },
+            {
+              "question": "Which gas do humans breathe out?",
+              "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+              "answer": "Carbon dioxide"
+            },
+            {
+              "question": "Which of these is the smallest unit of life?",
+              "options": ["Organ", "Tissue", "Cell", "Molecule"],
+              "answer": "Cell"
+            }
+          ]
+        }
+      },
+      {
+        "topic": "g",
+        "questions": {
+          "True/False": [
+            {
+              "question": "The skeletal system provides structure to the body.",
+              "answer": "True"
+            },
+            {
+              "question": "The lungs are part of the circulatory system.",
+              "answer": "False"
+            },
+            {
+              "question": "The small intestine is longer than the large intestine.",
+              "answer": "True"
+            },
+            {
+              "question": "The brain is part of the nervous system.",
+              "answer": "True"
+            },
+            {
+              "question": "The heart has four chambers.",
+              "answer": "True"
+            },
+            {
+              "question": "The skin is the largest organ of the body.",
+              "answer": "True"
+            },
+            {
+              "question": "The liver produces bile for digestion.",
+              "answer": "True"
+            },
+            {
+              "question": "The kidneys filter blood.",
+              "answer": "True"
+            },
+            {
+              "question": "The stomach is the main organ for nutrient absorption.",
+              "answer": "False"
+            },
+            {
+              "question": "Muscles work in pairs to move bones.",
+              "answer": "True"
+            }
+          ],
+          "Fill in the blank": [
+            {
+              "question": "The ___ system transports blood throughout the body.",
+              "answer": "circulatory"
+            },
+            {
+              "question": "The ___ is the control center of the nervous system.",
+              "answer": "brain"
+            },
+            {
+              "question": "The ___ system breaks down food into nutrients.",
+              "answer": "digestive"
+            },
+            {
+              "question": "The ___ are the main organs of respiration.",
+              "answer": "lungs"
+            },
+            {
+              "question": "The ___ system provides support and protection.",
+              "answer": "skeletal"
+            },
+            {
+              "question": "The ___ produces insulin to regulate blood sugar.",
+              "answer": "pancreas"
+            },
+            {
+              "question": "The ___ filters waste from the blood.",
+              "answer": "kidneys"
+            },
+            {
+              "question": "The ___ system protects the body from pathogens.",
+              "answer": "immune"
+            },
+            {
+              "question": "The ___ is the largest part of the brain.",
+              "answer": "cerebrum"
+            },
+            {
+              "question": "The ___ connects the mouth to the stomach.",
+              "answer": "esophagus"
+            }
+          ],
+          "MCQ": [
+            {
+              "question": "Which system includes the heart and blood vessels?",
+              "options": ["Nervous", "Circulatory", "Respiratory", "Digestive"],
+              "answer": "Circulatory"
+            },
+            {
+              "question": "Which organ produces bile?",
+              "options": ["Pancreas", "Liver", "Stomach", "Kidney"],
+              "answer": "Liver"
+            },
+            {
+              "question": "Where does most nutrient absorption occur?",
+              "options": [
+                "Stomach",
+                "Small intestine",
+                "Large intestine",
+                "Liver"
+              ],
+              "answer": "Small intestine"
+            },
+            {
+              "question": "Which part of the blood carries oxygen?",
+              "options": [
+                "Plasma",
+                "White blood cells",
+                "Platelets",
+                "Red blood cells"
+              ],
+              "answer": "Red blood cells"
+            },
+            {
+              "question": "Which system removes waste from the body?",
+              "options": ["Digestive", "Excretory", "Respiratory", "Nervous"],
+              "answer": "Excretory"
+            },
+            {
+              "question": "Which is NOT a function of the skeletal system?",
+              "options": ["Support", "Movement", "Protection", "Digestion"],
+              "answer": "Digestion"
+            },
+            {
+              "question": "Which organ pumps blood?",
+              "options": ["Lung", "Liver", "Heart", "Kidney"],
+              "answer": "Heart"
+            },
+            {
+              "question": "Which system controls all body functions?",
+              "options": ["Circulatory", "Nervous", "Respiratory", "Muscular"],
+              "answer": "Nervous"
+            },
+            {
+              "question": "Where are red blood cells produced?",
+              "options": ["Heart", "Liver", "Bone marrow", "Lungs"],
+              "answer": "Bone marrow"
+            },
+            {
+              "question": "Which part of the brain controls balance?",
+              "options": ["Cerebrum", "Cerebellum", "Medulla", "Spinal cord"],
+              "answer": "Cerebellum"
+            }
+          ]
+        }
+      },
+      {
+        "topic": "h",
+        "questions": {
+          "True/False": [
+            {
+              "question": "Plants produce oxygen during photosynthesis.",
+              "answer": "True"
+            },
+            {
+              "question": "All plants have flowers.",
+              "answer": "False"
+            },
+            {
+              "question": "Roots absorb water and minerals from the soil.",
+              "answer": "True"
+            },
+            {
+              "question": "Leaves are the main site of photosynthesis.",
+              "answer": "True"
+            },
+            {
+              "question": "Plants take in carbon dioxide at night.",
+              "answer": "False"
+            },
+            {
+              "question": "The stem transports water and nutrients.",
+              "answer": "True"
+            },
+            {
+              "question": "All plants reproduce using seeds.",
+              "answer": "False"
+            },
+            {
+              "question": "Chlorophyll gives leaves their green color.",
+              "answer": "True"
+            },
+            {
+              "question": "Plants need sunlight to make food.",
+              "answer": "True"
+            },
+            {
+              "question": "Ferns reproduce using spores.",
+              "answer": "True"
+            }
+          ],
+          "Fill in the blank": [
+            {
+              "question": "The process by which plants make food is called ___.",
+              "answer": "photosynthesis"
+            },
+            {
+              "question": "The green pigment in plant cells is called ___.",
+              "answer": "chlorophyll"
+            },
+            {
+              "question": "Plants take in ___ dioxide during photosynthesis.",
+              "answer": "carbon"
+            },
+            {
+              "question": "Water moves up the plant through the ___ vessels.",
+              "answer": "xylem"
+            },
+            {
+              "question": "Food moves through the plant in the ___ vessels.",
+              "answer": "phloem"
+            },
+            {
+              "question": "The male part of the flower is called the ___.",
+              "answer": "stamen"
+            },
+            {
+              "question": "The female part of the flower is called the ___.",
+              "answer": "pistil"
+            },
+            {
+              "question": "Plants release ___ as a byproduct of photosynthesis.",
+              "answer": "oxygen"
+            },
+            {
+              "question": "The ___ anchors the plant and absorbs water.",
+              "answer": "root"
+            },
+            {
+              "question": "___ are tiny openings on leaves for gas exchange.",
+              "answer": "Stomata"
+            }
+          ],
+          "MCQ": [
+            {
+              "question": "Which part of the plant makes food?",
+              "options": ["Root", "Stem", "Leaf", "Flower"],
+              "answer": "Leaf"
+            },
+            {
+              "question": "What gas do plants absorb for photosynthesis?",
+              "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+              "answer": "Carbon dioxide"
+            },
+            {
+              "question": "Which is NOT needed for photosynthesis?",
+              "options": ["Sunlight", "Water", "Oxygen", "Carbon dioxide"],
+              "answer": "Oxygen"
+            },
+            {
+              "question": "Which part transports water in plants?",
+              "options": ["Phloem", "Xylem", "Stomata", "Chloroplast"],
+              "answer": "Xylem"
+            },
+            {
+              "question": "Which plant reproduces by spores?",
+              "options": ["Rose", "Fern", "Oak", "Sunflower"],
+              "answer": "Fern"
+            },
+            {
+              "question": "What is the function of roots?",
+              "options": [
+                "Make food",
+                "Absorb water",
+                "Produce oxygen",
+                "Attract pollinators"
+              ],
+              "answer": "Absorb water"
+            },
+            {
+              "question": "Which part of the flower produces pollen?",
+              "options": ["Pistil", "Stamen", "Petals", "Sepals"],
+              "answer": "Stamen"
+            },
+            {
+              "question": "What is the main product of photosynthesis?",
+              "options": ["Oxygen", "Carbon dioxide", "Glucose", "Water"],
+              "answer": "Glucose"
+            },
+            {
+              "question": "Which plant part supports the leaves and flowers?",
+              "options": ["Root", "Stem", "Leaf", "Flower"],
+              "answer": "Stem"
+            },
+            {
+              "question": "Where does most photosynthesis occur?",
+              "options": ["Roots", "Stems", "Leaves", "Flowers"],
+              "answer": "Leaves"
+            }
+          ]
+        }
+      },
+      {
+        "topic": "i",
+        "questions": {
+          "True/False": [
+            {
+              "question": "Mammals have hair or fur.",
+              "answer": "True"
+            },
+            {
+              "question": "All birds can fly.",
+              "answer": "False"
+            },
+            {
+              "question": "Fish breathe through gills.",
+              "answer": "True"
+            },
+            {
+              "question": "Reptiles are warm-blooded.",
+              "answer": "False"
+            },
+            {
+              "question": "Amphibians live both on land and in water.",
+              "answer": "True"
+            },
+            {
+              "question": "All insects have six legs.",
+              "answer": "True"
+            },
+            {
+              "question": "Spiders are insects.",
+              "answer": "False"
+            },
+            {
+              "question": "Whales are mammals.",
+              "answer": "True"
+            },
+            {
+              "question": "Bats are the only flying mammals.",
+              "answer": "True"
+            },
+            {
+              "question": "All vertebrates have a backbone.",
+              "answer": "True"
+            }
+          ],
+          "Fill in the blank": [
+            {
+              "question": "Animals with backbones are called ___.",
+              "answer": "vertebrates"
+            },
+            {
+              "question": "___ are warm-blooded vertebrates with feathers.",
+              "answer": "Birds"
+            },
+            {
+              "question": "Fish breathe using ___.",
+              "answer": "gills"
+            },
+            {
+              "question": "___ are animals that live both on land and in water.",
+              "answer": "Amphibians"
+            },
+            {
+              "question": "The largest animal group is ___.",
+              "answer": "insects"
+            },
+            {
+              "question": "___ are cold-blooded vertebrates with scales.",
+              "answer": "Reptiles"
+            },
+            {
+              "question": "Mammals feed their young with ___.",
+              "answer": "milk"
+            },
+            {
+              "question": "The scientific study of animals is called ___.",
+              "answer": "zoology"
+            },
+            {
+              "question": "___ are invertebrates with eight legs.",
+              "answer": "Spiders"
+            },
+            {
+              "question": "The fastest land animal is the ___.",
+              "answer": "cheetah"
+            }
+          ],
+          "MCQ": [
+            {
+              "question": "Which is NOT a mammal?",
+              "options": ["Whale", "Bat", "Penguin", "Dolphin"],
+              "answer": "Penguin"
+            },
+            {
+              "question": "Which animal is cold-blooded?",
+              "options": ["Lion", "Eagle", "Frog", "Whale"],
+              "answer": "Frog"
+            },
+            {
+              "question": "How many legs do insects have?",
+              "options": ["4", "6", "8", "10"],
+              "answer": "6"
+            },
+            {
+              "question": "Which is a vertebrate?",
+              "options": ["Jellyfish", "Snail", "Fish", "Spider"],
+              "answer": "Fish"
+            },
+            {
+              "question": "Which bird cannot fly?",
+              "options": ["Eagle", "Penguin", "Sparrow", "Pigeon"],
+              "answer": "Penguin"
+            },
+            {
+              "question": "Which is NOT an insect?",
+              "options": ["Ant", "Spider", "Bee", "Grasshopper"],
+              "answer": "Spider"
+            },
+            {
+              "question": "Which animal is a marsupial?",
+              "options": ["Kangaroo", "Elephant", "Lion", "Giraffe"],
+              "answer": "Kangaroo"
+            },
+            {
+              "question": "What covers a fish's body?",
+              "options": ["Fur", "Feathers", "Scales", "Skin"],
+              "answer": "Scales"
+            },
+            {
+              "question": "Which is an amphibian?",
+              "options": ["Lizard", "Frog", "Snake", "Turtle"],
+              "answer": "Frog"
+            },
+            {
+              "question": "Which animal breathes through lungs?",
+              "options": ["Fish", "Frog", "Shark", "Tadpole"],
+              "answer": "Frog"
+            }
+          ]
+        }
+      },
+      {
+        "topic": "j",
+        "questions": {
+          "True/False": [
+            {
+              "question": "A habitat is where an organism lives.",
+              "answer": "True"
+            },
+            {
+              "question": "All ecosystems are the same size.",
+              "answer": "False"
+            },
+            {
+              "question": "Producers make their own food.",
+              "answer": "True"
+            },
+            {
+              "question": "Humans are always at the top of food chains.",
+              "answer": "False"
+            },
+            {
+              "question": "Decomposers break down dead organisms.",
+              "answer": "True"
+            },
+            {
+              "question": "A food web shows multiple food chains.",
+              "answer": "True"
+            },
+            {
+              "question": "All energy in an ecosystem comes from the sun.",
+              "answer": "True"
+            },
+            {
+              "question": "Predators are always larger than their prey.",
+              "answer": "False"
+            },
+            {
+              "question": "Plants are primary consumers.",
+              "answer": "False"
+            },
+            {
+              "question": "Biodiversity refers to variety of life.",
+              "answer": "True"
+            }
+          ],
+          "Fill in the blank": [
+            {
+              "question": "Plants are ___ in the food chain.",
+              "answer": "producers"
+            },
+            {
+              "question": "Animals that eat plants are called ___.",
+              "answer": "herbivores"
+            },
+            {
+              "question": "___ break down dead organisms.",
+              "answer": "Decomposers"
+            },
+            {
+              "question": "A ___ shows energy flow in an ecosystem.",
+              "answer": "food chain"
+            },
+            {
+              "question": "The place where an organism lives is its ___.",
+              "answer": "habitat"
+            },
+            {
+              "question": "Animals that eat other animals are ___.",
+              "answer": "carnivores"
+            },
+            {
+              "question": "All energy in an ecosystem comes from the ___.",
+              "answer": "sun"
+            },
+            {
+              "question": "Animals that eat both plants and animals are ___.",
+              "answer": "omnivores"
+            },
+            {
+              "question": "A ___ consists of all living and non-living things in an area.",
+              "answer": "ecosystem"
+            },
+            {
+              "question": "The variety of life in an area is called ___.",
+              "answer": "biodiversity"
+            }
+          ],
+          "MCQ": [
+            {
+              "question": "Which is a producer?",
+              "options": ["Rabbit", "Grass", "Fox", "Mushroom"],
+              "answer": "Grass"
+            },
+            {
+              "question": "What do arrows in a food chain represent?",
+              "options": ["Size", "Energy flow", "Age", "Color"],
+              "answer": "Energy flow"
+            },
+            {
+              "question": "Which is a decomposer?",
+              "options": ["Lion", "Tree", "Fungus", "Eagle"],
+              "answer": "Fungus"
+            },
+            {
+              "question": "What is the original source of energy in most ecosystems?",
+              "options": ["Water", "Soil", "Sun", "Air"],
+              "answer": "Sun"
+            },
+            {
+              "question": "Which is a herbivore?",
+              "options": ["Lion", "Cow", "Human", "Hawk"],
+              "answer": "Cow"
+            },
+            {
+              "question": "What do carnivores eat?",
+              "options": ["Plants", "Animals", "Both", "Neither"],
+              "answer": "Animals"
+            },
+            {
+              "question": "Which shows multiple food chains?",
+              "options": ["Food web", "Habitat", "Ecosystem", "Population"],
+              "answer": "Food web"
+            },
+            {
+              "question": "What breaks down dead organisms?",
+              "options": ["Producers", "Consumers", "Decomposers", "Predators"],
+              "answer": "Decomposers"
+            },
+            {
+              "question": "Which is NOT part of an ecosystem?",
+              "options": ["Plants", "Animals", "Rocks", "Buildings"],
+              "answer": "Buildings"
+            },
+            {
+              "question": "What is biodiversity?",
+              "options": [
+                "One type of plant",
+                "Variety of life",
+                "Only animals",
+                "Only plants"
+              ],
+              "answer": "Variety of life"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "class": 6,
+    "subject": "Social Studies",
+    "code": "ss",
+    "topics": [
+      {
+        "topic": "k",
+        "questions": {
+          "True/False": [
+            {
+              "question": "The Indus Valley Civilization was located in India.",
+              "answer": "True"
+            },
+            {
+              "question": "Ancient Egyptians built the Great Wall of China.",
+              "answer": "False"
+            },
+            {
+              "question": "The Roman Empire was centered around Rome.",
+              "answer": "True"
+            },
+            {
+              "question": "The Mayan civilization was in Africa.",
+              "answer": "False"
+            },
+            {
+              "question": "The Silk Road connected China to Europe.",
+              "answer": "True"
+            },
+            {
+              "question": "The pyramids were built as tombs for pharaohs.",
+              "answer": "True"
+            },
+            {
+              "question": "The ancient Greeks invented democracy.",
+              "answer": "True"
+            },
+            {
+              "question": "The Chinese invented paper.",
+              "answer": "True"
+            },
+            {
+              "question": "The Vikings came from Australia.",
+              "answer": "False"
+            },
+            {
+              "question": "The Harappan civilization had well-planned cities.",
+              "answer": "True"
+            }
+          ],
+          "Fill in the blank": [
+            {
+              "question": "The writing system of ancient Egypt was called ___.",
+              "answer": "Hieroglyphics"
+            },
+            {
+              "question": "The ancient Olympic Games began in ___.",
+              "answer": "Greece"
+            },
+            {
+              "question": "The Great Pyramid is located at ___.",
+              "answer": "Giza"
+            },
+            {
+              "question": "The ancient Mesopotamian civilization developed between the Tigris and ___ rivers.",
+              "answer": "Euphrates"
+            },
+            {
+              "question": "The first emperor of China was ___.",
+              "answer": "Qin Shi Huang"
+            },
+            {
+              "question": "The ancient Indian civilization is called the ___ civilization.",
+              "answer": "Indus Valley"
+            },
+            {
+              "question": "The Roman emperor who converted to Christianity was ___.",
+              "answer": "Constantine"
+            },
+            {
+              "question": "The ancient Chinese built the ___ to protect their empire.",
+              "answer": "Great Wall"
+            },
+            {
+              "question": "The ancient Mayans developed a system of writing using ___.",
+              "answer": "glyphs"
+            },
+            {
+              "question": "The ancient city of Rome was founded in ___ BCE.",
+              "answer": "753"
+            }
+          ],
+          "MCQ": [
+            {
+              "question": "Which river was central to Mesopotamian civilization?",
+              "options": ["Tigris", "Nile", "Indus", "Yellow River"],
+              "answer": "Tigris"
+            },
+            {
+              "question": "Which civilization built the pyramids?",
+              "options": ["Greek", "Egyptian", "Roman", "Chinese"],
+              "answer": "Egyptian"
+            },
+            {
+              "question": "Which ancient civilization developed democracy?",
+              "options": ["Egypt", "Greece", "Rome", "China"],
+              "answer": "Greece"
+            },
+            {
+              "question": "Which was the capital of the Roman Empire?",
+              "options": ["Athens", "Alexandria", "Rome", "Constantinople"],
+              "answer": "Rome"
+            },
+            {
+              "question": "Which civilization invented paper?",
+              "options": ["Egyptian", "Greek", "Chinese", "Indian"],
+              "answer": "Chinese"
+            },
+            {
+              "question": "Which ancient civilization had a caste system?",
+              "options": ["Egyptian", "Greek", "Indian", "Roman"],
+              "answer": "Indian"
+            },
+            {
+              "question": "Which civilization built Machu Picchu?",
+              "options": ["Aztec", "Maya", "Inca", "Olmec"],
+              "answer": "Inca"
+            },
+            {
+              "question": "Which ancient civilization used cuneiform writing?",
+              "options": ["Egypt", "Mesopotamia", "China", "Greece"],
+              "answer": "Mesopotamia"
+            },
+            {
+              "question": "Which ancient civilization worshipped Zeus?",
+              "options": ["Egyptian", "Greek", "Roman", "Norse"],
+              "answer": "Greek"
+            },
+            {
+              "question": "Which was the main crop of ancient Egyptians?",
+              "options": ["Wheat", "Rice", "Corn", "Potatoes"],
+              "answer": "Wheat"
+            }
+          ]
+        }
+      },
+      {
+        "topic": "l",
+        "questions": {
+          "True/False": [
+            {
+              "question": "The Delhi Sultanate ruled parts of India.",
+              "answer": "True"
+            },
+            {
+              "question": "Akbar was a Mughal emperor.",
+              "answer": "True"
+            },
+            {
+              "question": "The Vijayanagara Empire was in South India.",
+              "answer": "True"
+            },
+            {
+              "question": "The Bhakti movement rejected all religions.",
+              "answer": "False"
+            },
+            {
+              "question": "Chola kings built great temples.",
+              "answer": "True"
+            },
+            {
+              "question": "Sher Shah Suri built the Grand Trunk Road.",
+              "answer": "True"
+            },
+            {
+              "question": "All Mughal emperors were Muslim.",
+              "answer": "True"
+            },
+            {
+              "question": "Rajputs were warrior clans of North India.",
+              "answer": "True"
+            },
+            {
+              "question": "The Mughal Empire began in 1206.",
+              "answer": "False"
+            },
+            {
+              "question": "Fatehpur Sikri was built by Akbar.",
+              "answer": "True"
+            }
+          ],
+          "Fill in the blank": [
+            {
+              "question": "The capital of Akbar was ___.",
+              "answer": "Fatehpur Sikri"
+            },
+            {
+              "question": "The ___ Sultanate ruled North India from 1206.",
+              "answer": "Delhi"
+            },
+            {
+              "question": "The ___ Empire was founded by Babur.",
+              "answer": "Mughal"
+            },
+            {
+              "question": "The ___ movement emphasized devotion to God.",
+              "answer": "Bhakti"
+            },
+            {
+              "question": "The ___ built the Brihadeeswarar Temple.",
+              "answer": "Cholas"
+            },
+            {
+              "question": "___ was the first woman ruler of Delhi Sultanate.",
+              "answer": "Razia Sultan"
+            },
+            {
+              "question": "The ___ Road connected East and West India.",
+              "answer": "Grand Trunk"
+            },
+            {
+              "question": "The ___ were great patrons of art and architecture.",
+              "answer": "Mughals"
+            },
+            {
+              "question": "The ___ system was introduced by Sher Shah Suri.",
+              "answer": "postal"
+            },
+            {
+              "question": "The ___ were known for their naval power.",
+              "answer": "Cholas"
+            }
+          ],
+          "MCQ": [
+            {
+              "question": "Who was the first Mughal emperor?",
+              "options": ["Akbar", "Babur", "Humayun", "Aurangzeb"],
+              "answer": "Babur"
+            },
+            {
+              "question": "Which empire built the Hampi monuments?",
+              "options": ["Mughal", "Vijayanagara", "Chola", "Maurya"],
+              "answer": "Vijayanagara"
+            },
+            {
+              "question": "Who built the Red Fort in Delhi?",
+              "options": ["Akbar", "Shah Jahan", "Aurangzeb", "Sher Shah"],
+              "answer": "Shah Jahan"
+            },
+            {
+              "question": "Which was NOT a Mughal emperor?",
+              "options": ["Akbar", "Ashoka", "Jahangir", "Shah Jahan"],
+              "answer": "Ashoka"
+            },
+            {
+              "question": "Which ruler introduced the land revenue system?",
+              "options": ["Akbar", "Sher Shah", "Babur", "Alauddin"],
+              "answer": "Sher Shah"
+            },
+            {
+              "question": "Who was known as the 'Parrot of India'?",
+              "options": ["Amir Khusrau", "Kabir", "Tulsidas", "Surdas"],
+              "answer": "Amir Khusrau"
+            },
+            {
+              "question": "Which kingdom was in South India?",
+              "options": ["Rajput", "Chola", "Mughal", "Sultanate"],
+              "answer": "Chola"
+            },
+            {
+              "question": "Who built the Taj Mahal?",
+              "options": ["Akbar", "Shah Jahan", "Aurangzeb", "Jahangir"],
+              "answer": "Shah Jahan"
+            },
+            {
+              "question": "Which was NOT a Sufi saint?",
+              "options": ["Nizamuddin", "Kabir", "Moinuddin", "Salim"],
+              "answer": "Salim"
+            },
+            {
+              "question": "Which ruler had the longest reign?",
+              "options": ["Akbar", "Babur", "Aurangzeb", "Shah Jahan"],
+              "answer": "Akbar"
+            }
+          ]
+        }
+      },
+      {
+        "topic": "m",
+        "questions": {
+          "True/False": [
+            {
+              "question": "The Equator divides Earth into Northern and Southern Hemispheres.",
+              "answer": "True"
+            },
+            {
+              "question": "All maps are perfectly accurate.",
+              "answer": "False"
+            },
+            {
+              "question": "The Prime Meridian passes through Greenwich.",
+              "answer": "True"
+            },
+            {
+              "question": "Latitude lines run north-south.",
+              "answer": "False"
+            },
+            {
+              "question": "The Tropic of Cancer is in the Northern Hemisphere.",
+              "answer": "True"
+            },
+            {
+              "question": "Mountains are shown in green on physical maps.",
+              "answer": "False"
+            },
+            {
+              "question": "A globe is more accurate than a flat map.",
+              "answer": "True"
+            },
+            {
+              "question": "Longitude measures distance east or west.",
+              "answer": "True"
+            },
+            {
+              "question": "The Arctic Circle is at 23.5°N.",
+              "answer": "False"
+            },
+            {
+              "question": "Political maps show natural features.",
+              "answer": "False"
+            }
+          ],
+          "Fill in the blank": [
+            {
+              "question": "The ___ divides Earth into Eastern and Western Hemispheres.",
+              "answer": "Prime Meridian"
+            },
+            {
+              "question": "___ maps show country borders.",
+              "answer": "Political"
+            },
+            {
+              "question": "The ___ is at 0° latitude.",
+              "answer": "Equator"
+            },
+            {
+              "question": "___ maps show elevation and landforms.",
+              "answer": "Physical"
+            },
+            {
+              "question": "The ___ is at 23.5°S latitude.",
+              "answer": "Tropic of Capricorn"
+            },
+            {
+              "question": "Lines of ___ run parallel to the Equator.",
+              "answer": "latitude"
+            },
+            {
+              "question": "The ___ Ocean is the largest.",
+              "answer": "Pacific"
+            },
+            {
+              "question": "___ is the study of Earth's features.",
+              "answer": "Geography"
+            },
+            {
+              "question": "The ___ is at 66.5°N latitude.",
+              "answer": "Arctic Circle"
+            },
+            {
+              "question": "A ___ shows directions on a map.",
+              "answer": "compass rose"
+            }
+          ],
+          "MCQ": [
+            {
+              "question": "Which line is at 0° longitude?",
+              "options": [
+                "Equator",
+                "Prime Meridian",
+                "Tropic of Cancer",
+                "Arctic Circle"
+              ],
+              "answer": "Prime Meridian"
+            },
+            {
+              "question": "What type of map shows mountains?",
+              "options": ["Political", "Physical", "Thematic", "Road"],
+              "answer": "Physical"
+            },
+            {
+              "question": "Which is NOT a continent?",
+              "options": ["Africa", "Asia", "Europe", "Pacific"],
+              "answer": "Pacific"
+            },
+            {
+              "question": "Which ocean is the smallest?",
+              "options": ["Pacific", "Atlantic", "Indian", "Arctic"],
+              "answer": "Arctic"
+            },
+            {
+              "question": "What does a thematic map show?",
+              "options": [
+                "Countries",
+                "Mountains",
+                "Specific information",
+                "Roads"
+              ],
+              "answer": "Specific information"
+            },
+            {
+              "question": "Which is at 23.5°N latitude?",
+              "options": [
+                "Equator",
+                "Tropic of Cancer",
+                "Tropic of Capricorn",
+                "Antarctic Circle"
+              ],
+              "answer": "Tropic of Cancer"
+            },
+            {
+              "question": "What divides Earth into hemispheres?",
+              "options": [
+                "Oceans",
+                "Mountains",
+                "Lines of latitude/longitude",
+                "Rivers"
+              ],
+              "answer": "Lines of latitude/longitude"
+            },
+            {
+              "question": "Which tool helps find direction?",
+              "options": ["Scale", "Compass", "Legend", "Grid"],
+              "answer": "Compass"
+            },
+            {
+              "question": "What shows distance on a map?",
+              "options": ["Compass", "Legend", "Scale", "Title"],
+              "answer": "Scale"
+            },
+            {
+              "question": "Which is NOT a map element?",
+              "options": ["Title", "Scale", "Legend", "Hemisphere"],
+              "answer": "Hemisphere"
+            }
+          ]
+        }
+      },
+      {
+        "topic": "n",
+        "questions": {
+          "True/False": [
+            {
+              "question": "India became a republic in 1950.",
+              "answer": "True"
+            },
+            {
+              "question": "The Constitution was adopted on January 26.",
+              "answer": "True"
+            },
+            {
+              "question": "Dr. B.R. Ambedkar was the first President of India.",
+              "answer": "False"
+            },
+            {
+              "question": "The Preamble is the introduction to the Constitution.",
+              "answer": "True"
+            },
+            {
+              "question": "India has a unitary system of government.",
+              "answer": "False"
+            },
+            {
+              "question": "The Constitution guarantees fundamental rights.",
+              "answer": "True"
+            },
+            {
+              "question": "The President is the head of government.",
+              "answer": "False"
+            },
+            {
+              "question": "The Supreme Court interprets the Constitution.",
+              "answer": "True"
+            },
+            {
+              "question": "There are 22 scheduled languages in India.",
+              "answer": "True"
+            },
+            {
+              "question": "The Constitution can never be amended.",
+              "answer": "False"
+            }
+          ],
+          "Fill in the blank": [
+            {
+              "question": "The ___ is known as the father of the Indian Constitution.",
+              "answer": "Dr. B.R. Ambedkar"
+            },
+            {
+              "question": "India has a ___ system of government.",
+              "answer": "federal"
+            },
+            {
+              "question": "The Constitution was adopted on ___ 26, 1950.",
+              "answer": "January"
+            },
+            {
+              "question": "The ___ is the introduction to the Constitution.",
+              "answer": "Preamble"
+            },
+            {
+              "question": "The ___ is the supreme law of India.",
+              "answer": "Constitution"
+            },
+            {
+              "question": "The ___ is the head of state.",
+              "answer": "President"
+            },
+            {
+              "question": "The ___ is the head of government.",
+              "answer": "Prime Minister"
+            },
+            {
+              "question": "The Constitution guarantees ___ fundamental rights.",
+              "answer": "six"
+            },
+            {
+              "question": "The ___ is the guardian of the Constitution.",
+              "answer": "Supreme Court"
+            },
+            {
+              "question": "The Constitution provides for ___ justice.",
+              "answer": "social, economic, political"
+            }
+          ],
+          "MCQ": [
+            {
+              "question": "When was the Constitution adopted?",
+              "options": ["1947", "1949", "1950", "1952"],
+              "answer": "1950"
+            },
+            {
+              "question": "Who was the chairman of the Drafting Committee?",
+              "options": ["Gandhi", "Nehru", "Ambedkar", "Patel"],
+              "answer": "Ambedkar"
+            },
+            {
+              "question": "Which is NOT a fundamental right?",
+              "options": ["Equality", "Freedom", "Property", "Education"],
+              "answer": "Property"
+            },
+            {
+              "question": "How many articles are in the Constitution?",
+              "options": ["395", "400", "405", "410"],
+              "answer": "395"
+            },
+            {
+              "question": "Which is NOT a part of government?",
+              "options": ["Legislature", "Executive", "Judiciary", "Military"],
+              "answer": "Military"
+            },
+            {
+              "question": "What does 'secular' mean in the Preamble?",
+              "options": [
+                "No religion",
+                "State religion",
+                "Equal respect for all religions",
+                "Anti-religion"
+              ],
+              "answer": "Equal respect for all religions"
+            },
+            {
+              "question": "Who can amend the Constitution?",
+              "options": [
+                "President",
+                "Prime Minister",
+                "Parliament",
+                "Supreme Court"
+              ],
+              "answer": "Parliament"
+            },
+            {
+              "question": "Which is NOT a duty of citizens?",
+              "options": [
+                "Voting",
+                "Tax payment",
+                "Military service",
+                "Following laws"
+              ],
+              "answer": "Military service"
+            },
+            {
+              "question": "What is the term of Lok Sabha?",
+              "options": ["4 years", "5 years", "6 years", "7 years"],
+              "answer": "5 years"
+            },
+            {
+              "question": "Which is NOT a feature of Indian Constitution?",
+              "options": ["Federal", "Unitary", "Democratic", "Monarchy"],
+              "answer": "Monarchy"
+            }
+          ]
+        }
+      },
+      {
+        "topic": "o",
+        "questions": {
+          "True/False": [
+            {
+              "question": "India is a democracy.",
+              "answer": "True"
+            },
+            {
+              "question": "The President is elected by the people.",
+              "answer": "False"
+            },
+            {
+              "question": "The Prime Minister is the head of state.",
+              "answer": "False"
+            },
+            {
+              "question": "Lok Sabha is the lower house of Parliament.",
+              "answer": "True"
+            },
+            {
+              "question": "States have their own governments.",
+              "answer": "True"
+            },
+            {
+              "question": "The Supreme Court makes laws.",
+              "answer": "False"
+            },
+            {
+              "question": "India has a multi-party system.",
+              "answer": "True"
+            },
+            {
+              "question": "The Election Commission conducts elections.",
+              "answer": "True"
+            },
+            {
+              "question": "The Rajya Sabha represents states.",
+              "answer": "True"
+            },
+            {
+              "question": "All citizens above 18 can vote.",
+              "answer": "True"
+            }
+          ],
+          "Fill in the blank": [
+            {
+              "question": "India has a ___ system of government.",
+              "answer": "parliamentary"
+            },
+            {
+              "question": "The ___ is the head of state.",
+              "answer": "President"
+            },
+            {
+              "question": "The ___ is the real executive head.",
+              "answer": "Prime Minister"
+            },
+            {
+              "question": "The ___ is the lower house of Parliament.",
+              "answer": "Lok Sabha"
+            },
+            {
+              "question": "The ___ conducts elections in India.",
+              "answer": "Election Commission"
+            },
+            {
+              "question": "The ___ is the upper house of Parliament.",
+              "answer": "Rajya Sabha"
+            },
+            {
+              "question": "The ___ is the highest court in India.",
+              "answer": "Supreme Court"
+            },
+            {
+              "question": "The ___ prepares the budget.",
+              "answer": "Finance Minister"
+            },
+            {
+              "question": "The ___ is the constitutional head of states.",
+              "answer": "Governor"
+            },
+            {
+              "question": "The ___ is the leader of the ruling party in Lok Sabha.",
+              "answer": "Prime Minister"
+            }
+          ],
+          "MCQ": [
+            {
+              "question": "Who is the head of government?",
+              "options": [
+                "President",
+                "Prime Minister",
+                "Chief Justice",
+                "Speaker"
+              ],
+              "answer": "Prime Minister"
+            },
+            {
+              "question": "Which house is directly elected?",
+              "options": ["Lok Sabha", "Rajya Sabha", "Both", "Neither"],
+              "answer": "Lok Sabha"
+            },
+            {
+              "question": "Who appoints the Prime Minister?",
+              "options": ["President", "People", "Parliament", "Supreme Court"],
+              "answer": "President"
+            },
+            {
+              "question": "What is the voting age in India?",
+              "options": ["16", "18", "21", "25"],
+              "answer": "18"
+            },
+            {
+              "question": "Which is NOT a level of government?",
+              "options": ["Central", "State", "Local", "Regional"],
+              "answer": "Regional"
+            },
+            {
+              "question": "Who conducts elections?",
+              "options": [
+                "Supreme Court",
+                "Election Commission",
+                "President",
+                "Parliament"
+              ],
+              "answer": "Election Commission"
+            },
+            {
+              "question": "How often are Lok Sabha elections held?",
+              "options": ["3 years", "5 years", "6 years", "7 years"],
+              "answer": "5 years"
+            },
+            {
+              "question": "Which is NOT a function of government?",
+              "options": ["Defense", "Education", "Healthcare", "Business"],
+              "answer": "Business"
+            },
+            {
+              "question": "Who can remove the President?",
+              "options": [
+                "Prime Minister",
+                "Supreme Court",
+                "Parliament",
+                "People"
+              ],
+              "answer": "Parliament"
+            },
+            {
+              "question": "What is the maximum strength of Lok Sabha?",
+              "options": ["500", "543", "550", "552"],
+              "answer": "552"
+            }
+          ]
+        }
+      }
+    ]
+  }
+]
