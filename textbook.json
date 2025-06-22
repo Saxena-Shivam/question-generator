@@ -5,7 +5,7 @@
     "code": "ma",
     "topics": [
       {
-        "topic": "a",
+        "topic": "Integers",
         "questions": {
           "True/False": [
             {
@@ -151,7 +151,7 @@
         }
       },
       {
-        "topic": "b",
+        "topic": "Fractions and Decimals",
         "questions": {
           "True/False": [
             {
@@ -297,7 +297,7 @@
         }
       },
       {
-        "topic": "c",
+        "topic": "Algebra",
         "questions": {
           "True/False": [
             {
@@ -438,7 +438,7 @@
         }
       },
       {
-        "topic": "d",
+        "topic": "Perimeter and Area",
         "questions": {
           "True/False": [
             {
@@ -579,7 +579,7 @@
         }
       },
       {
-        "topic": "e",
+        "topic": "Data Handling",
         "questions": {
           "True/False": [
             {
@@ -729,11 +729,11 @@
 
   {
     "class": 6,
-    "subject": "Biology",
-    "code": "bs",
+    "subject": "Science",
+    "code": "sc",
     "topics": [
       {
-        "topic": "f",
+        "topic": "Nutrition in Plants",
         "questions": {
           "True/False": [
             {
@@ -874,7 +874,7 @@
         }
       },
       {
-        "topic": "g",
+        "topic": "Heat",
         "questions": {
           "True/False": [
             {
@@ -1025,7 +1025,7 @@
         }
       },
       {
-        "topic": "h",
+        "topic": "Acids, Bases and Salts",
         "questions": {
           "True/False": [
             {
@@ -1171,7 +1171,7 @@
         }
       },
       {
-        "topic": "i",
+        "topic": "Motion and Time",
         "questions": {
           "True/False": [
             {
@@ -1312,7 +1312,7 @@
         }
       },
       {
-        "topic": "j",
+        "topic": "Electricity",
         "questions": {
           "True/False": [
             {
@@ -1461,11 +1461,11 @@
   },
   {
     "class": 6,
-    "subject": "Social Studies",
+    "subject": "Social Science",
     "code": "ss",
     "topics": [
       {
-        "topic": "k",
+        "topic": "Democracy and Equality",
         "questions": {
           "True/False": [
             {
@@ -1606,7 +1606,7 @@
         }
       },
       {
-        "topic": "l",
+        "topic": "India’s Neighbours",
         "questions": {
           "True/False": [
             {
@@ -1747,7 +1747,7 @@
         }
       },
       {
-        "topic": "m",
+        "topic": "State Government",
         "questions": {
           "True/False": [
             {
@@ -1908,7 +1908,7 @@
         }
       },
       {
-        "topic": "n",
+        "topic": "Natural Vegetation",
         "questions": {
           "True/False": [
             {
@@ -2064,7 +2064,7 @@
         }
       },
       {
-        "topic": "o",
+        "topic": "Medieval India",
         "questions": {
           "True/False": [
             {

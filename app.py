@@ -2,9 +2,8 @@ import streamlit as st
 from pymongo import MongoClient
 import random
 from openai import OpenAI
-
-from groq import Groq
 import os
+from groq import Groq
 from dotenv import load_dotenv
 # Load environment variables
 load_dotenv("D:/Project-ARC/Question_Paper_Generator/.env")
@@ -28,52 +27,68 @@ if "generate_pressed" not in st.session_state:
     st.session_state.generate_pressed = False
 
 def fetch_textbook_content(class_selected, subject_selected, topic):
-    doc = collection_textbooks.find_one({
-        "class": int(class_selected),
-        "subject_name": subject_selected,
-        "topic": topic
-    })
-    return doc["textbook"].strip() if doc and doc.get("textbook") else ""
+    try:
+        doc = collection_textbooks.find_one({
+            "class": int(class_selected),
+            "subject_name": subject_selected,
+            "topic": topic
+        })
+        return doc["textbook"].strip() if doc and doc.get("textbook") else ""
+    except Exception as e:
+        st.error(f"Error fetching textbook content: {e}")
+        return ""
 
 def get_question_distribution(topics, total_questions):
-    k = len(topics)
-    base = total_questions // k
-    remainder = total_questions % k
+    try:
+        k = len(topics)
+        if k == 0:
+            return {}
+        base = total_questions // k
+        remainder = total_questions % k
 
-    random.shuffle(topics)
-    distribution = {topic: base for topic in topics}
-    for i in range(remainder):
-        distribution[topics[i]] += 1
+        random.shuffle(topics)
+        distribution = {topic: base for topic in topics}
+        for i in range(remainder):
+            distribution[topics[i]] += 1
 
-    return distribution
+        return distribution
+    except Exception as e:
+        st.error(f"Error in question distribution: {e}")
+        return {}
 
 def get_questions_from_db(class_selected, subject_selected, mark, distribution_dict):
     result = []
     ai_counter = 1
+    try:
+        doc = collection_questions.find_one({"class": class_selected, "subject_name": subject_selected})
+        if not doc:
+            return []
 
-    doc = collection_questions.find_one({"class": class_selected, "subject_name": subject_selected})
-    if not doc:
+        topic_dict = {t.get("topic_name", t.get("topic")): t["questions"] for t in doc["topics"]}
+
+        for topic, count in distribution_dict.items():
+            questions_with_mark = [
+                q["question"] for q in topic_dict.get(topic, [])
+                if q["marks"] == int(mark.replace("m", ""))
+            ]
+            available = len(questions_with_mark)
+            try:
+                selected = random.sample(questions_with_mark, min(count, available))
+            except ValueError as ve:
+                st.warning(f"Not enough questions for topic '{topic}': {ve}")
+                selected = questions_with_mark
+
+            if len(selected) < count:
+                for _ in range(count - len(selected)):
+                    selected.append(f"ai_{ai_counter}")
+                    ai_counter += 1
+
+            result.extend(selected)
+
+        return result
+    except Exception as e:
+        st.error(f"Error fetching questions from DB: {e}")
         return []
-
-    topic_dict = {t["topic_name"]: t["questions"] for t in doc["topics"]}
-
-    for topic, count in distribution_dict.items():
-        questions_with_mark = [
-            q["question"] for q in topic_dict.get(topic, [])
-            if q["marks"] == int(mark.replace("m", ""))
-        ]
-        available = len(questions_with_mark)
-        selected = random.sample(questions_with_mark, min(count, available))
-
-        if len(selected) < count:
-            for _ in range(count - len(selected)):
-                selected.append(f"ai_{ai_counter}")
-                ai_counter += 1
-
-        result.extend(selected)
-
-    return result
-
 
 def query_openrouter(messages):
     try:
@@ -83,7 +98,6 @@ def query_openrouter(messages):
             temperature=0.7
         )
 
-        # Debug the response
         st.write("Debug - Raw API Response:", response)
 
         if not response or not hasattr(response, "choices") or not response.choices:
@@ -161,40 +175,42 @@ Format each exactly like this:
     format_type = format_type_map.get(question_type, "mcq")
     context = context[:3000]  # truncate if too long
 
+    last_error = ""
     for attempt in range(retries + 1):
-        response = query_openrouter([
-            {
-                "role": "system",
-                "content": f"You are a question generator for {format_type}. Generate questions in the exact format specified. No explanations or additional text."
-            },
-            {
-                "role": "user",
-                "content": prompts[format_type]
-            }
-        ])
+        try:
+            response = query_openrouter([
+                {
+                    "role": "system",
+                    "content": f"You are a question generator for {format_type}. Generate questions in the exact format specified. No explanations or additional text."
+                },
+                {
+                    "role": "user",
+                    "content": prompts[format_type]
+                }
+            ])
 
-        if not response or "Error" in response:
-            last_error = response
+            if not response or "Error" in response:
+                last_error = response
+                continue
+
+            if question_type == "mcq" and (response.count("A)") < 1 or response.count("B)") < 1 or response.count("C)") < 1 or response.count("D)") < 1):
+                last_error = "Error: AI returned incomplete MCQ (missing options)"
+                continue
+
+            if question_type == "fill_blank" and "_____" not in response:
+                last_error = "Error: AI returned invalid Fill in the Blank format"
+                continue
+
+            if question_type == "true_false" and "True or False:" not in response:
+                last_error = "Error: AI did not follow True/False format"
+                continue
+
+            return response.strip()
+        except Exception as e:
+            last_error = f"Error generating AI question: {e}"
             continue
-
-        if question_type == "mcq" and (response.count("A)") < 1 or response.count("B)") < 1 or response.count("C)") < 1 or response.count("D)") < 1):
-            last_error = "Error: AI returned incomplete MCQ (missing options)"
-            continue
-
-        if question_type == "fill_blank" and "_____" not in response:
-            last_error = "Error: AI returned invalid Fill in the Blank format"
-            continue
-
-        if question_type == "true_false" and "True or False:" not in response:
-            last_error = "Error: AI did not follow True/False format"
-            continue
-
-        return response.strip()
 
     return last_error
-
-
-
 # 🚀 Title
 st.title("Question Paper Generator")
 

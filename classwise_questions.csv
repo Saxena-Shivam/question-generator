@@ -1,2487 +1,392 @@
 Class,Subject Name,Subject Code,Topic,Question,Marks
-6,Mathematics,ma,a,maa0101,1
-6,Mathematics,ma,a,maa0201,1
-6,Mathematics,ma,a,maa0301,1
-6,Mathematics,ma,a,maa0401,1
-6,Mathematics,ma,a,maa0102,2
-6,Mathematics,ma,a,maa0202,2
-6,Mathematics,ma,a,maa0104,4
-6,Mathematics,ma,a,maa0204,4
-6,Mathematics,ma,a,maa0304,4
-6,Mathematics,ma,a,maa0404,4
-6,Mathematics,ma,a,maa0504,4
-6,Mathematics,ma,a,maa0604,4
-6,Mathematics,ma,a,maa0105,5
-6,Mathematics,ma,a,maa0205,5
-6,Mathematics,ma,a,maa0305,5
-6,Mathematics,ma,a,maa0405,5
-6,Mathematics,ma,a,maa0505,5
-6,Mathematics,ma,a,maa0605,5
-6,Mathematics,ma,a,maa0705,5
-6,Mathematics,ma,a,maa0110,10
-6,Mathematics,ma,a,maa0210,10
-6,Mathematics,ma,a,maa0310,10
-6,Mathematics,ma,a,maa0410,10
-6,Mathematics,ma,a,maa0510,10
-6,Mathematics,ma,a,maa0120,20
-6,Mathematics,ma,a,maa0220,20
-6,Mathematics,ma,a,maa0320,20
-6,Mathematics,ma,b,mab0101,1
-6,Mathematics,ma,b,mab0201,1
-6,Mathematics,ma,b,mab0301,1
-6,Mathematics,ma,b,mab0102,2
-6,Mathematics,ma,b,mab0202,2
-6,Mathematics,ma,b,mab0302,2
-6,Mathematics,ma,b,mab0402,2
-6,Mathematics,ma,b,mab0502,2
-6,Mathematics,ma,b,mab0602,2
-6,Mathematics,ma,b,mab0702,2
-6,Mathematics,ma,b,mab0802,2
-6,Mathematics,ma,b,mab0902,2
-6,Mathematics,ma,b,mab1002,2
-6,Mathematics,ma,b,mab0104,4
-6,Mathematics,ma,b,mab0204,4
-6,Mathematics,ma,b,mab0304,4
-6,Mathematics,ma,b,mab0404,4
-6,Mathematics,ma,b,mab0504,4
-6,Mathematics,ma,b,mab0604,4
-6,Mathematics,ma,b,mab0704,4
-6,Mathematics,ma,b,mab0804,4
-6,Mathematics,ma,b,mab0904,4
-6,Mathematics,ma,b,mab1004,4
-6,Mathematics,ma,b,mab0105,5
-6,Mathematics,ma,b,mab0205,5
-6,Mathematics,ma,b,mab0305,5
-6,Mathematics,ma,b,mab0405,5
-6,Mathematics,ma,b,mab0505,5
-6,Mathematics,ma,b,mab0605,5
-6,Mathematics,ma,b,mab0705,5
-6,Mathematics,ma,b,mab0805,5
-6,Mathematics,ma,b,mab0905,5
-6,Mathematics,ma,b,mab1005,5
-6,Mathematics,ma,b,mab0110,10
-6,Mathematics,ma,b,mab0210,10
-6,Mathematics,ma,b,mab0310,10
-6,Mathematics,ma,b,mab0410,10
-6,Mathematics,ma,b,mab0510,10
-6,Mathematics,ma,b,mab0610,10
-6,Mathematics,ma,b,mab0710,10
-6,Mathematics,ma,b,mab0120,20
-6,Mathematics,ma,c,mac0101,1
-6,Mathematics,ma,c,mac0201,1
-6,Mathematics,ma,c,mac0301,1
-6,Mathematics,ma,c,mac0102,2
-6,Mathematics,ma,c,mac0202,2
-6,Mathematics,ma,c,mac0302,2
-6,Mathematics,ma,c,mac0402,2
-6,Mathematics,ma,c,mac0502,2
-6,Mathematics,ma,c,mac0602,2
-6,Mathematics,ma,c,mac0702,2
-6,Mathematics,ma,c,mac0802,2
-6,Mathematics,ma,c,mac0902,2
-6,Mathematics,ma,c,mac0104,4
-6,Mathematics,ma,c,mac0204,4
-6,Mathematics,ma,c,mac0304,4
-6,Mathematics,ma,c,mac0105,5
-6,Mathematics,ma,c,mac0205,5
-6,Mathematics,ma,c,mac0305,5
-6,Mathematics,ma,c,mac0405,5
-6,Mathematics,ma,c,mac0505,5
-6,Mathematics,ma,c,mac0605,5
-6,Mathematics,ma,c,mac0705,5
-6,Mathematics,ma,c,mac0805,5
-6,Mathematics,ma,c,mac0905,5
-6,Mathematics,ma,c,mac1005,5
-6,Mathematics,ma,c,mac0110,10
-6,Mathematics,ma,c,mac0210,10
-6,Mathematics,ma,c,mac0310,10
-6,Mathematics,ma,c,mac0410,10
-6,Mathematics,ma,c,mac0510,10
-6,Mathematics,ma,c,mac0610,10
-6,Mathematics,ma,c,mac0710,10
-6,Mathematics,ma,c,mac0810,10
-6,Mathematics,ma,c,mac0910,10
-6,Mathematics,ma,c,mac1010,10
-6,Mathematics,ma,c,mac0120,20
-6,Mathematics,ma,c,mac0220,20
-6,Mathematics,ma,c,mac0320,20
-6,Mathematics,ma,c,mac0420,20
-6,Mathematics,ma,c,mac0520,20
-6,Mathematics,ma,c,mac0620,20
-6,Mathematics,ma,c,mac0720,20
-6,Mathematics,ma,c,mac0820,20
-6,Mathematics,ma,c,mac0920,20
-6,Mathematics,ma,c,mac1020,20
-6,Mathematics,ma,d,mad0101,1
-6,Mathematics,ma,d,mad0201,1
-6,Mathematics,ma,d,mad0301,1
-6,Mathematics,ma,d,mad0401,1
-6,Mathematics,ma,d,mad0501,1
-6,Mathematics,ma,d,mad0601,1
-6,Mathematics,ma,d,mad0701,1
-6,Mathematics,ma,d,mad0801,1
-6,Mathematics,ma,d,mad0901,1
-6,Mathematics,ma,d,mad0102,2
-6,Mathematics,ma,d,mad0202,2
-6,Mathematics,ma,d,mad0302,2
-6,Mathematics,ma,d,mad0402,2
-6,Mathematics,ma,d,mad0502,2
-6,Mathematics,ma,d,mad0602,2
-6,Mathematics,ma,d,mad0104,4
-6,Mathematics,ma,d,mad0105,5
-6,Mathematics,ma,d,mad0205,5
-6,Mathematics,ma,d,mad0305,5
-6,Mathematics,ma,d,mad0405,5
-6,Mathematics,ma,d,mad0505,5
-6,Mathematics,ma,d,mad0605,5
-6,Mathematics,ma,d,mad0705,5
-6,Mathematics,ma,d,mad0805,5
-6,Mathematics,ma,d,mad0110,10
-6,Mathematics,ma,d,mad0210,10
-6,Mathematics,ma,d,mad0310,10
-6,Mathematics,ma,d,mad0410,10
-6,Mathematics,ma,d,mad0120,20
-6,Mathematics,ma,d,mad0220,20
-6,Mathematics,ma,e,mae0101,1
-6,Mathematics,ma,e,mae0201,1
-6,Mathematics,ma,e,mae0301,1
-6,Mathematics,ma,e,mae0401,1
-6,Mathematics,ma,e,mae0501,1
-6,Mathematics,ma,e,mae0601,1
-6,Mathematics,ma,e,mae0701,1
-6,Mathematics,ma,e,mae0801,1
-6,Mathematics,ma,e,mae0901,1
-6,Mathematics,ma,e,mae1001,1
-6,Mathematics,ma,e,mae0102,2
-6,Mathematics,ma,e,mae0202,2
-6,Mathematics,ma,e,mae0302,2
-6,Mathematics,ma,e,mae0104,4
-6,Mathematics,ma,e,mae0204,4
-6,Mathematics,ma,e,mae0105,5
-6,Mathematics,ma,e,mae0205,5
-6,Mathematics,ma,e,mae0110,10
-6,Mathematics,ma,e,mae0210,10
-6,Mathematics,ma,e,mae0310,10
-6,Mathematics,ma,e,mae0410,10
-6,Mathematics,ma,e,mae0510,10
-6,Mathematics,ma,e,mae0610,10
-6,Mathematics,ma,e,mae0710,10
-6,Mathematics,ma,e,mae0810,10
-6,Mathematics,ma,e,mae0910,10
-6,Mathematics,ma,e,mae0120,20
-6,Mathematics,ma,e,mae0220,20
-6,Mathematics,ma,e,mae0320,20
-6,Mathematics,ma,e,mae0420,20
-6,Mathematics,ma,e,mae0520,20
-6,Mathematics,ma,e,mae0620,20
-6,Mathematics,ma,e,mae0720,20
-6,Mathematics,ma,e,mae0820,20
-6,Mathematics,ma,e,mae0920,20
-6,Mathematics,ma,e,mae1020,20
-6,Biology,bs,f,bsf0101,1
-6,Biology,bs,f,bsf0201,1
-6,Biology,bs,f,bsf0301,1
-6,Biology,bs,f,bsf0401,1
-6,Biology,bs,f,bsf0501,1
-6,Biology,bs,f,bsf0601,1
-6,Biology,bs,f,bsf0701,1
-6,Biology,bs,f,bsf0102,2
-6,Biology,bs,f,bsf0202,2
-6,Biology,bs,f,bsf0302,2
-6,Biology,bs,f,bsf0402,2
-6,Biology,bs,f,bsf0502,2
-6,Biology,bs,f,bsf0602,2
-6,Biology,bs,f,bsf0702,2
-6,Biology,bs,f,bsf0802,2
-6,Biology,bs,f,bsf0104,4
-6,Biology,bs,f,bsf0204,4
-6,Biology,bs,f,bsf0304,4
-6,Biology,bs,f,bsf0404,4
-6,Biology,bs,f,bsf0504,4
-6,Biology,bs,f,bsf0604,4
-6,Biology,bs,f,bsf0704,4
-6,Biology,bs,f,bsf0105,5
-6,Biology,bs,f,bsf0205,5
-6,Biology,bs,f,bsf0305,5
-6,Biology,bs,f,bsf0405,5
-6,Biology,bs,f,bsf0505,5
-6,Biology,bs,f,bsf0605,5
-6,Biology,bs,f,bsf0705,5
-6,Biology,bs,f,bsf0805,5
-6,Biology,bs,f,bsf0905,5
-6,Biology,bs,f,bsf0110,10
-6,Biology,bs,f,bsf0210,10
-6,Biology,bs,f,bsf0310,10
-6,Biology,bs,f,bsf0410,10
-6,Biology,bs,f,bsf0510,10
-6,Biology,bs,f,bsf0610,10
-6,Biology,bs,f,bsf0710,10
-6,Biology,bs,f,bsf0810,10
-6,Biology,bs,f,bsf0910,10
-6,Biology,bs,f,bsf0120,20
-6,Biology,bs,f,bsf0220,20
-6,Biology,bs,f,bsf0320,20
-6,Biology,bs,f,bsf0420,20
-6,Biology,bs,g,bsg0101,1
-6,Biology,bs,g,bsg0201,1
-6,Biology,bs,g,bsg0301,1
-6,Biology,bs,g,bsg0401,1
-6,Biology,bs,g,bsg0501,1
-6,Biology,bs,g,bsg0601,1
-6,Biology,bs,g,bsg0701,1
-6,Biology,bs,g,bsg0801,1
-6,Biology,bs,g,bsg0901,1
-6,Biology,bs,g,bsg0102,2
-6,Biology,bs,g,bsg0202,2
-6,Biology,bs,g,bsg0302,2
-6,Biology,bs,g,bsg0402,2
-6,Biology,bs,g,bsg0104,4
-6,Biology,bs,g,bsg0204,4
-6,Biology,bs,g,bsg0304,4
-6,Biology,bs,g,bsg0404,4
-6,Biology,bs,g,bsg0105,5
-6,Biology,bs,g,bsg0205,5
-6,Biology,bs,g,bsg0305,5
-6,Biology,bs,g,bsg0110,10
-6,Biology,bs,g,bsg0210,10
-6,Biology,bs,g,bsg0120,20
-6,Biology,bs,h,bsh0101,1
-6,Biology,bs,h,bsh0201,1
-6,Biology,bs,h,bsh0301,1
-6,Biology,bs,h,bsh0401,1
-6,Biology,bs,h,bsh0501,1
-6,Biology,bs,h,bsh0601,1
-6,Biology,bs,h,bsh0701,1
-6,Biology,bs,h,bsh0801,1
-6,Biology,bs,h,bsh0901,1
-6,Biology,bs,h,bsh1001,1
-6,Biology,bs,h,bsh0102,2
-6,Biology,bs,h,bsh0202,2
-6,Biology,bs,h,bsh0302,2
-6,Biology,bs,h,bsh0402,2
-6,Biology,bs,h,bsh0502,2
-6,Biology,bs,h,bsh0602,2
-6,Biology,bs,h,bsh0104,4
-6,Biology,bs,h,bsh0204,4
-6,Biology,bs,h,bsh0304,4
-6,Biology,bs,h,bsh0404,4
-6,Biology,bs,h,bsh0504,4
-6,Biology,bs,h,bsh0604,4
-6,Biology,bs,h,bsh0105,5
-6,Biology,bs,h,bsh0205,5
-6,Biology,bs,h,bsh0305,5
-6,Biology,bs,h,bsh0405,5
-6,Biology,bs,h,bsh0505,5
-6,Biology,bs,h,bsh0605,5
-6,Biology,bs,h,bsh0705,5
-6,Biology,bs,h,bsh0805,5
-6,Biology,bs,h,bsh0110,10
-6,Biology,bs,h,bsh0210,10
-6,Biology,bs,h,bsh0310,10
-6,Biology,bs,h,bsh0410,10
-6,Biology,bs,h,bsh0120,20
-6,Biology,bs,h,bsh0220,20
-6,Biology,bs,h,bsh0320,20
-6,Biology,bs,h,bsh0420,20
-6,Biology,bs,h,bsh0520,20
-6,Biology,bs,h,bsh0620,20
-6,Biology,bs,h,bsh0720,20
-6,Biology,bs,h,bsh0820,20
-6,Biology,bs,i,bsi0101,1
-6,Biology,bs,i,bsi0201,1
-6,Biology,bs,i,bsi0102,2
-6,Biology,bs,i,bsi0104,4
-6,Biology,bs,i,bsi0204,4
-6,Biology,bs,i,bsi0304,4
-6,Biology,bs,i,bsi0404,4
-6,Biology,bs,i,bsi0504,4
-6,Biology,bs,i,bsi0604,4
-6,Biology,bs,i,bsi0704,4
-6,Biology,bs,i,bsi0804,4
-6,Biology,bs,i,bsi0105,5
-6,Biology,bs,i,bsi0205,5
-6,Biology,bs,i,bsi0305,5
-6,Biology,bs,i,bsi0405,5
-6,Biology,bs,i,bsi0505,5
-6,Biology,bs,i,bsi0605,5
-6,Biology,bs,i,bsi0110,10
-6,Biology,bs,i,bsi0210,10
-6,Biology,bs,i,bsi0310,10
-6,Biology,bs,i,bsi0410,10
-6,Biology,bs,i,bsi0510,10
-6,Biology,bs,i,bsi0610,10
-6,Biology,bs,i,bsi0710,10
-6,Biology,bs,i,bsi0810,10
-6,Biology,bs,i,bsi0120,20
-6,Biology,bs,i,bsi0220,20
-6,Biology,bs,i,bsi0320,20
-6,Biology,bs,i,bsi0420,20
-6,Biology,bs,i,bsi0520,20
-6,Biology,bs,i,bsi0620,20
-6,Biology,bs,j,bsj0101,1
-6,Biology,bs,j,bsj0201,1
-6,Biology,bs,j,bsj0301,1
-6,Biology,bs,j,bsj0401,1
-6,Biology,bs,j,bsj0501,1
-6,Biology,bs,j,bsj0601,1
-6,Biology,bs,j,bsj0102,2
-6,Biology,bs,j,bsj0202,2
-6,Biology,bs,j,bsj0302,2
-6,Biology,bs,j,bsj0402,2
-6,Biology,bs,j,bsj0502,2
-6,Biology,bs,j,bsj0602,2
-6,Biology,bs,j,bsj0702,2
-6,Biology,bs,j,bsj0802,2
-6,Biology,bs,j,bsj0104,4
-6,Biology,bs,j,bsj0204,4
-6,Biology,bs,j,bsj0304,4
-6,Biology,bs,j,bsj0404,4
-6,Biology,bs,j,bsj0105,5
-6,Biology,bs,j,bsj0205,5
-6,Biology,bs,j,bsj0110,10
-6,Biology,bs,j,bsj0210,10
-6,Biology,bs,j,bsj0120,20
-6,Biology,bs,j,bsj0220,20
-6,Biology,bs,j,bsj0320,20
-6,Biology,bs,j,bsj0420,20
-6,Social Studies,ss,k,ssk0101,1
-6,Social Studies,ss,k,ssk0201,1
-6,Social Studies,ss,k,ssk0301,1
-6,Social Studies,ss,k,ssk0102,2
-6,Social Studies,ss,k,ssk0202,2
-6,Social Studies,ss,k,ssk0302,2
-6,Social Studies,ss,k,ssk0402,2
-6,Social Studies,ss,k,ssk0502,2
-6,Social Studies,ss,k,ssk0602,2
-6,Social Studies,ss,k,ssk0702,2
-6,Social Studies,ss,k,ssk0802,2
-6,Social Studies,ss,k,ssk0902,2
-6,Social Studies,ss,k,ssk1002,2
-6,Social Studies,ss,k,ssk0104,4
-6,Social Studies,ss,k,ssk0204,4
-6,Social Studies,ss,k,ssk0304,4
-6,Social Studies,ss,k,ssk0404,4
-6,Social Studies,ss,k,ssk0105,5
-6,Social Studies,ss,k,ssk0205,5
-6,Social Studies,ss,k,ssk0305,5
-6,Social Studies,ss,k,ssk0405,5
-6,Social Studies,ss,k,ssk0505,5
-6,Social Studies,ss,k,ssk0605,5
-6,Social Studies,ss,k,ssk0705,5
-6,Social Studies,ss,k,ssk0805,5
-6,Social Studies,ss,k,ssk0905,5
-6,Social Studies,ss,k,ssk0110,10
-6,Social Studies,ss,k,ssk0120,20
-6,Social Studies,ss,k,ssk0220,20
-6,Social Studies,ss,k,ssk0320,20
-6,Social Studies,ss,k,ssk0420,20
-6,Social Studies,ss,k,ssk0520,20
-6,Social Studies,ss,k,ssk0620,20
-6,Social Studies,ss,k,ssk0720,20
-6,Social Studies,ss,k,ssk0820,20
-6,Social Studies,ss,l,ssl0101,1
-6,Social Studies,ss,l,ssl0102,2
-6,Social Studies,ss,l,ssl0104,4
-6,Social Studies,ss,l,ssl0204,4
-6,Social Studies,ss,l,ssl0105,5
-6,Social Studies,ss,l,ssl0205,5
-6,Social Studies,ss,l,ssl0305,5
-6,Social Studies,ss,l,ssl0405,5
-6,Social Studies,ss,l,ssl0505,5
-6,Social Studies,ss,l,ssl0605,5
-6,Social Studies,ss,l,ssl0705,5
-6,Social Studies,ss,l,ssl0805,5
-6,Social Studies,ss,l,ssl0110,10
-6,Social Studies,ss,l,ssl0210,10
-6,Social Studies,ss,l,ssl0310,10
-6,Social Studies,ss,l,ssl0120,20
-6,Social Studies,ss,l,ssl0220,20
-6,Social Studies,ss,l,ssl0320,20
-6,Social Studies,ss,l,ssl0420,20
-6,Social Studies,ss,l,ssl0520,20
-6,Social Studies,ss,l,ssl0620,20
-6,Social Studies,ss,l,ssl0720,20
-6,Social Studies,ss,l,ssl0820,20
-6,Social Studies,ss,m,ssm0101,1
-6,Social Studies,ss,m,ssm0201,1
-6,Social Studies,ss,m,ssm0301,1
-6,Social Studies,ss,m,ssm0401,1
-6,Social Studies,ss,m,ssm0501,1
-6,Social Studies,ss,m,ssm0601,1
-6,Social Studies,ss,m,ssm0701,1
-6,Social Studies,ss,m,ssm0102,2
-6,Social Studies,ss,m,ssm0202,2
-6,Social Studies,ss,m,ssm0302,2
-6,Social Studies,ss,m,ssm0402,2
-6,Social Studies,ss,m,ssm0502,2
-6,Social Studies,ss,m,ssm0602,2
-6,Social Studies,ss,m,ssm0104,4
-6,Social Studies,ss,m,ssm0204,4
-6,Social Studies,ss,m,ssm0304,4
-6,Social Studies,ss,m,ssm0404,4
-6,Social Studies,ss,m,ssm0105,5
-6,Social Studies,ss,m,ssm0205,5
-6,Social Studies,ss,m,ssm0305,5
-6,Social Studies,ss,m,ssm0405,5
-6,Social Studies,ss,m,ssm0505,5
-6,Social Studies,ss,m,ssm0605,5
-6,Social Studies,ss,m,ssm0110,10
-6,Social Studies,ss,m,ssm0210,10
-6,Social Studies,ss,m,ssm0310,10
-6,Social Studies,ss,m,ssm0410,10
-6,Social Studies,ss,m,ssm0510,10
-6,Social Studies,ss,m,ssm0610,10
-6,Social Studies,ss,m,ssm0710,10
-6,Social Studies,ss,m,ssm0120,20
-6,Social Studies,ss,m,ssm0220,20
-6,Social Studies,ss,m,ssm0320,20
-6,Social Studies,ss,m,ssm0420,20
-6,Social Studies,ss,m,ssm0520,20
-6,Social Studies,ss,m,ssm0620,20
-6,Social Studies,ss,m,ssm0720,20
-6,Social Studies,ss,m,ssm0820,20
-6,Social Studies,ss,n,ssn0101,1
-6,Social Studies,ss,n,ssn0201,1
-6,Social Studies,ss,n,ssn0301,1
-6,Social Studies,ss,n,ssn0401,1
-6,Social Studies,ss,n,ssn0501,1
-6,Social Studies,ss,n,ssn0601,1
-6,Social Studies,ss,n,ssn0102,2
-6,Social Studies,ss,n,ssn0202,2
-6,Social Studies,ss,n,ssn0302,2
-6,Social Studies,ss,n,ssn0402,2
-6,Social Studies,ss,n,ssn0502,2
-6,Social Studies,ss,n,ssn0602,2
-6,Social Studies,ss,n,ssn0104,4
-6,Social Studies,ss,n,ssn0204,4
-6,Social Studies,ss,n,ssn0304,4
-6,Social Studies,ss,n,ssn0404,4
-6,Social Studies,ss,n,ssn0504,4
-6,Social Studies,ss,n,ssn0604,4
-6,Social Studies,ss,n,ssn0704,4
-6,Social Studies,ss,n,ssn0804,4
-6,Social Studies,ss,n,ssn0105,5
-6,Social Studies,ss,n,ssn0205,5
-6,Social Studies,ss,n,ssn0305,5
-6,Social Studies,ss,n,ssn0405,5
-6,Social Studies,ss,n,ssn0505,5
-6,Social Studies,ss,n,ssn0605,5
-6,Social Studies,ss,n,ssn0110,10
-6,Social Studies,ss,n,ssn0210,10
-6,Social Studies,ss,n,ssn0310,10
-6,Social Studies,ss,n,ssn0410,10
-6,Social Studies,ss,n,ssn0510,10
-6,Social Studies,ss,n,ssn0120,20
-6,Social Studies,ss,n,ssn0220,20
-6,Social Studies,ss,n,ssn0320,20
-6,Social Studies,ss,n,ssn0420,20
-6,Social Studies,ss,n,ssn0520,20
-6,Social Studies,ss,n,ssn0620,20
-6,Social Studies,ss,n,ssn0720,20
-6,Social Studies,ss,n,ssn0820,20
-6,Social Studies,ss,n,ssn0920,20
-6,Social Studies,ss,o,sso0101,1
-6,Social Studies,ss,o,sso0201,1
-6,Social Studies,ss,o,sso0301,1
-6,Social Studies,ss,o,sso0401,1
-6,Social Studies,ss,o,sso0501,1
-6,Social Studies,ss,o,sso0601,1
-6,Social Studies,ss,o,sso0701,1
-6,Social Studies,ss,o,sso0801,1
-6,Social Studies,ss,o,sso0901,1
-6,Social Studies,ss,o,sso0102,2
-6,Social Studies,ss,o,sso0202,2
-6,Social Studies,ss,o,sso0302,2
-6,Social Studies,ss,o,sso0402,2
-6,Social Studies,ss,o,sso0104,4
-6,Social Studies,ss,o,sso0204,4
-6,Social Studies,ss,o,sso0304,4
-6,Social Studies,ss,o,sso0404,4
-6,Social Studies,ss,o,sso0504,4
-6,Social Studies,ss,o,sso0604,4
-6,Social Studies,ss,o,sso0704,4
-6,Social Studies,ss,o,sso0804,4
-6,Social Studies,ss,o,sso0904,4
-6,Social Studies,ss,o,sso1004,4
-6,Social Studies,ss,o,sso0105,5
-6,Social Studies,ss,o,sso0205,5
-6,Social Studies,ss,o,sso0305,5
-6,Social Studies,ss,o,sso0405,5
-6,Social Studies,ss,o,sso0505,5
-6,Social Studies,ss,o,sso0110,10
-6,Social Studies,ss,o,sso0210,10
-6,Social Studies,ss,o,sso0310,10
-6,Social Studies,ss,o,sso0410,10
-6,Social Studies,ss,o,sso0510,10
-6,Social Studies,ss,o,sso0610,10
-6,Social Studies,ss,o,sso0710,10
-6,Social Studies,ss,o,sso0120,20
-6,Social Studies,ss,o,sso0220,20
-6,Social Studies,ss,o,sso0320,20
-6,Social Studies,ss,o,sso0420,20
-6,Social Studies,ss,o,sso0520,20
-6,Social Studies,ss,o,sso0620,20
-6,Social Studies,ss,o,sso0720,20
-6,Social Studies,ss,o,sso0820,20
-6,Social Studies,ss,o,sso0920,20
-7,Mathematics,ma,a,maa0101,1
-7,Mathematics,ma,a,maa0201,1
-7,Mathematics,ma,a,maa0301,1
-7,Mathematics,ma,a,maa0401,1
-7,Mathematics,ma,a,maa0501,1
-7,Mathematics,ma,a,maa0601,1
-7,Mathematics,ma,a,maa0102,2
-7,Mathematics,ma,a,maa0202,2
-7,Mathematics,ma,a,maa0302,2
-7,Mathematics,ma,a,maa0402,2
-7,Mathematics,ma,a,maa0502,2
-7,Mathematics,ma,a,maa0602,2
-7,Mathematics,ma,a,maa0702,2
-7,Mathematics,ma,a,maa0802,2
-7,Mathematics,ma,a,maa0902,2
-7,Mathematics,ma,a,maa0104,4
-7,Mathematics,ma,a,maa0204,4
-7,Mathematics,ma,a,maa0304,4
-7,Mathematics,ma,a,maa0404,4
-7,Mathematics,ma,a,maa0105,5
-7,Mathematics,ma,a,maa0205,5
-7,Mathematics,ma,a,maa0305,5
-7,Mathematics,ma,a,maa0405,5
-7,Mathematics,ma,a,maa0505,5
-7,Mathematics,ma,a,maa0605,5
-7,Mathematics,ma,a,maa0705,5
-7,Mathematics,ma,a,maa0805,5
-7,Mathematics,ma,a,maa0905,5
-7,Mathematics,ma,a,maa0110,10
-7,Mathematics,ma,a,maa0210,10
-7,Mathematics,ma,a,maa0310,10
-7,Mathematics,ma,a,maa0120,20
-7,Mathematics,ma,a,maa0220,20
-7,Mathematics,ma,b,mab0101,1
-7,Mathematics,ma,b,mab0201,1
-7,Mathematics,ma,b,mab0301,1
-7,Mathematics,ma,b,mab0401,1
-7,Mathematics,ma,b,mab0501,1
-7,Mathematics,ma,b,mab0601,1
-7,Mathematics,ma,b,mab0701,1
-7,Mathematics,ma,b,mab0801,1
-7,Mathematics,ma,b,mab0102,2
-7,Mathematics,ma,b,mab0202,2
-7,Mathematics,ma,b,mab0302,2
-7,Mathematics,ma,b,mab0402,2
-7,Mathematics,ma,b,mab0502,2
-7,Mathematics,ma,b,mab0602,2
-7,Mathematics,ma,b,mab0702,2
-7,Mathematics,ma,b,mab0802,2
-7,Mathematics,ma,b,mab0902,2
-7,Mathematics,ma,b,mab0104,4
-7,Mathematics,ma,b,mab0105,5
-7,Mathematics,ma,b,mab0205,5
-7,Mathematics,ma,b,mab0305,5
-7,Mathematics,ma,b,mab0405,5
-7,Mathematics,ma,b,mab0505,5
-7,Mathematics,ma,b,mab0110,10
-7,Mathematics,ma,b,mab0210,10
-7,Mathematics,ma,b,mab0310,10
-7,Mathematics,ma,b,mab0120,20
-7,Mathematics,ma,b,mab0220,20
-7,Mathematics,ma,b,mab0320,20
-7,Mathematics,ma,b,mab0420,20
-7,Mathematics,ma,b,mab0520,20
-7,Mathematics,ma,b,mab0620,20
-7,Mathematics,ma,b,mab0720,20
-7,Mathematics,ma,b,mab0820,20
-7,Mathematics,ma,c,mac0101,1
-7,Mathematics,ma,c,mac0201,1
-7,Mathematics,ma,c,mac0102,2
-7,Mathematics,ma,c,mac0104,4
-7,Mathematics,ma,c,mac0204,4
-7,Mathematics,ma,c,mac0304,4
-7,Mathematics,ma,c,mac0404,4
-7,Mathematics,ma,c,mac0105,5
-7,Mathematics,ma,c,mac0205,5
-7,Mathematics,ma,c,mac0305,5
-7,Mathematics,ma,c,mac0405,5
-7,Mathematics,ma,c,mac0505,5
-7,Mathematics,ma,c,mac0110,10
-7,Mathematics,ma,c,mac0210,10
-7,Mathematics,ma,c,mac0310,10
-7,Mathematics,ma,c,mac0410,10
-7,Mathematics,ma,c,mac0510,10
-7,Mathematics,ma,c,mac0120,20
-7,Mathematics,ma,c,mac0220,20
-7,Mathematics,ma,c,mac0320,20
-7,Mathematics,ma,c,mac0420,20
-7,Mathematics,ma,d,mad0101,1
-7,Mathematics,ma,d,mad0201,1
-7,Mathematics,ma,d,mad0301,1
-7,Mathematics,ma,d,mad0401,1
-7,Mathematics,ma,d,mad0501,1
-7,Mathematics,ma,d,mad0601,1
-7,Mathematics,ma,d,mad0701,1
-7,Mathematics,ma,d,mad0801,1
-7,Mathematics,ma,d,mad0102,2
-7,Mathematics,ma,d,mad0202,2
-7,Mathematics,ma,d,mad0302,2
-7,Mathematics,ma,d,mad0402,2
-7,Mathematics,ma,d,mad0502,2
-7,Mathematics,ma,d,mad0104,4
-7,Mathematics,ma,d,mad0204,4
-7,Mathematics,ma,d,mad0304,4
-7,Mathematics,ma,d,mad0404,4
-7,Mathematics,ma,d,mad0504,4
-7,Mathematics,ma,d,mad0604,4
-7,Mathematics,ma,d,mad0704,4
-7,Mathematics,ma,d,mad0804,4
-7,Mathematics,ma,d,mad0904,4
-7,Mathematics,ma,d,mad1004,4
-7,Mathematics,ma,d,mad0105,5
-7,Mathematics,ma,d,mad0205,5
-7,Mathematics,ma,d,mad0305,5
-7,Mathematics,ma,d,mad0405,5
-7,Mathematics,ma,d,mad0110,10
-7,Mathematics,ma,d,mad0210,10
-7,Mathematics,ma,d,mad0310,10
-7,Mathematics,ma,d,mad0410,10
-7,Mathematics,ma,d,mad0510,10
-7,Mathematics,ma,d,mad0120,20
-7,Mathematics,ma,d,mad0220,20
-7,Mathematics,ma,d,mad0320,20
-7,Mathematics,ma,d,mad0420,20
-7,Mathematics,ma,d,mad0520,20
-7,Mathematics,ma,e,mae0101,1
-7,Mathematics,ma,e,mae0201,1
-7,Mathematics,ma,e,mae0301,1
-7,Mathematics,ma,e,mae0401,1
-7,Mathematics,ma,e,mae0102,2
-7,Mathematics,ma,e,mae0202,2
-7,Mathematics,ma,e,mae0104,4
-7,Mathematics,ma,e,mae0204,4
-7,Mathematics,ma,e,mae0304,4
-7,Mathematics,ma,e,mae0404,4
-7,Mathematics,ma,e,mae0504,4
-7,Mathematics,ma,e,mae0604,4
-7,Mathematics,ma,e,mae0704,4
-7,Mathematics,ma,e,mae0105,5
-7,Mathematics,ma,e,mae0205,5
-7,Mathematics,ma,e,mae0305,5
-7,Mathematics,ma,e,mae0405,5
-7,Mathematics,ma,e,mae0505,5
-7,Mathematics,ma,e,mae0110,10
-7,Mathematics,ma,e,mae0210,10
-7,Mathematics,ma,e,mae0310,10
-7,Mathematics,ma,e,mae0120,20
-7,Biology,bs,f,bsf0101,1
-7,Biology,bs,f,bsf0201,1
-7,Biology,bs,f,bsf0301,1
-7,Biology,bs,f,bsf0401,1
-7,Biology,bs,f,bsf0501,1
-7,Biology,bs,f,bsf0601,1
-7,Biology,bs,f,bsf0701,1
-7,Biology,bs,f,bsf0801,1
-7,Biology,bs,f,bsf0102,2
-7,Biology,bs,f,bsf0202,2
-7,Biology,bs,f,bsf0302,2
-7,Biology,bs,f,bsf0402,2
-7,Biology,bs,f,bsf0502,2
-7,Biology,bs,f,bsf0602,2
-7,Biology,bs,f,bsf0702,2
-7,Biology,bs,f,bsf0802,2
-7,Biology,bs,f,bsf0104,4
-7,Biology,bs,f,bsf0204,4
-7,Biology,bs,f,bsf0304,4
-7,Biology,bs,f,bsf0404,4
-7,Biology,bs,f,bsf0504,4
-7,Biology,bs,f,bsf0604,4
-7,Biology,bs,f,bsf0704,4
-7,Biology,bs,f,bsf0804,4
-7,Biology,bs,f,bsf0904,4
-7,Biology,bs,f,bsf1004,4
-7,Biology,bs,f,bsf0105,5
-7,Biology,bs,f,bsf0205,5
-7,Biology,bs,f,bsf0305,5
-7,Biology,bs,f,bsf0405,5
-7,Biology,bs,f,bsf0110,10
-7,Biology,bs,f,bsf0210,10
-7,Biology,bs,f,bsf0310,10
-7,Biology,bs,f,bsf0410,10
-7,Biology,bs,f,bsf0510,10
-7,Biology,bs,f,bsf0120,20
-7,Biology,bs,f,bsf0220,20
-7,Biology,bs,f,bsf0320,20
-7,Biology,bs,f,bsf0420,20
-7,Biology,bs,f,bsf0520,20
-7,Biology,bs,f,bsf0620,20
-7,Biology,bs,f,bsf0720,20
-7,Biology,bs,f,bsf0820,20
-7,Biology,bs,f,bsf0920,20
-7,Biology,bs,f,bsf1020,20
-7,Biology,bs,g,bsg0101,1
-7,Biology,bs,g,bsg0201,1
-7,Biology,bs,g,bsg0301,1
-7,Biology,bs,g,bsg0401,1
-7,Biology,bs,g,bsg0102,2
-7,Biology,bs,g,bsg0202,2
-7,Biology,bs,g,bsg0302,2
-7,Biology,bs,g,bsg0402,2
-7,Biology,bs,g,bsg0502,2
-7,Biology,bs,g,bsg0602,2
-7,Biology,bs,g,bsg0702,2
-7,Biology,bs,g,bsg0802,2
-7,Biology,bs,g,bsg0902,2
-7,Biology,bs,g,bsg0104,4
-7,Biology,bs,g,bsg0204,4
-7,Biology,bs,g,bsg0304,4
-7,Biology,bs,g,bsg0404,4
-7,Biology,bs,g,bsg0504,4
-7,Biology,bs,g,bsg0604,4
-7,Biology,bs,g,bsg0704,4
-7,Biology,bs,g,bsg0804,4
-7,Biology,bs,g,bsg0904,4
-7,Biology,bs,g,bsg1004,4
-7,Biology,bs,g,bsg0105,5
-7,Biology,bs,g,bsg0205,5
-7,Biology,bs,g,bsg0305,5
-7,Biology,bs,g,bsg0405,5
-7,Biology,bs,g,bsg0505,5
-7,Biology,bs,g,bsg0110,10
-7,Biology,bs,g,bsg0210,10
-7,Biology,bs,g,bsg0120,20
-7,Biology,bs,g,bsg0220,20
-7,Biology,bs,h,bsh0101,1
-7,Biology,bs,h,bsh0201,1
-7,Biology,bs,h,bsh0301,1
-7,Biology,bs,h,bsh0401,1
-7,Biology,bs,h,bsh0501,1
-7,Biology,bs,h,bsh0102,2
-7,Biology,bs,h,bsh0202,2
-7,Biology,bs,h,bsh0302,2
-7,Biology,bs,h,bsh0402,2
-7,Biology,bs,h,bsh0502,2
-7,Biology,bs,h,bsh0602,2
-7,Biology,bs,h,bsh0104,4
-7,Biology,bs,h,bsh0204,4
-7,Biology,bs,h,bsh0304,4
-7,Biology,bs,h,bsh0404,4
-7,Biology,bs,h,bsh0504,4
-7,Biology,bs,h,bsh0105,5
-7,Biology,bs,h,bsh0205,5
-7,Biology,bs,h,bsh0305,5
-7,Biology,bs,h,bsh0405,5
-7,Biology,bs,h,bsh0505,5
-7,Biology,bs,h,bsh0605,5
-7,Biology,bs,h,bsh0705,5
-7,Biology,bs,h,bsh0805,5
-7,Biology,bs,h,bsh0905,5
-7,Biology,bs,h,bsh1005,5
-7,Biology,bs,h,bsh0110,10
-7,Biology,bs,h,bsh0210,10
-7,Biology,bs,h,bsh0310,10
-7,Biology,bs,h,bsh0410,10
-7,Biology,bs,h,bsh0510,10
-7,Biology,bs,h,bsh0610,10
-7,Biology,bs,h,bsh0120,20
-7,Biology,bs,h,bsh0220,20
-7,Biology,bs,h,bsh0320,20
-7,Biology,bs,h,bsh0420,20
-7,Biology,bs,h,bsh0520,20
-7,Biology,bs,h,bsh0620,20
-7,Biology,bs,h,bsh0720,20
-7,Biology,bs,h,bsh0820,20
-7,Biology,bs,i,bsi0101,1
-7,Biology,bs,i,bsi0201,1
-7,Biology,bs,i,bsi0301,1
-7,Biology,bs,i,bsi0401,1
-7,Biology,bs,i,bsi0501,1
-7,Biology,bs,i,bsi0601,1
-7,Biology,bs,i,bsi0701,1
-7,Biology,bs,i,bsi0801,1
-7,Biology,bs,i,bsi0901,1
-7,Biology,bs,i,bsi1001,1
-7,Biology,bs,i,bsi0102,2
-7,Biology,bs,i,bsi0202,2
-7,Biology,bs,i,bsi0302,2
-7,Biology,bs,i,bsi0402,2
-7,Biology,bs,i,bsi0502,2
-7,Biology,bs,i,bsi0602,2
-7,Biology,bs,i,bsi0702,2
-7,Biology,bs,i,bsi0802,2
-7,Biology,bs,i,bsi0902,2
-7,Biology,bs,i,bsi0104,4
-7,Biology,bs,i,bsi0105,5
-7,Biology,bs,i,bsi0205,5
-7,Biology,bs,i,bsi0305,5
-7,Biology,bs,i,bsi0110,10
-7,Biology,bs,i,bsi0210,10
-7,Biology,bs,i,bsi0310,10
-7,Biology,bs,i,bsi0410,10
-7,Biology,bs,i,bsi0510,10
-7,Biology,bs,i,bsi0120,20
-7,Biology,bs,j,bsj0101,1
-7,Biology,bs,j,bsj0201,1
-7,Biology,bs,j,bsj0301,1
-7,Biology,bs,j,bsj0102,2
-7,Biology,bs,j,bsj0202,2
-7,Biology,bs,j,bsj0302,2
-7,Biology,bs,j,bsj0402,2
-7,Biology,bs,j,bsj0104,4
-7,Biology,bs,j,bsj0204,4
-7,Biology,bs,j,bsj0304,4
-7,Biology,bs,j,bsj0404,4
-7,Biology,bs,j,bsj0504,4
-7,Biology,bs,j,bsj0604,4
-7,Biology,bs,j,bsj0704,4
-7,Biology,bs,j,bsj0804,4
-7,Biology,bs,j,bsj0105,5
-7,Biology,bs,j,bsj0205,5
-7,Biology,bs,j,bsj0305,5
-7,Biology,bs,j,bsj0110,10
-7,Biology,bs,j,bsj0210,10
-7,Biology,bs,j,bsj0310,10
-7,Biology,bs,j,bsj0410,10
-7,Biology,bs,j,bsj0120,20
-7,Social Studies,ss,k,ssk0101,1
-7,Social Studies,ss,k,ssk0201,1
-7,Social Studies,ss,k,ssk0301,1
-7,Social Studies,ss,k,ssk0401,1
-7,Social Studies,ss,k,ssk0501,1
-7,Social Studies,ss,k,ssk0601,1
-7,Social Studies,ss,k,ssk0701,1
-7,Social Studies,ss,k,ssk0801,1
-7,Social Studies,ss,k,ssk0901,1
-7,Social Studies,ss,k,ssk1001,1
-7,Social Studies,ss,k,ssk0102,2
-7,Social Studies,ss,k,ssk0202,2
-7,Social Studies,ss,k,ssk0302,2
-7,Social Studies,ss,k,ssk0402,2
-7,Social Studies,ss,k,ssk0502,2
-7,Social Studies,ss,k,ssk0602,2
-7,Social Studies,ss,k,ssk0702,2
-7,Social Studies,ss,k,ssk0802,2
-7,Social Studies,ss,k,ssk0902,2
-7,Social Studies,ss,k,ssk0104,4
-7,Social Studies,ss,k,ssk0105,5
-7,Social Studies,ss,k,ssk0205,5
-7,Social Studies,ss,k,ssk0305,5
-7,Social Studies,ss,k,ssk0405,5
-7,Social Studies,ss,k,ssk0505,5
-7,Social Studies,ss,k,ssk0605,5
-7,Social Studies,ss,k,ssk0705,5
-7,Social Studies,ss,k,ssk0110,10
-7,Social Studies,ss,k,ssk0210,10
-7,Social Studies,ss,k,ssk0310,10
-7,Social Studies,ss,k,ssk0410,10
-7,Social Studies,ss,k,ssk0510,10
-7,Social Studies,ss,k,ssk0120,20
-7,Social Studies,ss,k,ssk0220,20
-7,Social Studies,ss,k,ssk0320,20
-7,Social Studies,ss,k,ssk0420,20
-7,Social Studies,ss,k,ssk0520,20
-7,Social Studies,ss,l,ssl0101,1
-7,Social Studies,ss,l,ssl0201,1
-7,Social Studies,ss,l,ssl0301,1
-7,Social Studies,ss,l,ssl0401,1
-7,Social Studies,ss,l,ssl0501,1
-7,Social Studies,ss,l,ssl0601,1
-7,Social Studies,ss,l,ssl0701,1
-7,Social Studies,ss,l,ssl0801,1
-7,Social Studies,ss,l,ssl0901,1
-7,Social Studies,ss,l,ssl0102,2
-7,Social Studies,ss,l,ssl0202,2
-7,Social Studies,ss,l,ssl0302,2
-7,Social Studies,ss,l,ssl0402,2
-7,Social Studies,ss,l,ssl0104,4
-7,Social Studies,ss,l,ssl0204,4
-7,Social Studies,ss,l,ssl0105,5
-7,Social Studies,ss,l,ssl0110,10
-7,Social Studies,ss,l,ssl0120,20
-7,Social Studies,ss,l,ssl0220,20
-7,Social Studies,ss,l,ssl0320,20
-7,Social Studies,ss,m,ssm0101,1
-7,Social Studies,ss,m,ssm0201,1
-7,Social Studies,ss,m,ssm0301,1
-7,Social Studies,ss,m,ssm0401,1
-7,Social Studies,ss,m,ssm0102,2
-7,Social Studies,ss,m,ssm0202,2
-7,Social Studies,ss,m,ssm0302,2
-7,Social Studies,ss,m,ssm0104,4
-7,Social Studies,ss,m,ssm0204,4
-7,Social Studies,ss,m,ssm0304,4
-7,Social Studies,ss,m,ssm0404,4
-7,Social Studies,ss,m,ssm0504,4
-7,Social Studies,ss,m,ssm0604,4
-7,Social Studies,ss,m,ssm0704,4
-7,Social Studies,ss,m,ssm0804,4
-7,Social Studies,ss,m,ssm0904,4
-7,Social Studies,ss,m,ssm0105,5
-7,Social Studies,ss,m,ssm0205,5
-7,Social Studies,ss,m,ssm0305,5
-7,Social Studies,ss,m,ssm0405,5
-7,Social Studies,ss,m,ssm0505,5
-7,Social Studies,ss,m,ssm0605,5
-7,Social Studies,ss,m,ssm0705,5
-7,Social Studies,ss,m,ssm0805,5
-7,Social Studies,ss,m,ssm0905,5
-7,Social Studies,ss,m,ssm0110,10
-7,Social Studies,ss,m,ssm0210,10
-7,Social Studies,ss,m,ssm0310,10
-7,Social Studies,ss,m,ssm0410,10
-7,Social Studies,ss,m,ssm0510,10
-7,Social Studies,ss,m,ssm0120,20
-7,Social Studies,ss,m,ssm0220,20
-7,Social Studies,ss,m,ssm0320,20
-7,Social Studies,ss,m,ssm0420,20
-7,Social Studies,ss,m,ssm0520,20
-7,Social Studies,ss,m,ssm0620,20
-7,Social Studies,ss,m,ssm0720,20
-7,Social Studies,ss,m,ssm0820,20
-7,Social Studies,ss,m,ssm0920,20
-7,Social Studies,ss,m,ssm1020,20
-7,Social Studies,ss,n,ssn0101,1
-7,Social Studies,ss,n,ssn0201,1
-7,Social Studies,ss,n,ssn0102,2
-7,Social Studies,ss,n,ssn0202,2
-7,Social Studies,ss,n,ssn0302,2
-7,Social Studies,ss,n,ssn0402,2
-7,Social Studies,ss,n,ssn0502,2
-7,Social Studies,ss,n,ssn0602,2
-7,Social Studies,ss,n,ssn0702,2
-7,Social Studies,ss,n,ssn0104,4
-7,Social Studies,ss,n,ssn0204,4
-7,Social Studies,ss,n,ssn0304,4
-7,Social Studies,ss,n,ssn0404,4
-7,Social Studies,ss,n,ssn0504,4
-7,Social Studies,ss,n,ssn0604,4
-7,Social Studies,ss,n,ssn0704,4
-7,Social Studies,ss,n,ssn0804,4
-7,Social Studies,ss,n,ssn0904,4
-7,Social Studies,ss,n,ssn0105,5
-7,Social Studies,ss,n,ssn0205,5
-7,Social Studies,ss,n,ssn0305,5
-7,Social Studies,ss,n,ssn0405,5
-7,Social Studies,ss,n,ssn0505,5
-7,Social Studies,ss,n,ssn0110,10
-7,Social Studies,ss,n,ssn0210,10
-7,Social Studies,ss,n,ssn0120,20
-7,Social Studies,ss,n,ssn0220,20
-7,Social Studies,ss,n,ssn0320,20
-7,Social Studies,ss,n,ssn0420,20
-7,Social Studies,ss,o,sso0101,1
-7,Social Studies,ss,o,sso0102,2
-7,Social Studies,ss,o,sso0202,2
-7,Social Studies,ss,o,sso0302,2
-7,Social Studies,ss,o,sso0402,2
-7,Social Studies,ss,o,sso0502,2
-7,Social Studies,ss,o,sso0602,2
-7,Social Studies,ss,o,sso0702,2
-7,Social Studies,ss,o,sso0802,2
-7,Social Studies,ss,o,sso0104,4
-7,Social Studies,ss,o,sso0204,4
-7,Social Studies,ss,o,sso0304,4
-7,Social Studies,ss,o,sso0404,4
-7,Social Studies,ss,o,sso0504,4
-7,Social Studies,ss,o,sso0604,4
-7,Social Studies,ss,o,sso0704,4
-7,Social Studies,ss,o,sso0804,4
-7,Social Studies,ss,o,sso0904,4
-7,Social Studies,ss,o,sso1004,4
-7,Social Studies,ss,o,sso0105,5
-7,Social Studies,ss,o,sso0205,5
-7,Social Studies,ss,o,sso0110,10
-7,Social Studies,ss,o,sso0210,10
-7,Social Studies,ss,o,sso0310,10
-7,Social Studies,ss,o,sso0410,10
-7,Social Studies,ss,o,sso0510,10
-7,Social Studies,ss,o,sso0610,10
-7,Social Studies,ss,o,sso0710,10
-7,Social Studies,ss,o,sso0810,10
-7,Social Studies,ss,o,sso0910,10
-7,Social Studies,ss,o,sso1010,10
-7,Social Studies,ss,o,sso0120,20
-7,Social Studies,ss,o,sso0220,20
-7,Social Studies,ss,o,sso0320,20
-7,Social Studies,ss,o,sso0420,20
-8,Mathematics,ma,a,maa0101,1
-8,Mathematics,ma,a,maa0201,1
-8,Mathematics,ma,a,maa0301,1
-8,Mathematics,ma,a,maa0401,1
-8,Mathematics,ma,a,maa0102,2
-8,Mathematics,ma,a,maa0202,2
-8,Mathematics,ma,a,maa0302,2
-8,Mathematics,ma,a,maa0402,2
-8,Mathematics,ma,a,maa0502,2
-8,Mathematics,ma,a,maa0602,2
-8,Mathematics,ma,a,maa0702,2
-8,Mathematics,ma,a,maa0104,4
-8,Mathematics,ma,a,maa0204,4
-8,Mathematics,ma,a,maa0304,4
-8,Mathematics,ma,a,maa0404,4
-8,Mathematics,ma,a,maa0504,4
-8,Mathematics,ma,a,maa0604,4
-8,Mathematics,ma,a,maa0704,4
-8,Mathematics,ma,a,maa0804,4
-8,Mathematics,ma,a,maa0904,4
-8,Mathematics,ma,a,maa1004,4
-8,Mathematics,ma,a,maa0105,5
-8,Mathematics,ma,a,maa0205,5
-8,Mathematics,ma,a,maa0110,10
-8,Mathematics,ma,a,maa0210,10
-8,Mathematics,ma,a,maa0310,10
-8,Mathematics,ma,a,maa0410,10
-8,Mathematics,ma,a,maa0120,20
-8,Mathematics,ma,a,maa0220,20
-8,Mathematics,ma,a,maa0320,20
-8,Mathematics,ma,a,maa0420,20
-8,Mathematics,ma,a,maa0520,20
-8,Mathematics,ma,a,maa0620,20
-8,Mathematics,ma,a,maa0720,20
-8,Mathematics,ma,a,maa0820,20
-8,Mathematics,ma,a,maa0920,20
-8,Mathematics,ma,a,maa1020,20
-8,Mathematics,ma,b,mab0101,1
-8,Mathematics,ma,b,mab0201,1
-8,Mathematics,ma,b,mab0301,1
-8,Mathematics,ma,b,mab0401,1
-8,Mathematics,ma,b,mab0501,1
-8,Mathematics,ma,b,mab0601,1
-8,Mathematics,ma,b,mab0701,1
-8,Mathematics,ma,b,mab0801,1
-8,Mathematics,ma,b,mab0102,2
-8,Mathematics,ma,b,mab0202,2
-8,Mathematics,ma,b,mab0302,2
-8,Mathematics,ma,b,mab0402,2
-8,Mathematics,ma,b,mab0502,2
-8,Mathematics,ma,b,mab0104,4
-8,Mathematics,ma,b,mab0204,4
-8,Mathematics,ma,b,mab0304,4
-8,Mathematics,ma,b,mab0404,4
-8,Mathematics,ma,b,mab0105,5
-8,Mathematics,ma,b,mab0205,5
-8,Mathematics,ma,b,mab0305,5
-8,Mathematics,ma,b,mab0405,5
-8,Mathematics,ma,b,mab0505,5
-8,Mathematics,ma,b,mab0605,5
-8,Mathematics,ma,b,mab0705,5
-8,Mathematics,ma,b,mab0805,5
-8,Mathematics,ma,b,mab0905,5
-8,Mathematics,ma,b,mab0110,10
-8,Mathematics,ma,b,mab0210,10
-8,Mathematics,ma,b,mab0310,10
-8,Mathematics,ma,b,mab0410,10
-8,Mathematics,ma,b,mab0510,10
-8,Mathematics,ma,b,mab0120,20
-8,Mathematics,ma,b,mab0220,20
-8,Mathematics,ma,b,mab0320,20
-8,Mathematics,ma,b,mab0420,20
-8,Mathematics,ma,b,mab0520,20
-8,Mathematics,ma,b,mab0620,20
-8,Mathematics,ma,b,mab0720,20
-8,Mathematics,ma,b,mab0820,20
-8,Mathematics,ma,c,mac0101,1
-8,Mathematics,ma,c,mac0201,1
-8,Mathematics,ma,c,mac0301,1
-8,Mathematics,ma,c,mac0401,1
-8,Mathematics,ma,c,mac0501,1
-8,Mathematics,ma,c,mac0601,1
-8,Mathematics,ma,c,mac0701,1
-8,Mathematics,ma,c,mac0801,1
-8,Mathematics,ma,c,mac0901,1
-8,Mathematics,ma,c,mac1001,1
-8,Mathematics,ma,c,mac0102,2
-8,Mathematics,ma,c,mac0202,2
-8,Mathematics,ma,c,mac0302,2
-8,Mathematics,ma,c,mac0402,2
-8,Mathematics,ma,c,mac0502,2
-8,Mathematics,ma,c,mac0602,2
-8,Mathematics,ma,c,mac0104,4
-8,Mathematics,ma,c,mac0204,4
-8,Mathematics,ma,c,mac0304,4
-8,Mathematics,ma,c,mac0404,4
-8,Mathematics,ma,c,mac0504,4
-8,Mathematics,ma,c,mac0105,5
-8,Mathematics,ma,c,mac0205,5
-8,Mathematics,ma,c,mac0110,10
-8,Mathematics,ma,c,mac0210,10
-8,Mathematics,ma,c,mac0310,10
-8,Mathematics,ma,c,mac0410,10
-8,Mathematics,ma,c,mac0120,20
-8,Mathematics,ma,d,mad0101,1
-8,Mathematics,ma,d,mad0201,1
-8,Mathematics,ma,d,mad0301,1
-8,Mathematics,ma,d,mad0401,1
-8,Mathematics,ma,d,mad0501,1
-8,Mathematics,ma,d,mad0601,1
-8,Mathematics,ma,d,mad0701,1
-8,Mathematics,ma,d,mad0801,1
-8,Mathematics,ma,d,mad0102,2
-8,Mathematics,ma,d,mad0202,2
-8,Mathematics,ma,d,mad0302,2
-8,Mathematics,ma,d,mad0402,2
-8,Mathematics,ma,d,mad0502,2
-8,Mathematics,ma,d,mad0602,2
-8,Mathematics,ma,d,mad0702,2
-8,Mathematics,ma,d,mad0802,2
-8,Mathematics,ma,d,mad0902,2
-8,Mathematics,ma,d,mad0104,4
-8,Mathematics,ma,d,mad0204,4
-8,Mathematics,ma,d,mad0304,4
-8,Mathematics,ma,d,mad0404,4
-8,Mathematics,ma,d,mad0504,4
-8,Mathematics,ma,d,mad0604,4
-8,Mathematics,ma,d,mad0704,4
-8,Mathematics,ma,d,mad0804,4
-8,Mathematics,ma,d,mad0904,4
-8,Mathematics,ma,d,mad1004,4
-8,Mathematics,ma,d,mad0105,5
-8,Mathematics,ma,d,mad0205,5
-8,Mathematics,ma,d,mad0305,5
-8,Mathematics,ma,d,mad0405,5
-8,Mathematics,ma,d,mad0505,5
-8,Mathematics,ma,d,mad0605,5
-8,Mathematics,ma,d,mad0110,10
-8,Mathematics,ma,d,mad0210,10
-8,Mathematics,ma,d,mad0120,20
-8,Mathematics,ma,d,mad0220,20
-8,Mathematics,ma,d,mad0320,20
-8,Mathematics,ma,d,mad0420,20
-8,Mathematics,ma,d,mad0520,20
-8,Mathematics,ma,d,mad0620,20
-8,Mathematics,ma,e,mae0101,1
-8,Mathematics,ma,e,mae0201,1
-8,Mathematics,ma,e,mae0102,2
-8,Mathematics,ma,e,mae0202,2
-8,Mathematics,ma,e,mae0302,2
-8,Mathematics,ma,e,mae0402,2
-8,Mathematics,ma,e,mae0104,4
-8,Mathematics,ma,e,mae0105,5
-8,Mathematics,ma,e,mae0205,5
-8,Mathematics,ma,e,mae0305,5
-8,Mathematics,ma,e,mae0405,5
-8,Mathematics,ma,e,mae0505,5
-8,Mathematics,ma,e,mae0605,5
-8,Mathematics,ma,e,mae0705,5
-8,Mathematics,ma,e,mae0805,5
-8,Mathematics,ma,e,mae0905,5
-8,Mathematics,ma,e,mae0110,10
-8,Mathematics,ma,e,mae0210,10
-8,Mathematics,ma,e,mae0310,10
-8,Mathematics,ma,e,mae0120,20
-8,Biology,bs,f,bsf0101,1
-8,Biology,bs,f,bsf0201,1
-8,Biology,bs,f,bsf0301,1
-8,Biology,bs,f,bsf0102,2
-8,Biology,bs,f,bsf0202,2
-8,Biology,bs,f,bsf0302,2
-8,Biology,bs,f,bsf0402,2
-8,Biology,bs,f,bsf0502,2
-8,Biology,bs,f,bsf0602,2
-8,Biology,bs,f,bsf0702,2
-8,Biology,bs,f,bsf0802,2
-8,Biology,bs,f,bsf0902,2
-8,Biology,bs,f,bsf0104,4
-8,Biology,bs,f,bsf0105,5
-8,Biology,bs,f,bsf0205,5
-8,Biology,bs,f,bsf0305,5
-8,Biology,bs,f,bsf0405,5
-8,Biology,bs,f,bsf0505,5
-8,Biology,bs,f,bsf0605,5
-8,Biology,bs,f,bsf0705,5
-8,Biology,bs,f,bsf0805,5
-8,Biology,bs,f,bsf0905,5
-8,Biology,bs,f,bsf0110,10
-8,Biology,bs,f,bsf0210,10
-8,Biology,bs,f,bsf0310,10
-8,Biology,bs,f,bsf0410,10
-8,Biology,bs,f,bsf0510,10
-8,Biology,bs,f,bsf0610,10
-8,Biology,bs,f,bsf0710,10
-8,Biology,bs,f,bsf0120,20
-8,Biology,bs,f,bsf0220,20
-8,Biology,bs,f,bsf0320,20
-8,Biology,bs,f,bsf0420,20
-8,Biology,bs,f,bsf0520,20
-8,Biology,bs,f,bsf0620,20
-8,Biology,bs,f,bsf0720,20
-8,Biology,bs,f,bsf0820,20
-8,Biology,bs,f,bsf0920,20
-8,Biology,bs,g,bsg0101,1
-8,Biology,bs,g,bsg0201,1
-8,Biology,bs,g,bsg0301,1
-8,Biology,bs,g,bsg0401,1
-8,Biology,bs,g,bsg0501,1
-8,Biology,bs,g,bsg0601,1
-8,Biology,bs,g,bsg0701,1
-8,Biology,bs,g,bsg0801,1
-8,Biology,bs,g,bsg0901,1
-8,Biology,bs,g,bsg1001,1
-8,Biology,bs,g,bsg0102,2
-8,Biology,bs,g,bsg0202,2
-8,Biology,bs,g,bsg0302,2
-8,Biology,bs,g,bsg0402,2
-8,Biology,bs,g,bsg0502,2
-8,Biology,bs,g,bsg0602,2
-8,Biology,bs,g,bsg0702,2
-8,Biology,bs,g,bsg0104,4
-8,Biology,bs,g,bsg0204,4
-8,Biology,bs,g,bsg0304,4
-8,Biology,bs,g,bsg0404,4
-8,Biology,bs,g,bsg0504,4
-8,Biology,bs,g,bsg0604,4
-8,Biology,bs,g,bsg0704,4
-8,Biology,bs,g,bsg0105,5
-8,Biology,bs,g,bsg0110,10
-8,Biology,bs,g,bsg0210,10
-8,Biology,bs,g,bsg0310,10
-8,Biology,bs,g,bsg0120,20
-8,Biology,bs,g,bsg0220,20
-8,Biology,bs,h,bsh0101,1
-8,Biology,bs,h,bsh0201,1
-8,Biology,bs,h,bsh0301,1
-8,Biology,bs,h,bsh0401,1
-8,Biology,bs,h,bsh0501,1
-8,Biology,bs,h,bsh0102,2
-8,Biology,bs,h,bsh0202,2
-8,Biology,bs,h,bsh0302,2
-8,Biology,bs,h,bsh0402,2
-8,Biology,bs,h,bsh0502,2
-8,Biology,bs,h,bsh0602,2
-8,Biology,bs,h,bsh0702,2
-8,Biology,bs,h,bsh0104,4
-8,Biology,bs,h,bsh0204,4
-8,Biology,bs,h,bsh0304,4
-8,Biology,bs,h,bsh0404,4
-8,Biology,bs,h,bsh0504,4
-8,Biology,bs,h,bsh0604,4
-8,Biology,bs,h,bsh0704,4
-8,Biology,bs,h,bsh0804,4
-8,Biology,bs,h,bsh0904,4
-8,Biology,bs,h,bsh1004,4
-8,Biology,bs,h,bsh0105,5
-8,Biology,bs,h,bsh0110,10
-8,Biology,bs,h,bsh0210,10
-8,Biology,bs,h,bsh0310,10
-8,Biology,bs,h,bsh0410,10
-8,Biology,bs,h,bsh0510,10
-8,Biology,bs,h,bsh0610,10
-8,Biology,bs,h,bsh0120,20
-8,Biology,bs,i,bsi0101,1
-8,Biology,bs,i,bsi0201,1
-8,Biology,bs,i,bsi0301,1
-8,Biology,bs,i,bsi0401,1
-8,Biology,bs,i,bsi0102,2
-8,Biology,bs,i,bsi0202,2
-8,Biology,bs,i,bsi0302,2
-8,Biology,bs,i,bsi0402,2
-8,Biology,bs,i,bsi0502,2
-8,Biology,bs,i,bsi0602,2
-8,Biology,bs,i,bsi0702,2
-8,Biology,bs,i,bsi0802,2
-8,Biology,bs,i,bsi0902,2
-8,Biology,bs,i,bsi0104,4
-8,Biology,bs,i,bsi0204,4
-8,Biology,bs,i,bsi0304,4
-8,Biology,bs,i,bsi0404,4
-8,Biology,bs,i,bsi0504,4
-8,Biology,bs,i,bsi0604,4
-8,Biology,bs,i,bsi0704,4
-8,Biology,bs,i,bsi0105,5
-8,Biology,bs,i,bsi0205,5
-8,Biology,bs,i,bsi0305,5
-8,Biology,bs,i,bsi0110,10
-8,Biology,bs,i,bsi0210,10
-8,Biology,bs,i,bsi0310,10
-8,Biology,bs,i,bsi0120,20
-8,Biology,bs,i,bsi0220,20
-8,Biology,bs,i,bsi0320,20
-8,Biology,bs,i,bsi0420,20
-8,Biology,bs,i,bsi0520,20
-8,Biology,bs,i,bsi0620,20
-8,Biology,bs,i,bsi0720,20
-8,Biology,bs,j,bsj0101,1
-8,Biology,bs,j,bsj0201,1
-8,Biology,bs,j,bsj0301,1
-8,Biology,bs,j,bsj0102,2
-8,Biology,bs,j,bsj0104,4
-8,Biology,bs,j,bsj0204,4
-8,Biology,bs,j,bsj0304,4
-8,Biology,bs,j,bsj0404,4
-8,Biology,bs,j,bsj0504,4
-8,Biology,bs,j,bsj0604,4
-8,Biology,bs,j,bsj0704,4
-8,Biology,bs,j,bsj0804,4
-8,Biology,bs,j,bsj0105,5
-8,Biology,bs,j,bsj0205,5
-8,Biology,bs,j,bsj0305,5
-8,Biology,bs,j,bsj0405,5
-8,Biology,bs,j,bsj0505,5
-8,Biology,bs,j,bsj0605,5
-8,Biology,bs,j,bsj0110,10
-8,Biology,bs,j,bsj0210,10
-8,Biology,bs,j,bsj0310,10
-8,Biology,bs,j,bsj0410,10
-8,Biology,bs,j,bsj0510,10
-8,Biology,bs,j,bsj0610,10
-8,Biology,bs,j,bsj0710,10
-8,Biology,bs,j,bsj0810,10
-8,Biology,bs,j,bsj0120,20
-8,Biology,bs,j,bsj0220,20
-8,Social Studies,ss,k,ssk0101,1
-8,Social Studies,ss,k,ssk0201,1
-8,Social Studies,ss,k,ssk0301,1
-8,Social Studies,ss,k,ssk0401,1
-8,Social Studies,ss,k,ssk0501,1
-8,Social Studies,ss,k,ssk0601,1
-8,Social Studies,ss,k,ssk0701,1
-8,Social Studies,ss,k,ssk0801,1
-8,Social Studies,ss,k,ssk0901,1
-8,Social Studies,ss,k,ssk0102,2
-8,Social Studies,ss,k,ssk0202,2
-8,Social Studies,ss,k,ssk0302,2
-8,Social Studies,ss,k,ssk0104,4
-8,Social Studies,ss,k,ssk0105,5
-8,Social Studies,ss,k,ssk0110,10
-8,Social Studies,ss,k,ssk0210,10
-8,Social Studies,ss,k,ssk0310,10
-8,Social Studies,ss,k,ssk0120,20
-8,Social Studies,ss,k,ssk0220,20
-8,Social Studies,ss,k,ssk0320,20
-8,Social Studies,ss,k,ssk0420,20
-8,Social Studies,ss,k,ssk0520,20
-8,Social Studies,ss,k,ssk0620,20
-8,Social Studies,ss,k,ssk0720,20
-8,Social Studies,ss,k,ssk0820,20
-8,Social Studies,ss,k,ssk0920,20
-8,Social Studies,ss,k,ssk1020,20
-8,Social Studies,ss,l,ssl0101,1
-8,Social Studies,ss,l,ssl0201,1
-8,Social Studies,ss,l,ssl0301,1
-8,Social Studies,ss,l,ssl0401,1
-8,Social Studies,ss,l,ssl0501,1
-8,Social Studies,ss,l,ssl0601,1
-8,Social Studies,ss,l,ssl0701,1
-8,Social Studies,ss,l,ssl0801,1
-8,Social Studies,ss,l,ssl0901,1
-8,Social Studies,ss,l,ssl0102,2
-8,Social Studies,ss,l,ssl0202,2
-8,Social Studies,ss,l,ssl0302,2
-8,Social Studies,ss,l,ssl0402,2
-8,Social Studies,ss,l,ssl0104,4
-8,Social Studies,ss,l,ssl0204,4
-8,Social Studies,ss,l,ssl0304,4
-8,Social Studies,ss,l,ssl0105,5
-8,Social Studies,ss,l,ssl0205,5
-8,Social Studies,ss,l,ssl0305,5
-8,Social Studies,ss,l,ssl0405,5
-8,Social Studies,ss,l,ssl0505,5
-8,Social Studies,ss,l,ssl0605,5
-8,Social Studies,ss,l,ssl0110,10
-8,Social Studies,ss,l,ssl0120,20
-8,Social Studies,ss,l,ssl0220,20
-8,Social Studies,ss,l,ssl0320,20
-8,Social Studies,ss,l,ssl0420,20
-8,Social Studies,ss,l,ssl0520,20
-8,Social Studies,ss,l,ssl0620,20
-8,Social Studies,ss,l,ssl0720,20
-8,Social Studies,ss,l,ssl0820,20
-8,Social Studies,ss,m,ssm0101,1
-8,Social Studies,ss,m,ssm0201,1
-8,Social Studies,ss,m,ssm0301,1
-8,Social Studies,ss,m,ssm0401,1
-8,Social Studies,ss,m,ssm0501,1
-8,Social Studies,ss,m,ssm0601,1
-8,Social Studies,ss,m,ssm0701,1
-8,Social Studies,ss,m,ssm0102,2
-8,Social Studies,ss,m,ssm0202,2
-8,Social Studies,ss,m,ssm0302,2
-8,Social Studies,ss,m,ssm0402,2
-8,Social Studies,ss,m,ssm0502,2
-8,Social Studies,ss,m,ssm0602,2
-8,Social Studies,ss,m,ssm0702,2
-8,Social Studies,ss,m,ssm0104,4
-8,Social Studies,ss,m,ssm0204,4
-8,Social Studies,ss,m,ssm0304,4
-8,Social Studies,ss,m,ssm0404,4
-8,Social Studies,ss,m,ssm0504,4
-8,Social Studies,ss,m,ssm0604,4
-8,Social Studies,ss,m,ssm0704,4
-8,Social Studies,ss,m,ssm0804,4
-8,Social Studies,ss,m,ssm0904,4
-8,Social Studies,ss,m,ssm1004,4
-8,Social Studies,ss,m,ssm0105,5
-8,Social Studies,ss,m,ssm0205,5
-8,Social Studies,ss,m,ssm0305,5
-8,Social Studies,ss,m,ssm0110,10
-8,Social Studies,ss,m,ssm0210,10
-8,Social Studies,ss,m,ssm0310,10
-8,Social Studies,ss,m,ssm0410,10
-8,Social Studies,ss,m,ssm0510,10
-8,Social Studies,ss,m,ssm0610,10
-8,Social Studies,ss,m,ssm0710,10
-8,Social Studies,ss,m,ssm0810,10
-8,Social Studies,ss,m,ssm0910,10
-8,Social Studies,ss,m,ssm0120,20
-8,Social Studies,ss,m,ssm0220,20
-8,Social Studies,ss,m,ssm0320,20
-8,Social Studies,ss,m,ssm0420,20
-8,Social Studies,ss,m,ssm0520,20
-8,Social Studies,ss,m,ssm0620,20
-8,Social Studies,ss,m,ssm0720,20
-8,Social Studies,ss,m,ssm0820,20
-8,Social Studies,ss,n,ssn0101,1
-8,Social Studies,ss,n,ssn0201,1
-8,Social Studies,ss,n,ssn0301,1
-8,Social Studies,ss,n,ssn0401,1
-8,Social Studies,ss,n,ssn0501,1
-8,Social Studies,ss,n,ssn0601,1
-8,Social Studies,ss,n,ssn0701,1
-8,Social Studies,ss,n,ssn0102,2
-8,Social Studies,ss,n,ssn0202,2
-8,Social Studies,ss,n,ssn0104,4
-8,Social Studies,ss,n,ssn0204,4
-8,Social Studies,ss,n,ssn0304,4
-8,Social Studies,ss,n,ssn0404,4
-8,Social Studies,ss,n,ssn0504,4
-8,Social Studies,ss,n,ssn0105,5
-8,Social Studies,ss,n,ssn0205,5
-8,Social Studies,ss,n,ssn0305,5
-8,Social Studies,ss,n,ssn0405,5
-8,Social Studies,ss,n,ssn0505,5
-8,Social Studies,ss,n,ssn0605,5
-8,Social Studies,ss,n,ssn0705,5
-8,Social Studies,ss,n,ssn0805,5
-8,Social Studies,ss,n,ssn0905,5
-8,Social Studies,ss,n,ssn0110,10
-8,Social Studies,ss,n,ssn0210,10
-8,Social Studies,ss,n,ssn0310,10
-8,Social Studies,ss,n,ssn0410,10
-8,Social Studies,ss,n,ssn0510,10
-8,Social Studies,ss,n,ssn0120,20
-8,Social Studies,ss,n,ssn0220,20
-8,Social Studies,ss,n,ssn0320,20
-8,Social Studies,ss,n,ssn0420,20
-8,Social Studies,ss,o,sso0101,1
-8,Social Studies,ss,o,sso0102,2
-8,Social Studies,ss,o,sso0104,4
-8,Social Studies,ss,o,sso0204,4
-8,Social Studies,ss,o,sso0304,4
-8,Social Studies,ss,o,sso0404,4
-8,Social Studies,ss,o,sso0504,4
-8,Social Studies,ss,o,sso0105,5
-8,Social Studies,ss,o,sso0205,5
-8,Social Studies,ss,o,sso0305,5
-8,Social Studies,ss,o,sso0405,5
-8,Social Studies,ss,o,sso0505,5
-8,Social Studies,ss,o,sso0605,5
-8,Social Studies,ss,o,sso0705,5
-8,Social Studies,ss,o,sso0805,5
-8,Social Studies,ss,o,sso0110,10
-8,Social Studies,ss,o,sso0210,10
-8,Social Studies,ss,o,sso0310,10
-8,Social Studies,ss,o,sso0410,10
-8,Social Studies,ss,o,sso0120,20
-8,Social Studies,ss,o,sso0220,20
-9,Mathematics,ma,a,maa0101,1
-9,Mathematics,ma,a,maa0201,1
-9,Mathematics,ma,a,maa0301,1
-9,Mathematics,ma,a,maa0401,1
-9,Mathematics,ma,a,maa0501,1
-9,Mathematics,ma,a,maa0601,1
-9,Mathematics,ma,a,maa0701,1
-9,Mathematics,ma,a,maa0801,1
-9,Mathematics,ma,a,maa0901,1
-9,Mathematics,ma,a,maa1001,1
-9,Mathematics,ma,a,maa0102,2
-9,Mathematics,ma,a,maa0202,2
-9,Mathematics,ma,a,maa0302,2
-9,Mathematics,ma,a,maa0402,2
-9,Mathematics,ma,a,maa0502,2
-9,Mathematics,ma,a,maa0104,4
-9,Mathematics,ma,a,maa0204,4
-9,Mathematics,ma,a,maa0304,4
-9,Mathematics,ma,a,maa0404,4
-9,Mathematics,ma,a,maa0504,4
-9,Mathematics,ma,a,maa0604,4
-9,Mathematics,ma,a,maa0704,4
-9,Mathematics,ma,a,maa0804,4
-9,Mathematics,ma,a,maa0904,4
-9,Mathematics,ma,a,maa1004,4
-9,Mathematics,ma,a,maa0105,5
-9,Mathematics,ma,a,maa0205,5
-9,Mathematics,ma,a,maa0305,5
-9,Mathematics,ma,a,maa0405,5
-9,Mathematics,ma,a,maa0505,5
-9,Mathematics,ma,a,maa0110,10
-9,Mathematics,ma,a,maa0210,10
-9,Mathematics,ma,a,maa0310,10
-9,Mathematics,ma,a,maa0410,10
-9,Mathematics,ma,a,maa0510,10
-9,Mathematics,ma,a,maa0610,10
-9,Mathematics,ma,a,maa0710,10
-9,Mathematics,ma,a,maa0120,20
-9,Mathematics,ma,a,maa0220,20
-9,Mathematics,ma,a,maa0320,20
-9,Mathematics,ma,a,maa0420,20
-9,Mathematics,ma,a,maa0520,20
-9,Mathematics,ma,a,maa0620,20
-9,Mathematics,ma,a,maa0720,20
-9,Mathematics,ma,a,maa0820,20
-9,Mathematics,ma,a,maa0920,20
-9,Mathematics,ma,a,maa1020,20
-9,Mathematics,ma,b,mab0101,1
-9,Mathematics,ma,b,mab0201,1
-9,Mathematics,ma,b,mab0301,1
-9,Mathematics,ma,b,mab0102,2
-9,Mathematics,ma,b,mab0202,2
-9,Mathematics,ma,b,mab0302,2
-9,Mathematics,ma,b,mab0402,2
-9,Mathematics,ma,b,mab0502,2
-9,Mathematics,ma,b,mab0104,4
-9,Mathematics,ma,b,mab0204,4
-9,Mathematics,ma,b,mab0304,4
-9,Mathematics,ma,b,mab0404,4
-9,Mathematics,ma,b,mab0504,4
-9,Mathematics,ma,b,mab0105,5
-9,Mathematics,ma,b,mab0205,5
-9,Mathematics,ma,b,mab0305,5
-9,Mathematics,ma,b,mab0405,5
-9,Mathematics,ma,b,mab0505,5
-9,Mathematics,ma,b,mab0605,5
-9,Mathematics,ma,b,mab0705,5
-9,Mathematics,ma,b,mab0805,5
-9,Mathematics,ma,b,mab0905,5
-9,Mathematics,ma,b,mab1005,5
-9,Mathematics,ma,b,mab0110,10
-9,Mathematics,ma,b,mab0210,10
-9,Mathematics,ma,b,mab0310,10
-9,Mathematics,ma,b,mab0410,10
-9,Mathematics,ma,b,mab0510,10
-9,Mathematics,ma,b,mab0610,10
-9,Mathematics,ma,b,mab0710,10
-9,Mathematics,ma,b,mab0810,10
-9,Mathematics,ma,b,mab0120,20
-9,Mathematics,ma,b,mab0220,20
-9,Mathematics,ma,b,mab0320,20
-9,Mathematics,ma,c,mac0101,1
-9,Mathematics,ma,c,mac0201,1
-9,Mathematics,ma,c,mac0301,1
-9,Mathematics,ma,c,mac0401,1
-9,Mathematics,ma,c,mac0501,1
-9,Mathematics,ma,c,mac0102,2
-9,Mathematics,ma,c,mac0202,2
-9,Mathematics,ma,c,mac0302,2
-9,Mathematics,ma,c,mac0402,2
-9,Mathematics,ma,c,mac0502,2
-9,Mathematics,ma,c,mac0602,2
-9,Mathematics,ma,c,mac0702,2
-9,Mathematics,ma,c,mac0802,2
-9,Mathematics,ma,c,mac0104,4
-9,Mathematics,ma,c,mac0204,4
-9,Mathematics,ma,c,mac0304,4
-9,Mathematics,ma,c,mac0404,4
-9,Mathematics,ma,c,mac0504,4
-9,Mathematics,ma,c,mac0604,4
-9,Mathematics,ma,c,mac0704,4
-9,Mathematics,ma,c,mac0804,4
-9,Mathematics,ma,c,mac0904,4
-9,Mathematics,ma,c,mac0105,5
-9,Mathematics,ma,c,mac0205,5
-9,Mathematics,ma,c,mac0305,5
-9,Mathematics,ma,c,mac0405,5
-9,Mathematics,ma,c,mac0505,5
-9,Mathematics,ma,c,mac0605,5
-9,Mathematics,ma,c,mac0705,5
-9,Mathematics,ma,c,mac0805,5
-9,Mathematics,ma,c,mac0905,5
-9,Mathematics,ma,c,mac0110,10
-9,Mathematics,ma,c,mac0210,10
-9,Mathematics,ma,c,mac0310,10
-9,Mathematics,ma,c,mac0120,20
-9,Mathematics,ma,c,mac0220,20
-9,Mathematics,ma,c,mac0320,20
-9,Mathematics,ma,c,mac0420,20
-9,Mathematics,ma,c,mac0520,20
-9,Mathematics,ma,d,mad0101,1
-9,Mathematics,ma,d,mad0201,1
-9,Mathematics,ma,d,mad0301,1
-9,Mathematics,ma,d,mad0401,1
-9,Mathematics,ma,d,mad0501,1
-9,Mathematics,ma,d,mad0102,2
-9,Mathematics,ma,d,mad0202,2
-9,Mathematics,ma,d,mad0302,2
-9,Mathematics,ma,d,mad0402,2
-9,Mathematics,ma,d,mad0502,2
-9,Mathematics,ma,d,mad0602,2
-9,Mathematics,ma,d,mad0702,2
-9,Mathematics,ma,d,mad0802,2
-9,Mathematics,ma,d,mad0902,2
-9,Mathematics,ma,d,mad1002,2
-9,Mathematics,ma,d,mad0104,4
-9,Mathematics,ma,d,mad0204,4
-9,Mathematics,ma,d,mad0304,4
-9,Mathematics,ma,d,mad0404,4
-9,Mathematics,ma,d,mad0504,4
-9,Mathematics,ma,d,mad0604,4
-9,Mathematics,ma,d,mad0704,4
-9,Mathematics,ma,d,mad0804,4
-9,Mathematics,ma,d,mad0105,5
-9,Mathematics,ma,d,mad0205,5
-9,Mathematics,ma,d,mad0305,5
-9,Mathematics,ma,d,mad0405,5
-9,Mathematics,ma,d,mad0505,5
-9,Mathematics,ma,d,mad0605,5
-9,Mathematics,ma,d,mad0705,5
-9,Mathematics,ma,d,mad0805,5
-9,Mathematics,ma,d,mad0110,10
-9,Mathematics,ma,d,mad0210,10
-9,Mathematics,ma,d,mad0310,10
-9,Mathematics,ma,d,mad0410,10
-9,Mathematics,ma,d,mad0510,10
-9,Mathematics,ma,d,mad0610,10
-9,Mathematics,ma,d,mad0710,10
-9,Mathematics,ma,d,mad0810,10
-9,Mathematics,ma,d,mad0910,10
-9,Mathematics,ma,d,mad1010,10
-9,Mathematics,ma,d,mad0120,20
-9,Mathematics,ma,d,mad0220,20
-9,Mathematics,ma,d,mad0320,20
-9,Mathematics,ma,d,mad0420,20
-9,Mathematics,ma,d,mad0520,20
-9,Mathematics,ma,d,mad0620,20
-9,Mathematics,ma,d,mad0720,20
-9,Mathematics,ma,d,mad0820,20
-9,Mathematics,ma,e,mae0101,1
-9,Mathematics,ma,e,mae0201,1
-9,Mathematics,ma,e,mae0301,1
-9,Mathematics,ma,e,mae0401,1
-9,Mathematics,ma,e,mae0501,1
-9,Mathematics,ma,e,mae0601,1
-9,Mathematics,ma,e,mae0102,2
-9,Mathematics,ma,e,mae0202,2
-9,Mathematics,ma,e,mae0302,2
-9,Mathematics,ma,e,mae0402,2
-9,Mathematics,ma,e,mae0502,2
-9,Mathematics,ma,e,mae0602,2
-9,Mathematics,ma,e,mae0104,4
-9,Mathematics,ma,e,mae0204,4
-9,Mathematics,ma,e,mae0304,4
-9,Mathematics,ma,e,mae0404,4
-9,Mathematics,ma,e,mae0105,5
-9,Mathematics,ma,e,mae0205,5
-9,Mathematics,ma,e,mae0305,5
-9,Mathematics,ma,e,mae0110,10
-9,Mathematics,ma,e,mae0210,10
-9,Mathematics,ma,e,mae0310,10
-9,Mathematics,ma,e,mae0410,10
-9,Mathematics,ma,e,mae0510,10
-9,Mathematics,ma,e,mae0610,10
-9,Mathematics,ma,e,mae0710,10
-9,Mathematics,ma,e,mae0810,10
-9,Mathematics,ma,e,mae0910,10
-9,Mathematics,ma,e,mae1010,10
-9,Mathematics,ma,e,mae0120,20
-9,Mathematics,ma,e,mae0220,20
-9,Mathematics,ma,e,mae0320,20
-9,Mathematics,ma,e,mae0420,20
-9,Mathematics,ma,e,mae0520,20
-9,Mathematics,ma,e,mae0620,20
-9,Mathematics,ma,e,mae0720,20
-9,Mathematics,ma,e,mae0820,20
-9,Mathematics,ma,e,mae0920,20
-9,Biology,bs,f,bsf0101,1
-9,Biology,bs,f,bsf0201,1
-9,Biology,bs,f,bsf0301,1
-9,Biology,bs,f,bsf0401,1
-9,Biology,bs,f,bsf0501,1
-9,Biology,bs,f,bsf0601,1
-9,Biology,bs,f,bsf0701,1
-9,Biology,bs,f,bsf0801,1
-9,Biology,bs,f,bsf0901,1
-9,Biology,bs,f,bsf0102,2
-9,Biology,bs,f,bsf0202,2
-9,Biology,bs,f,bsf0302,2
-9,Biology,bs,f,bsf0402,2
-9,Biology,bs,f,bsf0502,2
-9,Biology,bs,f,bsf0602,2
-9,Biology,bs,f,bsf0702,2
-9,Biology,bs,f,bsf0104,4
-9,Biology,bs,f,bsf0105,5
-9,Biology,bs,f,bsf0205,5
-9,Biology,bs,f,bsf0305,5
-9,Biology,bs,f,bsf0110,10
-9,Biology,bs,f,bsf0210,10
-9,Biology,bs,f,bsf0310,10
-9,Biology,bs,f,bsf0410,10
-9,Biology,bs,f,bsf0510,10
-9,Biology,bs,f,bsf0610,10
-9,Biology,bs,f,bsf0120,20
-9,Biology,bs,g,bsg0101,1
-9,Biology,bs,g,bsg0201,1
-9,Biology,bs,g,bsg0301,1
-9,Biology,bs,g,bsg0401,1
-9,Biology,bs,g,bsg0501,1
-9,Biology,bs,g,bsg0601,1
-9,Biology,bs,g,bsg0102,2
-9,Biology,bs,g,bsg0202,2
-9,Biology,bs,g,bsg0302,2
-9,Biology,bs,g,bsg0402,2
-9,Biology,bs,g,bsg0104,4
-9,Biology,bs,g,bsg0204,4
-9,Biology,bs,g,bsg0304,4
-9,Biology,bs,g,bsg0404,4
-9,Biology,bs,g,bsg0504,4
-9,Biology,bs,g,bsg0604,4
-9,Biology,bs,g,bsg0704,4
-9,Biology,bs,g,bsg0804,4
-9,Biology,bs,g,bsg0904,4
-9,Biology,bs,g,bsg0105,5
-9,Biology,bs,g,bsg0205,5
-9,Biology,bs,g,bsg0305,5
-9,Biology,bs,g,bsg0405,5
-9,Biology,bs,g,bsg0505,5
-9,Biology,bs,g,bsg0605,5
-9,Biology,bs,g,bsg0110,10
-9,Biology,bs,g,bsg0210,10
-9,Biology,bs,g,bsg0310,10
-9,Biology,bs,g,bsg0410,10
-9,Biology,bs,g,bsg0510,10
-9,Biology,bs,g,bsg0610,10
-9,Biology,bs,g,bsg0710,10
-9,Biology,bs,g,bsg0810,10
-9,Biology,bs,g,bsg0910,10
-9,Biology,bs,g,bsg0120,20
-9,Biology,bs,g,bsg0220,20
-9,Biology,bs,g,bsg0320,20
-9,Biology,bs,g,bsg0420,20
-9,Biology,bs,g,bsg0520,20
-9,Biology,bs,g,bsg0620,20
-9,Biology,bs,g,bsg0720,20
-9,Biology,bs,h,bsh0101,1
-9,Biology,bs,h,bsh0201,1
-9,Biology,bs,h,bsh0301,1
-9,Biology,bs,h,bsh0401,1
-9,Biology,bs,h,bsh0501,1
-9,Biology,bs,h,bsh0601,1
-9,Biology,bs,h,bsh0701,1
-9,Biology,bs,h,bsh0102,2
-9,Biology,bs,h,bsh0202,2
-9,Biology,bs,h,bsh0302,2
-9,Biology,bs,h,bsh0402,2
-9,Biology,bs,h,bsh0104,4
-9,Biology,bs,h,bsh0105,5
-9,Biology,bs,h,bsh0205,5
-9,Biology,bs,h,bsh0305,5
-9,Biology,bs,h,bsh0405,5
-9,Biology,bs,h,bsh0505,5
-9,Biology,bs,h,bsh0605,5
-9,Biology,bs,h,bsh0705,5
-9,Biology,bs,h,bsh0805,5
-9,Biology,bs,h,bsh0110,10
-9,Biology,bs,h,bsh0120,20
-9,Biology,bs,h,bsh0220,20
-9,Biology,bs,h,bsh0320,20
-9,Biology,bs,h,bsh0420,20
-9,Biology,bs,i,bsi0101,1
-9,Biology,bs,i,bsi0201,1
-9,Biology,bs,i,bsi0301,1
-9,Biology,bs,i,bsi0102,2
-9,Biology,bs,i,bsi0202,2
-9,Biology,bs,i,bsi0302,2
-9,Biology,bs,i,bsi0402,2
-9,Biology,bs,i,bsi0502,2
-9,Biology,bs,i,bsi0602,2
-9,Biology,bs,i,bsi0702,2
-9,Biology,bs,i,bsi0802,2
-9,Biology,bs,i,bsi0104,4
-9,Biology,bs,i,bsi0204,4
-9,Biology,bs,i,bsi0304,4
-9,Biology,bs,i,bsi0404,4
-9,Biology,bs,i,bsi0504,4
-9,Biology,bs,i,bsi0604,4
-9,Biology,bs,i,bsi0704,4
-9,Biology,bs,i,bsi0804,4
-9,Biology,bs,i,bsi0904,4
-9,Biology,bs,i,bsi1004,4
-9,Biology,bs,i,bsi0105,5
-9,Biology,bs,i,bsi0205,5
-9,Biology,bs,i,bsi0305,5
-9,Biology,bs,i,bsi0405,5
-9,Biology,bs,i,bsi0505,5
-9,Biology,bs,i,bsi0605,5
-9,Biology,bs,i,bsi0705,5
-9,Biology,bs,i,bsi0805,5
-9,Biology,bs,i,bsi0905,5
-9,Biology,bs,i,bsi0110,10
-9,Biology,bs,i,bsi0210,10
-9,Biology,bs,i,bsi0310,10
-9,Biology,bs,i,bsi0410,10
-9,Biology,bs,i,bsi0510,10
-9,Biology,bs,i,bsi0610,10
-9,Biology,bs,i,bsi0120,20
-9,Biology,bs,i,bsi0220,20
-9,Biology,bs,i,bsi0320,20
-9,Biology,bs,i,bsi0420,20
-9,Biology,bs,i,bsi0520,20
-9,Biology,bs,i,bsi0620,20
-9,Biology,bs,i,bsi0720,20
-9,Biology,bs,j,bsj0101,1
-9,Biology,bs,j,bsj0201,1
-9,Biology,bs,j,bsj0301,1
-9,Biology,bs,j,bsj0401,1
-9,Biology,bs,j,bsj0501,1
-9,Biology,bs,j,bsj0601,1
-9,Biology,bs,j,bsj0701,1
-9,Biology,bs,j,bsj0801,1
-9,Biology,bs,j,bsj0102,2
-9,Biology,bs,j,bsj0202,2
-9,Biology,bs,j,bsj0302,2
-9,Biology,bs,j,bsj0402,2
-9,Biology,bs,j,bsj0104,4
-9,Biology,bs,j,bsj0204,4
-9,Biology,bs,j,bsj0105,5
-9,Biology,bs,j,bsj0110,10
-9,Biology,bs,j,bsj0120,20
-9,Biology,bs,j,bsj0220,20
-9,Biology,bs,j,bsj0320,20
-9,Biology,bs,j,bsj0420,20
-9,Biology,bs,j,bsj0520,20
-9,Biology,bs,j,bsj0620,20
-9,Biology,bs,j,bsj0720,20
-9,Biology,bs,j,bsj0820,20
-9,Biology,bs,j,bsj0920,20
-9,Biology,bs,j,bsj1020,20
-9,Social Studies,ss,k,ssk0101,1
-9,Social Studies,ss,k,ssk0201,1
-9,Social Studies,ss,k,ssk0102,2
-9,Social Studies,ss,k,ssk0202,2
-9,Social Studies,ss,k,ssk0302,2
-9,Social Studies,ss,k,ssk0402,2
-9,Social Studies,ss,k,ssk0502,2
-9,Social Studies,ss,k,ssk0602,2
-9,Social Studies,ss,k,ssk0104,4
-9,Social Studies,ss,k,ssk0204,4
-9,Social Studies,ss,k,ssk0304,4
-9,Social Studies,ss,k,ssk0404,4
-9,Social Studies,ss,k,ssk0105,5
-9,Social Studies,ss,k,ssk0205,5
-9,Social Studies,ss,k,ssk0305,5
-9,Social Studies,ss,k,ssk0405,5
-9,Social Studies,ss,k,ssk0505,5
-9,Social Studies,ss,k,ssk0605,5
-9,Social Studies,ss,k,ssk0110,10
-9,Social Studies,ss,k,ssk0210,10
-9,Social Studies,ss,k,ssk0120,20
-9,Social Studies,ss,k,ssk0220,20
-9,Social Studies,ss,l,ssl0101,1
-9,Social Studies,ss,l,ssl0201,1
-9,Social Studies,ss,l,ssl0301,1
-9,Social Studies,ss,l,ssl0401,1
-9,Social Studies,ss,l,ssl0501,1
-9,Social Studies,ss,l,ssl0102,2
-9,Social Studies,ss,l,ssl0202,2
-9,Social Studies,ss,l,ssl0302,2
-9,Social Studies,ss,l,ssl0402,2
-9,Social Studies,ss,l,ssl0104,4
-9,Social Studies,ss,l,ssl0204,4
-9,Social Studies,ss,l,ssl0304,4
-9,Social Studies,ss,l,ssl0404,4
-9,Social Studies,ss,l,ssl0504,4
-9,Social Studies,ss,l,ssl0105,5
-9,Social Studies,ss,l,ssl0205,5
-9,Social Studies,ss,l,ssl0305,5
-9,Social Studies,ss,l,ssl0405,5
-9,Social Studies,ss,l,ssl0505,5
-9,Social Studies,ss,l,ssl0605,5
-9,Social Studies,ss,l,ssl0705,5
-9,Social Studies,ss,l,ssl0110,10
-9,Social Studies,ss,l,ssl0120,20
-9,Social Studies,ss,l,ssl0220,20
-9,Social Studies,ss,l,ssl0320,20
-9,Social Studies,ss,l,ssl0420,20
-9,Social Studies,ss,l,ssl0520,20
-9,Social Studies,ss,l,ssl0620,20
-9,Social Studies,ss,l,ssl0720,20
-9,Social Studies,ss,m,ssm0101,1
-9,Social Studies,ss,m,ssm0201,1
-9,Social Studies,ss,m,ssm0301,1
-9,Social Studies,ss,m,ssm0401,1
-9,Social Studies,ss,m,ssm0501,1
-9,Social Studies,ss,m,ssm0102,2
-9,Social Studies,ss,m,ssm0202,2
-9,Social Studies,ss,m,ssm0302,2
-9,Social Studies,ss,m,ssm0402,2
-9,Social Studies,ss,m,ssm0502,2
-9,Social Studies,ss,m,ssm0602,2
-9,Social Studies,ss,m,ssm0104,4
-9,Social Studies,ss,m,ssm0204,4
-9,Social Studies,ss,m,ssm0304,4
-9,Social Studies,ss,m,ssm0404,4
-9,Social Studies,ss,m,ssm0504,4
-9,Social Studies,ss,m,ssm0105,5
-9,Social Studies,ss,m,ssm0110,10
-9,Social Studies,ss,m,ssm0210,10
-9,Social Studies,ss,m,ssm0310,10
-9,Social Studies,ss,m,ssm0120,20
-9,Social Studies,ss,m,ssm0220,20
-9,Social Studies,ss,n,ssn0101,1
-9,Social Studies,ss,n,ssn0201,1
-9,Social Studies,ss,n,ssn0102,2
-9,Social Studies,ss,n,ssn0202,2
-9,Social Studies,ss,n,ssn0302,2
-9,Social Studies,ss,n,ssn0104,4
-9,Social Studies,ss,n,ssn0204,4
-9,Social Studies,ss,n,ssn0304,4
-9,Social Studies,ss,n,ssn0404,4
-9,Social Studies,ss,n,ssn0504,4
-9,Social Studies,ss,n,ssn0604,4
-9,Social Studies,ss,n,ssn0704,4
-9,Social Studies,ss,n,ssn0804,4
-9,Social Studies,ss,n,ssn0904,4
-9,Social Studies,ss,n,ssn1004,4
-9,Social Studies,ss,n,ssn0105,5
-9,Social Studies,ss,n,ssn0205,5
-9,Social Studies,ss,n,ssn0305,5
-9,Social Studies,ss,n,ssn0405,5
-9,Social Studies,ss,n,ssn0505,5
-9,Social Studies,ss,n,ssn0110,10
-9,Social Studies,ss,n,ssn0210,10
-9,Social Studies,ss,n,ssn0310,10
-9,Social Studies,ss,n,ssn0410,10
-9,Social Studies,ss,n,ssn0510,10
-9,Social Studies,ss,n,ssn0610,10
-9,Social Studies,ss,n,ssn0710,10
-9,Social Studies,ss,n,ssn0810,10
-9,Social Studies,ss,n,ssn0910,10
-9,Social Studies,ss,n,ssn1010,10
-9,Social Studies,ss,n,ssn0120,20
-9,Social Studies,ss,o,sso0101,1
-9,Social Studies,ss,o,sso0201,1
-9,Social Studies,ss,o,sso0301,1
-9,Social Studies,ss,o,sso0401,1
-9,Social Studies,ss,o,sso0501,1
-9,Social Studies,ss,o,sso0601,1
-9,Social Studies,ss,o,sso0701,1
-9,Social Studies,ss,o,sso0801,1
-9,Social Studies,ss,o,sso0102,2
-9,Social Studies,ss,o,sso0202,2
-9,Social Studies,ss,o,sso0302,2
-9,Social Studies,ss,o,sso0402,2
-9,Social Studies,ss,o,sso0502,2
-9,Social Studies,ss,o,sso0602,2
-9,Social Studies,ss,o,sso0104,4
-9,Social Studies,ss,o,sso0204,4
-9,Social Studies,ss,o,sso0304,4
-9,Social Studies,ss,o,sso0404,4
-9,Social Studies,ss,o,sso0504,4
-9,Social Studies,ss,o,sso0604,4
-9,Social Studies,ss,o,sso0105,5
-9,Social Studies,ss,o,sso0205,5
-9,Social Studies,ss,o,sso0305,5
-9,Social Studies,ss,o,sso0405,5
-9,Social Studies,ss,o,sso0505,5
-9,Social Studies,ss,o,sso0605,5
-9,Social Studies,ss,o,sso0705,5
-9,Social Studies,ss,o,sso0805,5
-9,Social Studies,ss,o,sso0110,10
-9,Social Studies,ss,o,sso0210,10
-9,Social Studies,ss,o,sso0310,10
-9,Social Studies,ss,o,sso0120,20
-9,Social Studies,ss,o,sso0220,20
-9,Social Studies,ss,o,sso0320,20
-9,Social Studies,ss,o,sso0420,20
-9,Social Studies,ss,o,sso0520,20
-9,Social Studies,ss,o,sso0620,20
-10,Mathematics,ma,a,maa0101,1
-10,Mathematics,ma,a,maa0201,1
-10,Mathematics,ma,a,maa0301,1
-10,Mathematics,ma,a,maa0401,1
-10,Mathematics,ma,a,maa0102,2
-10,Mathematics,ma,a,maa0202,2
-10,Mathematics,ma,a,maa0302,2
-10,Mathematics,ma,a,maa0402,2
-10,Mathematics,ma,a,maa0104,4
-10,Mathematics,ma,a,maa0204,4
-10,Mathematics,ma,a,maa0304,4
-10,Mathematics,ma,a,maa0105,5
-10,Mathematics,ma,a,maa0205,5
-10,Mathematics,ma,a,maa0305,5
-10,Mathematics,ma,a,maa0405,5
-10,Mathematics,ma,a,maa0505,5
-10,Mathematics,ma,a,maa0110,10
-10,Mathematics,ma,a,maa0210,10
-10,Mathematics,ma,a,maa0310,10
-10,Mathematics,ma,a,maa0410,10
-10,Mathematics,ma,a,maa0120,20
-10,Mathematics,ma,a,maa0220,20
-10,Mathematics,ma,a,maa0320,20
-10,Mathematics,ma,a,maa0420,20
-10,Mathematics,ma,a,maa0520,20
-10,Mathematics,ma,b,mab0101,1
-10,Mathematics,ma,b,mab0201,1
-10,Mathematics,ma,b,mab0301,1
-10,Mathematics,ma,b,mab0401,1
-10,Mathematics,ma,b,mab0501,1
-10,Mathematics,ma,b,mab0601,1
-10,Mathematics,ma,b,mab0701,1
-10,Mathematics,ma,b,mab0102,2
-10,Mathematics,ma,b,mab0104,4
-10,Mathematics,ma,b,mab0204,4
-10,Mathematics,ma,b,mab0304,4
-10,Mathematics,ma,b,mab0404,4
-10,Mathematics,ma,b,mab0504,4
-10,Mathematics,ma,b,mab0604,4
-10,Mathematics,ma,b,mab0704,4
-10,Mathematics,ma,b,mab0804,4
-10,Mathematics,ma,b,mab0904,4
-10,Mathematics,ma,b,mab1004,4
-10,Mathematics,ma,b,mab0105,5
-10,Mathematics,ma,b,mab0205,5
-10,Mathematics,ma,b,mab0305,5
-10,Mathematics,ma,b,mab0405,5
-10,Mathematics,ma,b,mab0505,5
-10,Mathematics,ma,b,mab0605,5
-10,Mathematics,ma,b,mab0705,5
-10,Mathematics,ma,b,mab0805,5
-10,Mathematics,ma,b,mab0905,5
-10,Mathematics,ma,b,mab1005,5
-10,Mathematics,ma,b,mab0110,10
-10,Mathematics,ma,b,mab0210,10
-10,Mathematics,ma,b,mab0120,20
-10,Mathematics,ma,b,mab0220,20
-10,Mathematics,ma,b,mab0320,20
-10,Mathematics,ma,c,mac0101,1
-10,Mathematics,ma,c,mac0201,1
-10,Mathematics,ma,c,mac0301,1
-10,Mathematics,ma,c,mac0102,2
-10,Mathematics,ma,c,mac0202,2
-10,Mathematics,ma,c,mac0302,2
-10,Mathematics,ma,c,mac0402,2
-10,Mathematics,ma,c,mac0502,2
-10,Mathematics,ma,c,mac0602,2
-10,Mathematics,ma,c,mac0104,4
-10,Mathematics,ma,c,mac0204,4
-10,Mathematics,ma,c,mac0304,4
-10,Mathematics,ma,c,mac0404,4
-10,Mathematics,ma,c,mac0504,4
-10,Mathematics,ma,c,mac0604,4
-10,Mathematics,ma,c,mac0704,4
-10,Mathematics,ma,c,mac0804,4
-10,Mathematics,ma,c,mac0904,4
-10,Mathematics,ma,c,mac0105,5
-10,Mathematics,ma,c,mac0205,5
-10,Mathematics,ma,c,mac0305,5
-10,Mathematics,ma,c,mac0405,5
-10,Mathematics,ma,c,mac0505,5
-10,Mathematics,ma,c,mac0605,5
-10,Mathematics,ma,c,mac0705,5
-10,Mathematics,ma,c,mac0805,5
-10,Mathematics,ma,c,mac0905,5
-10,Mathematics,ma,c,mac1005,5
-10,Mathematics,ma,c,mac0110,10
-10,Mathematics,ma,c,mac0210,10
-10,Mathematics,ma,c,mac0310,10
-10,Mathematics,ma,c,mac0410,10
-10,Mathematics,ma,c,mac0120,20
-10,Mathematics,ma,c,mac0220,20
-10,Mathematics,ma,c,mac0320,20
-10,Mathematics,ma,c,mac0420,20
-10,Mathematics,ma,c,mac0520,20
-10,Mathematics,ma,c,mac0620,20
-10,Mathematics,ma,c,mac0720,20
-10,Mathematics,ma,d,mad0101,1
-10,Mathematics,ma,d,mad0201,1
-10,Mathematics,ma,d,mad0301,1
-10,Mathematics,ma,d,mad0401,1
-10,Mathematics,ma,d,mad0102,2
-10,Mathematics,ma,d,mad0202,2
-10,Mathematics,ma,d,mad0302,2
-10,Mathematics,ma,d,mad0104,4
-10,Mathematics,ma,d,mad0204,4
-10,Mathematics,ma,d,mad0304,4
-10,Mathematics,ma,d,mad0404,4
-10,Mathematics,ma,d,mad0504,4
-10,Mathematics,ma,d,mad0604,4
-10,Mathematics,ma,d,mad0704,4
-10,Mathematics,ma,d,mad0804,4
-10,Mathematics,ma,d,mad0904,4
-10,Mathematics,ma,d,mad1004,4
-10,Mathematics,ma,d,mad0105,5
-10,Mathematics,ma,d,mad0205,5
-10,Mathematics,ma,d,mad0305,5
-10,Mathematics,ma,d,mad0405,5
-10,Mathematics,ma,d,mad0505,5
-10,Mathematics,ma,d,mad0605,5
-10,Mathematics,ma,d,mad0705,5
-10,Mathematics,ma,d,mad0805,5
-10,Mathematics,ma,d,mad0905,5
-10,Mathematics,ma,d,mad0110,10
-10,Mathematics,ma,d,mad0210,10
-10,Mathematics,ma,d,mad0310,10
-10,Mathematics,ma,d,mad0410,10
-10,Mathematics,ma,d,mad0510,10
-10,Mathematics,ma,d,mad0120,20
-10,Mathematics,ma,d,mad0220,20
-10,Mathematics,ma,d,mad0320,20
-10,Mathematics,ma,d,mad0420,20
-10,Mathematics,ma,d,mad0520,20
-10,Mathematics,ma,d,mad0620,20
-10,Mathematics,ma,d,mad0720,20
-10,Mathematics,ma,d,mad0820,20
-10,Mathematics,ma,e,mae0101,1
-10,Mathematics,ma,e,mae0201,1
-10,Mathematics,ma,e,mae0301,1
-10,Mathematics,ma,e,mae0401,1
-10,Mathematics,ma,e,mae0501,1
-10,Mathematics,ma,e,mae0601,1
-10,Mathematics,ma,e,mae0102,2
-10,Mathematics,ma,e,mae0202,2
-10,Mathematics,ma,e,mae0302,2
-10,Mathematics,ma,e,mae0402,2
-10,Mathematics,ma,e,mae0502,2
-10,Mathematics,ma,e,mae0104,4
-10,Mathematics,ma,e,mae0204,4
-10,Mathematics,ma,e,mae0304,4
-10,Mathematics,ma,e,mae0404,4
-10,Mathematics,ma,e,mae0504,4
-10,Mathematics,ma,e,mae0604,4
-10,Mathematics,ma,e,mae0704,4
-10,Mathematics,ma,e,mae0804,4
-10,Mathematics,ma,e,mae0904,4
-10,Mathematics,ma,e,mae1004,4
-10,Mathematics,ma,e,mae0105,5
-10,Mathematics,ma,e,mae0110,10
-10,Mathematics,ma,e,mae0210,10
-10,Mathematics,ma,e,mae0310,10
-10,Mathematics,ma,e,mae0410,10
-10,Mathematics,ma,e,mae0510,10
-10,Mathematics,ma,e,mae0610,10
-10,Mathematics,ma,e,mae0710,10
-10,Mathematics,ma,e,mae0810,10
-10,Mathematics,ma,e,mae0120,20
-10,Mathematics,ma,e,mae0220,20
-10,Mathematics,ma,e,mae0320,20
-10,Mathematics,ma,e,mae0420,20
-10,Mathematics,ma,e,mae0520,20
-10,Mathematics,ma,e,mae0620,20
-10,Mathematics,ma,e,mae0720,20
-10,Biology,bs,f,bsf0101,1
-10,Biology,bs,f,bsf0201,1
-10,Biology,bs,f,bsf0301,1
-10,Biology,bs,f,bsf0102,2
-10,Biology,bs,f,bsf0104,4
-10,Biology,bs,f,bsf0204,4
-10,Biology,bs,f,bsf0304,4
-10,Biology,bs,f,bsf0404,4
-10,Biology,bs,f,bsf0504,4
-10,Biology,bs,f,bsf0604,4
-10,Biology,bs,f,bsf0704,4
-10,Biology,bs,f,bsf0804,4
-10,Biology,bs,f,bsf0904,4
-10,Biology,bs,f,bsf0105,5
-10,Biology,bs,f,bsf0205,5
-10,Biology,bs,f,bsf0305,5
-10,Biology,bs,f,bsf0405,5
-10,Biology,bs,f,bsf0505,5
-10,Biology,bs,f,bsf0605,5
-10,Biology,bs,f,bsf0705,5
-10,Biology,bs,f,bsf0805,5
-10,Biology,bs,f,bsf0110,10
-10,Biology,bs,f,bsf0210,10
-10,Biology,bs,f,bsf0310,10
-10,Biology,bs,f,bsf0410,10
-10,Biology,bs,f,bsf0120,20
-10,Biology,bs,g,bsg0101,1
-10,Biology,bs,g,bsg0102,2
-10,Biology,bs,g,bsg0202,2
-10,Biology,bs,g,bsg0104,4
-10,Biology,bs,g,bsg0204,4
-10,Biology,bs,g,bsg0304,4
-10,Biology,bs,g,bsg0404,4
-10,Biology,bs,g,bsg0105,5
-10,Biology,bs,g,bsg0205,5
-10,Biology,bs,g,bsg0305,5
-10,Biology,bs,g,bsg0405,5
-10,Biology,bs,g,bsg0505,5
-10,Biology,bs,g,bsg0605,5
-10,Biology,bs,g,bsg0705,5
-10,Biology,bs,g,bsg0805,5
-10,Biology,bs,g,bsg0905,5
-10,Biology,bs,g,bsg1005,5
-10,Biology,bs,g,bsg0110,10
-10,Biology,bs,g,bsg0210,10
-10,Biology,bs,g,bsg0310,10
-10,Biology,bs,g,bsg0410,10
-10,Biology,bs,g,bsg0510,10
-10,Biology,bs,g,bsg0610,10
-10,Biology,bs,g,bsg0710,10
-10,Biology,bs,g,bsg0810,10
-10,Biology,bs,g,bsg0120,20
-10,Biology,bs,g,bsg0220,20
-10,Biology,bs,g,bsg0320,20
-10,Biology,bs,g,bsg0420,20
-10,Biology,bs,h,bsh0101,1
-10,Biology,bs,h,bsh0201,1
-10,Biology,bs,h,bsh0301,1
-10,Biology,bs,h,bsh0401,1
-10,Biology,bs,h,bsh0501,1
-10,Biology,bs,h,bsh0601,1
-10,Biology,bs,h,bsh0701,1
-10,Biology,bs,h,bsh0801,1
-10,Biology,bs,h,bsh0102,2
-10,Biology,bs,h,bsh0202,2
-10,Biology,bs,h,bsh0302,2
-10,Biology,bs,h,bsh0402,2
-10,Biology,bs,h,bsh0502,2
-10,Biology,bs,h,bsh0602,2
-10,Biology,bs,h,bsh0702,2
-10,Biology,bs,h,bsh0104,4
-10,Biology,bs,h,bsh0204,4
-10,Biology,bs,h,bsh0304,4
-10,Biology,bs,h,bsh0404,4
-10,Biology,bs,h,bsh0504,4
-10,Biology,bs,h,bsh0105,5
-10,Biology,bs,h,bsh0205,5
-10,Biology,bs,h,bsh0305,5
-10,Biology,bs,h,bsh0405,5
-10,Biology,bs,h,bsh0505,5
-10,Biology,bs,h,bsh0605,5
-10,Biology,bs,h,bsh0705,5
-10,Biology,bs,h,bsh0110,10
-10,Biology,bs,h,bsh0210,10
-10,Biology,bs,h,bsh0310,10
-10,Biology,bs,h,bsh0120,20
-10,Biology,bs,h,bsh0220,20
-10,Biology,bs,h,bsh0320,20
-10,Biology,bs,h,bsh0420,20
-10,Biology,bs,h,bsh0520,20
-10,Biology,bs,h,bsh0620,20
-10,Biology,bs,h,bsh0720,20
-10,Biology,bs,i,bsi0101,1
-10,Biology,bs,i,bsi0201,1
-10,Biology,bs,i,bsi0301,1
-10,Biology,bs,i,bsi0401,1
-10,Biology,bs,i,bsi0501,1
-10,Biology,bs,i,bsi0102,2
-10,Biology,bs,i,bsi0202,2
-10,Biology,bs,i,bsi0302,2
-10,Biology,bs,i,bsi0402,2
-10,Biology,bs,i,bsi0502,2
-10,Biology,bs,i,bsi0602,2
-10,Biology,bs,i,bsi0104,4
-10,Biology,bs,i,bsi0204,4
-10,Biology,bs,i,bsi0304,4
-10,Biology,bs,i,bsi0105,5
-10,Biology,bs,i,bsi0205,5
-10,Biology,bs,i,bsi0305,5
-10,Biology,bs,i,bsi0405,5
-10,Biology,bs,i,bsi0505,5
-10,Biology,bs,i,bsi0605,5
-10,Biology,bs,i,bsi0705,5
-10,Biology,bs,i,bsi0805,5
-10,Biology,bs,i,bsi0905,5
-10,Biology,bs,i,bsi1005,5
-10,Biology,bs,i,bsi0110,10
-10,Biology,bs,i,bsi0210,10
-10,Biology,bs,i,bsi0310,10
-10,Biology,bs,i,bsi0410,10
-10,Biology,bs,i,bsi0510,10
-10,Biology,bs,i,bsi0610,10
-10,Biology,bs,i,bsi0710,10
-10,Biology,bs,i,bsi0810,10
-10,Biology,bs,i,bsi0120,20
-10,Biology,bs,i,bsi0220,20
-10,Biology,bs,i,bsi0320,20
-10,Biology,bs,i,bsi0420,20
-10,Biology,bs,i,bsi0520,20
-10,Biology,bs,i,bsi0620,20
-10,Biology,bs,i,bsi0720,20
-10,Biology,bs,i,bsi0820,20
-10,Biology,bs,i,bsi0920,20
-10,Biology,bs,j,bsj0101,1
-10,Biology,bs,j,bsj0201,1
-10,Biology,bs,j,bsj0301,1
-10,Biology,bs,j,bsj0401,1
-10,Biology,bs,j,bsj0501,1
-10,Biology,bs,j,bsj0102,2
-10,Biology,bs,j,bsj0202,2
-10,Biology,bs,j,bsj0302,2
-10,Biology,bs,j,bsj0104,4
-10,Biology,bs,j,bsj0204,4
-10,Biology,bs,j,bsj0304,4
-10,Biology,bs,j,bsj0404,4
-10,Biology,bs,j,bsj0105,5
-10,Biology,bs,j,bsj0205,5
-10,Biology,bs,j,bsj0305,5
-10,Biology,bs,j,bsj0405,5
-10,Biology,bs,j,bsj0505,5
-10,Biology,bs,j,bsj0605,5
-10,Biology,bs,j,bsj0705,5
-10,Biology,bs,j,bsj0805,5
-10,Biology,bs,j,bsj0905,5
-10,Biology,bs,j,bsj0110,10
-10,Biology,bs,j,bsj0210,10
-10,Biology,bs,j,bsj0310,10
-10,Biology,bs,j,bsj0410,10
-10,Biology,bs,j,bsj0510,10
-10,Biology,bs,j,bsj0610,10
-10,Biology,bs,j,bsj0710,10
-10,Biology,bs,j,bsj0810,10
-10,Biology,bs,j,bsj0120,20
-10,Biology,bs,j,bsj0220,20
-10,Biology,bs,j,bsj0320,20
-10,Biology,bs,j,bsj0420,20
-10,Biology,bs,j,bsj0520,20
-10,Biology,bs,j,bsj0620,20
-10,Biology,bs,j,bsj0720,20
-10,Biology,bs,j,bsj0820,20
-10,Biology,bs,j,bsj0920,20
-10,Biology,bs,j,bsj1020,20
-10,Social Studies,ss,k,ssk0101,1
-10,Social Studies,ss,k,ssk0102,2
-10,Social Studies,ss,k,ssk0202,2
-10,Social Studies,ss,k,ssk0302,2
-10,Social Studies,ss,k,ssk0402,2
-10,Social Studies,ss,k,ssk0502,2
-10,Social Studies,ss,k,ssk0602,2
-10,Social Studies,ss,k,ssk0702,2
-10,Social Studies,ss,k,ssk0104,4
-10,Social Studies,ss,k,ssk0204,4
-10,Social Studies,ss,k,ssk0304,4
-10,Social Studies,ss,k,ssk0404,4
-10,Social Studies,ss,k,ssk0504,4
-10,Social Studies,ss,k,ssk0604,4
-10,Social Studies,ss,k,ssk0704,4
-10,Social Studies,ss,k,ssk0804,4
-10,Social Studies,ss,k,ssk0904,4
-10,Social Studies,ss,k,ssk1004,4
-10,Social Studies,ss,k,ssk0105,5
-10,Social Studies,ss,k,ssk0205,5
-10,Social Studies,ss,k,ssk0305,5
-10,Social Studies,ss,k,ssk0405,5
-10,Social Studies,ss,k,ssk0505,5
-10,Social Studies,ss,k,ssk0605,5
-10,Social Studies,ss,k,ssk0705,5
-10,Social Studies,ss,k,ssk0805,5
-10,Social Studies,ss,k,ssk0110,10
-10,Social Studies,ss,k,ssk0210,10
-10,Social Studies,ss,k,ssk0310,10
-10,Social Studies,ss,k,ssk0410,10
-10,Social Studies,ss,k,ssk0510,10
-10,Social Studies,ss,k,ssk0610,10
-10,Social Studies,ss,k,ssk0710,10
-10,Social Studies,ss,k,ssk0120,20
-10,Social Studies,ss,k,ssk0220,20
-10,Social Studies,ss,k,ssk0320,20
-10,Social Studies,ss,l,ssl0101,1
-10,Social Studies,ss,l,ssl0201,1
-10,Social Studies,ss,l,ssl0102,2
-10,Social Studies,ss,l,ssl0104,4
-10,Social Studies,ss,l,ssl0204,4
-10,Social Studies,ss,l,ssl0304,4
-10,Social Studies,ss,l,ssl0404,4
-10,Social Studies,ss,l,ssl0504,4
-10,Social Studies,ss,l,ssl0604,4
-10,Social Studies,ss,l,ssl0704,4
-10,Social Studies,ss,l,ssl0105,5
-10,Social Studies,ss,l,ssl0110,10
-10,Social Studies,ss,l,ssl0210,10
-10,Social Studies,ss,l,ssl0310,10
-10,Social Studies,ss,l,ssl0410,10
-10,Social Studies,ss,l,ssl0510,10
-10,Social Studies,ss,l,ssl0610,10
-10,Social Studies,ss,l,ssl0710,10
-10,Social Studies,ss,l,ssl0810,10
-10,Social Studies,ss,l,ssl0120,20
-10,Social Studies,ss,l,ssl0220,20
-10,Social Studies,ss,l,ssl0320,20
-10,Social Studies,ss,l,ssl0420,20
-10,Social Studies,ss,l,ssl0520,20
-10,Social Studies,ss,l,ssl0620,20
-10,Social Studies,ss,l,ssl0720,20
-10,Social Studies,ss,l,ssl0820,20
-10,Social Studies,ss,m,ssm0101,1
-10,Social Studies,ss,m,ssm0201,1
-10,Social Studies,ss,m,ssm0301,1
-10,Social Studies,ss,m,ssm0401,1
-10,Social Studies,ss,m,ssm0501,1
-10,Social Studies,ss,m,ssm0601,1
-10,Social Studies,ss,m,ssm0701,1
-10,Social Studies,ss,m,ssm0102,2
-10,Social Studies,ss,m,ssm0202,2
-10,Social Studies,ss,m,ssm0302,2
-10,Social Studies,ss,m,ssm0402,2
-10,Social Studies,ss,m,ssm0502,2
-10,Social Studies,ss,m,ssm0104,4
-10,Social Studies,ss,m,ssm0204,4
-10,Social Studies,ss,m,ssm0304,4
-10,Social Studies,ss,m,ssm0404,4
-10,Social Studies,ss,m,ssm0504,4
-10,Social Studies,ss,m,ssm0604,4
-10,Social Studies,ss,m,ssm0704,4
-10,Social Studies,ss,m,ssm0804,4
-10,Social Studies,ss,m,ssm0105,5
-10,Social Studies,ss,m,ssm0205,5
-10,Social Studies,ss,m,ssm0305,5
-10,Social Studies,ss,m,ssm0405,5
-10,Social Studies,ss,m,ssm0505,5
-10,Social Studies,ss,m,ssm0605,5
-10,Social Studies,ss,m,ssm0705,5
-10,Social Studies,ss,m,ssm0110,10
-10,Social Studies,ss,m,ssm0210,10
-10,Social Studies,ss,m,ssm0310,10
-10,Social Studies,ss,m,ssm0410,10
-10,Social Studies,ss,m,ssm0510,10
-10,Social Studies,ss,m,ssm0610,10
-10,Social Studies,ss,m,ssm0710,10
-10,Social Studies,ss,m,ssm0120,20
-10,Social Studies,ss,m,ssm0220,20
-10,Social Studies,ss,m,ssm0320,20
-10,Social Studies,ss,m,ssm0420,20
-10,Social Studies,ss,m,ssm0520,20
-10,Social Studies,ss,m,ssm0620,20
-10,Social Studies,ss,m,ssm0720,20
-10,Social Studies,ss,m,ssm0820,20
-10,Social Studies,ss,n,ssn0101,1
-10,Social Studies,ss,n,ssn0201,1
-10,Social Studies,ss,n,ssn0301,1
-10,Social Studies,ss,n,ssn0401,1
-10,Social Studies,ss,n,ssn0501,1
-10,Social Studies,ss,n,ssn0601,1
-10,Social Studies,ss,n,ssn0701,1
-10,Social Studies,ss,n,ssn0102,2
-10,Social Studies,ss,n,ssn0202,2
-10,Social Studies,ss,n,ssn0302,2
-10,Social Studies,ss,n,ssn0402,2
-10,Social Studies,ss,n,ssn0104,4
-10,Social Studies,ss,n,ssn0204,4
-10,Social Studies,ss,n,ssn0105,5
-10,Social Studies,ss,n,ssn0205,5
-10,Social Studies,ss,n,ssn0305,5
-10,Social Studies,ss,n,ssn0405,5
-10,Social Studies,ss,n,ssn0505,5
-10,Social Studies,ss,n,ssn0605,5
-10,Social Studies,ss,n,ssn0705,5
-10,Social Studies,ss,n,ssn0805,5
-10,Social Studies,ss,n,ssn0110,10
-10,Social Studies,ss,n,ssn0210,10
-10,Social Studies,ss,n,ssn0120,20
-10,Social Studies,ss,n,ssn0220,20
-10,Social Studies,ss,n,ssn0320,20
-10,Social Studies,ss,o,sso0101,1
-10,Social Studies,ss,o,sso0102,2
-10,Social Studies,ss,o,sso0202,2
-10,Social Studies,ss,o,sso0302,2
-10,Social Studies,ss,o,sso0104,4
-10,Social Studies,ss,o,sso0204,4
-10,Social Studies,ss,o,sso0304,4
-10,Social Studies,ss,o,sso0404,4
-10,Social Studies,ss,o,sso0504,4
-10,Social Studies,ss,o,sso0604,4
-10,Social Studies,ss,o,sso0704,4
-10,Social Studies,ss,o,sso0105,5
-10,Social Studies,ss,o,sso0205,5
-10,Social Studies,ss,o,sso0305,5
-10,Social Studies,ss,o,sso0405,5
-10,Social Studies,ss,o,sso0110,10
-10,Social Studies,ss,o,sso0210,10
-10,Social Studies,ss,o,sso0310,10
-10,Social Studies,ss,o,sso0120,20
+6,Mathematics,ma,Knowing Our Numbers,"Arrange the following numbers in order from smallest to largest: 24, 17, 31, 14",1
+6,Mathematics,ma,Knowing Our Numbers,"A bookshelf has 5 shelves, and each shelf can hold 8 books. How many books can the bookshelf hold in all?",2
+6,Mathematics,ma,Knowing Our Numbers,"A bookshelf has 5 shelves, and each shelf can hold 8 books. How many books can the bookshelf hold in total?",5
+6,Mathematics,ma,Knowing Our Numbers,"A bookshelf has 5 shelves, and each shelf can hold 8 books. How many books can the bookshelf hold in total?",10
+6,Mathematics,ma,Knowing Our Numbers,,10
+6,Mathematics,ma,Whole Numbers,What is the sum of 4 and 2?,1
+6,Mathematics,ma,Whole Numbers,Find the sum of 45 and 27.,2
+6,Mathematics,ma,Whole Numbers,Find the sum of the first 10 whole numbers.,5
+6,Mathematics,ma,Whole Numbers,"A bookshelf has 5 shelves, and each shelf can hold 8 books. How many books can the bookshelf hold in total?",5
+6,Mathematics,ma,Whole Numbers,"A bookshelf has 5 shelves, and each shelf can hold 8 books. How many books can the bookshelf hold in total?",5
+6,Mathematics,ma,Whole Numbers,,10
+6,Mathematics,ma,Integers,What is the additive inverse of -5?,1
+6,Mathematics,ma,Integers,What is the opposite of the integer 7?,1
+6,Mathematics,ma,Integers,What is the opposite of the integer -5?,1
+6,Mathematics,ma,Integers,"In a game, a player scored -5 points in the first half and 3 points in the second half. How many points did the player score in total?",2
+6,Mathematics,ma,Integers,"If x is an integer such that x + 3 = 9, find the value of x.",2
+6,Mathematics,ma,Integers,Add the integers -5 and 8. Write the result as a single integer.,2
+6,Mathematics,ma,Integers,"What is the sum of all integers from -5 to 5, excluding 0?",5
+6,Mathematics,ma,Integers,,10
+6,Mathematics,ma,Integers,,10
+6,Science,sc,Food: Where Does It Come From?,What is the main source of food for humans?,1
+6,Science,sc,Food: Where Does It Come From?,What is the main source of food for humans?,1
+6,Science,sc,Food: Where Does It Come From?,What is the main source of food for plants?,1
+6,Science,sc,Food: Where Does It Come From?,What are the three main sources of food for humans? Explain any one of them.,2
+6,Science,sc,Food: Where Does It Come From?,What are the two main sources of food for humans?,2
+6,Science,sc,Food: Where Does It Come From?,,5
+6,Science,sc,Food: Where Does It Come From?,,5
+6,Science,sc,Food: Where Does It Come From?,What are the three main sources of food for humans? Explain each source briefly.,5
+6,Science,sc,Food: Where Does It Come From?,What are the three main sources of food for humans? Explain each source with one example.,10
+6,Science,sc,Components of Food,What is the main function of carbohydrates in our body?,1
+6,Science,sc,Components of Food,What is the main function of carbohydrates in food?,1
+6,Science,sc,Components of Food,What are the three main components of food? Name one example of each.,2
+6,Science,sc,Components of Food,What are the three main components of food? Give one example of each.,2
+6,Science,sc,Components of Food,What are the three main components of food? Explain their functions.,2
+6,Science,sc,Components of Food,What are the three main components of food that provide energy to our body?,5
+6,Science,sc,Components of Food,,5
+6,Science,sc,Components of Food,,10
+6,Science,sc,Components of Food,"What are the four main components of food? Give one example each of carbohydrate, protein, and fat.",10
+6,Science,sc,Separation of Substances,Which method is used to separate a mixture of sand and salt?,1
+6,Science,sc,Separation of Substances,"What is the process of separating a mixture by passing it through a filter that allows smaller particles to pass through, while keeping the larger particles behind?",1
+6,Science,sc,Separation of Substances,What is the process of separating a mixture of sand and water by pouring the mixture slowly through a filter paper?,1
+6,Science,sc,Separation of Substances,What is the purpose of a filter paper in separating a mixture of sand and salt?,2
+6,Science,sc,Separation of Substances,What is the process of separating a mixture of sand and water by decantation?,5
+6,Science,sc,Separation of Substances,What is the process of separating a mixture of iron filings and sand by attracting the iron filings towards a magnet called?,5
+6,Science,sc,Separation of Substances,,10
+6,Science,sc,Separation of Substances,"What are the three main methods of separating a mixture of two substances, and give one example of each method?",10
+6,Social Science,ss,Understanding Diversity,"What is the term used to describe the practice of treating everyone equally, regardless of their caste, creed or gender?",1
+6,Social Science,ss,Understanding Diversity,What is the term used to describe people who are different from one another in various ways?,1
+6,Social Science,ss,Understanding Diversity,What is the main reason for the celebration of festivals like Diwali and Eid in different parts of the country?,2
+6,Social Science,ss,Understanding Diversity,What is the main idea of diversity?,2
+6,Social Science,ss,Understanding Diversity,,5
+6,Social Science,ss,Understanding Diversity,,10
+6,Social Science,ss,Understanding Diversity,,10
+6,Social Science,ss,Understanding Diversity,What is the main idea behind celebrating festivals and observing customs in different cultures? (10 marks),10
+6,Social Science,ss,Local Government,What is the main function of a Municipal Corporation in a city?,1
+6,Social Science,ss,Local Government,What is the main function of a Municipal Corporation in a city?,1
+6,Social Science,ss,Local Government,What is the main responsibility of a Panchayat in a village?,2
+6,Social Science,ss,Local Government,What is the main function of a Municipal Corporation?,2
+6,Social Science,ss,Local Government,,5
+6,Social Science,ss,Local Government,What are the main responsibilities of a Municipal Corporation in a city?,5
+6,Social Science,ss,Local Government,What are the main functions of a Municipality? Explain any three functions in brief. (10 marks),10
+6,Social Science,ss,Maps,What is the purpose of a legend on a map?,1
+6,Social Science,ss,Maps,What is the purpose of a legend or key in a map? (2 marks),2
+6,Social Science,ss,Maps,What are the main features of a map that help us understand the layout of a place? (5 marks),5
+6,Social Science,ss,Maps,What is the main purpose of a map key or legend?,5
+6,Social Science,ss,Maps,What is the main purpose of a map? (5 marks),5
+6,Social Science,ss,Maps,,10
+7,Mathematics,ma,Integers,What is the opposite of the integer -5?,1
+7,Mathematics,ma,Integers,,1
+7,Mathematics,ma,Integers,Simplify the expression: -3 × (-8) + 5,2
+7,Mathematics,ma,Integers,What is the sum of -5 and 3?,2
+7,Mathematics,ma,Integers,"If x is an integer such that x + 5 = 11, find the value of x.",2
+7,Mathematics,ma,Integers,,5
+7,Mathematics,ma,Integers,Find the value of x in the equation: -2x + 5 = 11,5
+7,Mathematics,ma,Integers,Write the additive inverse of each of the following integers:,5
+7,Mathematics,ma,Integers,,10
+7,Mathematics,ma,Fractions and Decimals,Write the decimal form of the fraction 3/4.,1
+7,Mathematics,ma,Fractions and Decimals,"A pizza is cut into 12 equal parts. If 3 parts are eaten, what fraction of the pizza is left?",2
+7,Mathematics,ma,Fractions and Decimals,,2
+7,Mathematics,ma,Fractions and Decimals,"A bookshelf has 5 shelves, and 1/5 of the space on each shelf is occupied by books. If the bookshelf is fully loaded, how many equal parts can be divided among 5 friends?",5
+7,Mathematics,ma,Fractions and Decimals,,10
+7,Mathematics,ma,Fractions and Decimals,,10
+7,Mathematics,ma,Data Handling,A survey was conducted to find the number of hours students spend watching TV daily. The results are given below:,1
+7,Mathematics,ma,Data Handling,"A bookshop has a collection of books on different subjects. The number of books on mathematics is 5, on science is 8, and on literature is 12. What is the total number of books in the bookshop?",1
+7,Mathematics,ma,Data Handling,A library has 150 books on mathematics. The number of books on geometry is 1/3 of the total books. How many books are on geometry?,1
+7,Mathematics,ma,Data Handling,"A teacher collected the following scores of 5 students in a mathematics test: 45, 50, 42, 48, 55. What is the mean score of the students?",2
+7,Mathematics,ma,Data Handling,A book seller wants to know the average cost of books sold in a week. The following data shows the cost of books sold on each day:,2
+7,Mathematics,ma,Data Handling,"A class of 30 students took a test and their scores are as follows: 12, 15, 18, 22, 25, 27, 28, 30, 32, 35, 38, 40, 42, 45, 48. Calculate the mean score of the class.",2
+7,Mathematics,ma,Data Handling,"A school collected the following scores of students in a mathematics test: 80, 75, 90, 85, 70, 95, 80, 75. Find the mean score of the students.",5
+7,Mathematics,ma,Data Handling,"The scores of 5 students in a maths test are 20, 25, 30, 20, 35. What is the mean score of the students?",5
+7,Mathematics,ma,Data Handling,The marks obtained by 10 students in a mathematics test are given below:,5
+7,Mathematics,ma,Data Handling,,10
+7,Mathematics,ma,Data Handling,,10
+7,Mathematics,ma,Algebra,Simplify the expression: 2x + 5x,1
+7,Mathematics,ma,Algebra,Simplify the expression: 2x + 5 + 3x - 2,2
+7,Mathematics,ma,Algebra,Simplify the expression: 2x + 5 + x - 3,2
+7,Mathematics,ma,Algebra,Simplify the expression: 3x + 5 + 2x - 3,2
+7,Mathematics,ma,Algebra,Solve for x: 2x + 5 = 11,5
+7,Mathematics,ma,Algebra,Solve for x in the equation: 2x + 5 = 11,5
+7,Mathematics,ma,Algebra,Simplify the expression: 2x + 5 + 3x - 2,5
+7,Mathematics,ma,Algebra,,10
+7,Mathematics,ma,Perimeter and Area,"The perimeter of a rectangle is 20 cm. If its length is 5 cm more than its breadth, what is the breadth of the rectangle?",1
+7,Mathematics,ma,Perimeter and Area,What is the perimeter of a rectangle with length 8 cm and breadth 5 cm?,2
+7,Mathematics,ma,Perimeter and Area,The length and breadth of a rectangle are 8 cm and 6 cm respectively. Find its perimeter.,2
+7,Mathematics,ma,Perimeter and Area,,5
+7,Mathematics,ma,Perimeter and Area,A rectangular garden measures 12 meters by 8 meters. Find its perimeter and area.,5
+7,Mathematics,ma,Perimeter and Area,"A rectangular garden measures 10 meters by 5 meters. If a path that is 1 meter wide is built around the garden, what is the area of the path?",10
+7,Mathematics,ma,Perimeter and Area,,10
+7,Science,sc,Nutrition in Plants,What is the function of chlorophyll in plants?,1
+7,Science,sc,Nutrition in Plants,What is the main function of chlorophyll in plants?,1
+7,Science,sc,Nutrition in Plants,What is the importance of sunlight in photosynthesis?,1
+7,Science,sc,Nutrition in Plants,What is the main function of chlorophyll in plants?,2
+7,Science,sc,Nutrition in Plants,What is the main function of chlorophyll present in the leaves of plants? (5 marks),5
+7,Science,sc,Nutrition in Plants,What is the function of chlorophyll in a plant?,5
+7,Science,sc,Nutrition in Plants,What is the function of roots in plants? (5 marks),5
+7,Science,sc,Nutrition in Plants,What is the function of chlorophyll in plants? Explain with the help of a diagram.,10
+7,Science,sc,Heat,What is the process called when a solid changes into a liquid due to heat?,1
+7,Science,sc,Heat,What is the effect of increasing the temperature of a liquid?,1
+7,Science,sc,Heat,What happens to the temperature of an object when it is heated?,2
+7,Science,sc,Heat,,5
+7,Science,sc,Heat,What happens to the temperature of an object when it absorbs heat energy? Explain with an example.,5
+7,Science,sc,Heat,What is the process called when a solid changes directly into a gas without going through the liquid stage? (10 marks),10
+7,Science,sc,Heat,,10
+7,Science,sc,Heat,What is the effect of pressure on the boiling point of a liquid? Give two examples to support your answer. (10 marks),10
+7,Science,sc,Motion and Time,What is the term for the distance covered by an object in unit time?,1
+7,Science,sc,Motion and Time,What is the term used to describe the distance covered by an object in a given time?,2
+7,Science,sc,Motion and Time,What is the difference between 'distance' and 'displacement' in a motion?,2
+7,Science,sc,Motion and Time,What is the term used to describe the distance moved by an object in a specific direction in a certain time?,5
+7,Science,sc,Motion and Time,What is the term used to describe the distance covered by an object in a given time? Mention the unit of measurement used to express this quantity.,5
+7,Science,sc,Motion and Time,What is the term used to describe the distance covered by an object in a given time?,10
+7,Science,sc,Motion and Time,"A car travels from a place to another in 25 minutes. If it covers a distance of 60 km, what is its speed in km/h?",10
+7,Science,sc,Electricity,What is the unit of electricity in the International System of Units (SI)?,1
+7,Science,sc,Electricity,What is the term used to describe the flow of electrons from one place to another?,2
+7,Science,sc,Electricity,What is the function of a fuse in an electric circuit?,2
+7,Science,sc,Electricity,What is the path through which an electric current flows called?,5
+7,Science,sc,Electricity,What is the function of the fuse in an electric circuit?,5
+7,Science,sc,Electricity,What is the flow of electrons through a conductor called? Explain the term and give an example.,10
+7,Science,sc,Electricity,,10
+7,Social Science,ss,Democracy and Equality,What is the main idea of equality in a democratic country?,1
+7,Social Science,ss,Democracy and Equality,What is the main idea behind the concept of equality in a democratic country?,1
+7,Social Science,ss,Democracy and Equality,What is the main aim of equal opportunities in a democratic society?,2
+7,Social Science,ss,Democracy and Equality,What is the main principle of equality in a democratic country?,2
+7,Social Science,ss,Democracy and Equality,What is the main idea behind the concept of equality in democracy?,2
+7,Social Science,ss,Democracy and Equality,"What is the main idea behind the concept of ""Equality"" in a democratic society?",5
+7,Social Science,ss,Democracy and Equality,What is the main idea of equality in a democratic country?,5
+7,Social Science,ss,Democracy and Equality,What is the significance of equality in a democratic government?,5
+7,Social Science,ss,Democracy and Equality,What are the two main principles of a democratic government? Explain their importance in a democratic country. (10 marks),10
+7,Social Science,ss,Democracy and Equality,,10
+7,Social Science,ss,Democracy and Equality,,10
+7,Social Science,ss,India’s Neighbours,Which river forms the border between India and Bangladesh?,1
+7,Social Science,ss,India’s Neighbours,Which of the following countries shares the longest international border with India?,1
+7,Social Science,ss,India’s Neighbours,Which river forms the border between India and Bangladesh?,1
+7,Social Science,ss,India’s Neighbours,What is the main crop grown in Nepal?,2
+7,Social Science,ss,India’s Neighbours,,5
+7,Social Science,ss,India’s Neighbours,What are the main features of the geography of Bangladesh? (Answer should include at least two geographical features.),10
+7,Social Science,ss,India’s Neighbours,,10
+7,Social Science,ss,India’s Neighbours,,10
+7,Social Science,ss,State Government,What is the main responsibility of a State Government?,1
+7,Social Science,ss,State Government,What is the main function of a State Legislature in a state government?,1
+7,Social Science,ss,State Government,What is the main function of a Minister in a State Government?,2
+7,Social Science,ss,State Government,What are the three main functions of a State Government? Mention two functions.,2
+7,Social Science,ss,State Government,What are the three main functions of a State Government?,2
+7,Social Science,ss,State Government,What are the main functions of a State Government in India? Mention any three functions.,5
+7,Social Science,ss,State Government,What are the powers and functions of a State Government in India? (10 marks),10
+8,Mathematics,ma,Linear Equations,Solve the linear equation 2x + 5 = 11.,1
+8,Mathematics,ma,Linear Equations,Solve the equation 2x + 5 = 11.,1
+8,Mathematics,ma,Linear Equations,"What is the slope of the line passing through the points (2, 3) and (4, 5)?",1
+8,Mathematics,ma,Linear Equations,Solve the equation 2x + 5 = 11. Write the value of x.,2
+8,Mathematics,ma,Linear Equations,Solve the linear equation 2x + 5 = 11 for x.,5
+8,Mathematics,ma,Linear Equations,Solve the linear equation: 2x + 5 = 11,10
+8,Mathematics,ma,Linear Equations,,10
+8,Mathematics,ma,Understanding Quadrilaterals,What is the sum of the interior angles of a parallelogram?,1
+8,Mathematics,ma,Understanding Quadrilaterals,"In the figure below, ABCD is a quadrilateral. If ∠A = 90° and ∠B + ∠C = 180°, find the value of x.",2
+8,Mathematics,ma,Understanding Quadrilaterals,"In the figure below, ABCD is a rectangle with AB = 8 cm and BC = 6 cm. Find the length of diagonal BD.",5
+8,Mathematics,ma,Understanding Quadrilaterals,"In the figure below, ABCD is a rectangle with AB = 8 cm and BC = 6 cm. Find the length of diagonal AC.",5
+8,Mathematics,ma,Understanding Quadrilaterals,"In the figure below, ABCD is a rectangle with AB = 8 cm and BC = 6 cm. If ∠AOB is a right angle, find the length of CD.",5
+8,Mathematics,ma,Understanding Quadrilaterals,,10
+8,Mathematics,ma,Understanding Quadrilaterals,,10
+8,Mathematics,ma,Mensuration,"The perimeter of a rectangle is 20 cm. If its length is 5 cm, what is its breadth?",1
+8,Mathematics,ma,Mensuration,"The perimeter of a rectangle is 20 cm. If the length of the rectangle is 4 cm, what is the width of the rectangle?",1
+8,Mathematics,ma,Mensuration,"The perimeter of a rectangle is 20 cm. If its length is 4 cm, find its breadth.",1
+8,Mathematics,ma,Mensuration,"The perimeter of a rectangle is 20 cm. If the length is 4 cm more than the breadth, find the area of the rectangle.",2
+8,Mathematics,ma,Mensuration,The length and breadth of a rectangle are 8 cm and 5 cm respectively. Find its area in square centimeters.,2
+8,Mathematics,ma,Mensuration,,2
+8,Mathematics,ma,Mensuration,"The perimeter of a rectangle is 20 cm. If the length of the rectangle is 5 cm, find its breadth.",5
+8,Mathematics,ma,Mensuration,A rectangular garden measures 15 meters by 8 meters. A path that is 2 meters wide is built around the garden. What is the area of the path?,5
+8,Mathematics,ma,Mensuration,"A rectangular garden measures 15 meters by 8 meters. If a path that is 2 meters wide is built all around the garden, what is the area of the path?",5
+8,Mathematics,ma,Mensuration,,10
+8,Mathematics,ma,Mensuration,A rectangular garden measures 15 meters in length and 8 meters in breadth. A path 2 meters wide is built around the garden. Find the area of the path.,10
+8,Mathematics,ma,Mensuration,"A rectangular park measures 50 meters in length and 30 meters in breadth. Find the area of the park. Also, find the cost of paving the park with tiles at the rate of ₹10 per square meter. (Take π = 22/7)",10
+8,Science,sc,Crop Production,What is the purpose of Irrigation in crop production?,1
+8,Science,sc,Crop Production,Which of the following is a major function of irrigation in crop production?,1
+8,Science,sc,Crop Production,What are the three main factors that affect crop yield in a given area? Explain your answer.,2
+8,Science,sc,Crop Production,What are the benefits of crop rotation in agriculture?,2
+8,Science,sc,Crop Production,What are the two main factors that affect the yield of crops? Mention one example of each.,2
+8,Science,sc,Crop Production,,5
+8,Science,sc,Crop Production,,10
+8,Science,sc,Crop Production,,10
+8,Science,sc,Crop Production,What are the advantages of crop rotation in agriculture? Mention four benefits. (10 marks),10
+8,Science,sc,Microorganisms,What is the main mode of reproduction in bacteria?,1
+8,Science,sc,Microorganisms,What is the primary source of food for many microorganisms?,1
+8,Science,sc,Microorganisms,What is the main source of nutrition for most microorganisms?,2
+8,Science,sc,Microorganisms,What are the three main characteristics that define microorganisms as living organisms?,2
+8,Science,sc,Microorganisms,What is the main source of nutrition for most microorganisms?,2
+8,Science,sc,Microorganisms,What are the characteristics of microorganisms that make them useful in industries?,5
+8,Science,sc,Microorganisms,What are the three main characteristics of microorganisms that distinguish them from other living organisms? (Answer should include all three characteristics),10
+8,Science,sc,Force and Pressure,What is the unit of pressure?,1
+8,Science,sc,Force and Pressure,What is the unit of pressure? State it in words and symbol.,2
+8,Science,sc,Force and Pressure,What is the effect of increasing the surface area of an object on the pressure exerted on it?,2
+8,Science,sc,Force and Pressure,What is the effect of increasing the area of contact between a force and an object?,2
+8,Science,sc,Force and Pressure,A force of 10 N is applied on a surface with an area of 5 cm². Calculate the pressure exerted on the surface. (Use g = 9.8 m/s²),5
+8,Science,sc,Force and Pressure,A force of 10 N is applied to a surface of area 0.1 m². Calculate the pressure exerted by the force.,5
+8,Science,sc,Force and Pressure,What is the unit of pressure in the International System of Units (SI)?,5
+8,Science,sc,Force and Pressure,,10
+8,Science,sc,Force and Pressure,"A car of mass 1500 kg is moving with a speed of 30 m/s. If the driver applies the brakes and the car comes to rest in 10 seconds, calculate the average force applied by the brakes. (Take g = 10 m/s²)",10
+8,Social Science,ss,The Indian Constitution,What is the main purpose of the Preamble to the Indian Constitution?,1
+8,Social Science,ss,The Indian Constitution,What is the main purpose of the Preamble to the Indian Constitution?,2
+8,Social Science,ss,The Indian Constitution,What is the main purpose of the Fundamental Duties mentioned in the Indian Constitution?,5
+8,Social Science,ss,The Indian Constitution,"What are the three organs of the government in India, as mentioned in the Indian Constitution, and what are their respective functions?",10
+8,Social Science,ss,The Indian Constitution,What are the main features of the Preamble to the Indian Constitution? (Answer should include at least 3 features),10
+8,Social Science,ss,Judiciary,What is the main function of the Supreme Court in a democracy?,1
+8,Social Science,ss,Judiciary,What is the main function of the Supreme Court in our country?,1
+8,Social Science,ss,Judiciary,What is the primary function of the Supreme Court in a democratic country?,2
+8,Social Science,ss,Judiciary,What is the primary function of the Supreme Court in a democratic country like India?,2
+8,Social Science,ss,Judiciary,What is the primary function of the judiciary in a democracy?,2
+8,Social Science,ss,Judiciary,What is the primary function of the judiciary in a democracy?,5
+8,Social Science,ss,Judiciary,What is the role of the Supreme Court in the Indian Constitution?,5
+8,Social Science,ss,Judiciary,What is the primary function of the Judiciary in a democracy? Explain its significance. (10 marks),10
+8,Social Science,ss,Natural Resources,What is the main cause of soil erosion?,1
+8,Social Science,ss,Natural Resources,What is the main difference between renewable and non-renewable natural resources?,2
+8,Social Science,ss,Natural Resources,What are the two main types of natural resources? Explain one example of each type.,5
+8,Social Science,ss,Natural Resources,What are the main types of renewable natural resources? Explain any two with examples. (5 marks),5
+8,Social Science,ss,Natural Resources,What are the two main types of natural resources? Explain one type with an example. (5 marks),5
+8,Social Science,ss,Natural Resources,What are the two main types of natural resources? Explain their significance in our daily lives. (10 marks),10
+9,Mathematics,ma,Number Systems,What is the value of x in the equation: 2x + 5 = 11?,1
+9,Mathematics,ma,Number Systems,Write the decimal expansion of 14/25.,1
+9,Mathematics,ma,Number Systems,What is the decimal expansion of the rational number 3/11?,1
+9,Mathematics,ma,Number Systems,What is the value of x in the equation 2x + 5 = 11?,2
+9,Mathematics,ma,Number Systems,2x + 5 = 11. Find the value of x.,2
+9,Mathematics,ma,Number Systems,"If √3 is irrational, then prove that (√3 + 1) is also irrational.",2
+9,Mathematics,ma,Number Systems,Find the value of x in the equation: 7x + 2 = 23,5
+9,Mathematics,ma,Number Systems,What is the value of x in the equation 3x + 5 = 2x + 11?,5
+9,Mathematics,ma,Number Systems,Find the value of x in the equation: 2x + 5 = 11,5
+9,Mathematics,ma,Number Systems,,10
+9,Mathematics,ma,Polynomials,"If x + 2 is a factor of the polynomial x^3 + ax^2 + bx + 6, find the value of a + b.",1
+9,Mathematics,ma,Polynomials,What is the degree of the polynomial x^2 + 3x + 2?,1
+9,Mathematics,ma,Polynomials,What is the degree of the polynomial 2x^2 + 3x - 4?,1
+9,Mathematics,ma,Polynomials,Find the value of x in the equation 2x^2 + 5x - 3 = 0.,2
+9,Mathematics,ma,Polynomials,Find the value of x in the equation: 2x^2 + 5x - 3 = 0.,2
+9,Mathematics,ma,Polynomials,Find the value of k in the polynomial equation 2x^2 + 5x + k = 0.,5
+9,Mathematics,ma,Polynomials,,10
+9,Mathematics,ma,Polynomials,Find the value of x in the equation 2x^2 + 5x - 3 = 0.,10
+9,Mathematics,ma,Polynomials,,10
+9,Mathematics,ma,Coordinate Geometry,"Find the midpoint of the line segment joining the points A(-3, 4) and B(5, 2).",1
+9,Mathematics,ma,Coordinate Geometry,"If the points A(-2, 3) and B(4, -1) are plotted in a coordinate plane, what is the distance between the points A and B?",1
+9,Mathematics,ma,Coordinate Geometry,"Find the distance between the points A(2, 3) and B(5, 1) in the coordinate plane.",1
+9,Mathematics,ma,Coordinate Geometry,"In the coordinate plane, the points A(2,3) and B(-1,2) are plotted. Find the distance between the points A and B.",2
+9,Mathematics,ma,Coordinate Geometry,"In a coordinate plane, the points A(2, 3) and B(-1, 2) are given. Find the distance AB.",2
+9,Mathematics,ma,Coordinate Geometry,"Find the distance between the points A (2, 3) and B (-1, -2) in the coordinate plane.",5
+9,Mathematics,ma,Coordinate Geometry,"Find the distance between the points A (3, 4) and B (-1, 2) in the coordinate plane.",10
+9,Mathematics,ma,Linear Equations in Two Variables,"If x + 2y = 6 is a linear equation in two variables, then what is the value of y when x = 2?",1
+9,Mathematics,ma,Linear Equations in Two Variables,The equation 2x + 3y = 12 represents a line passing through which point?,1
+9,Mathematics,ma,Linear Equations in Two Variables,"Write the equation of the line passing through the points (2, 3) and (4, 5) in the slope-intercept form.",1
+9,Mathematics,ma,Linear Equations in Two Variables,Solve the linear equation 2x + 3y = 12. Write the equation of the line in the slope-intercept form.,2
+9,Mathematics,ma,Linear Equations in Two Variables,"Solve the linear equation 2x + 3y = 12. Write the equation of the line in the form y = mx + c, where m and c are constants.",2
+9,Mathematics,ma,Linear Equations in Two Variables,,5
+9,Mathematics,ma,Linear Equations in Two Variables,,10
+9,Science,sc,Matter in Our Surroundings,What is the state of water at room temperature?,1
+9,Science,sc,Matter in Our Surroundings,What is the state of water at room temperature and atmospheric pressure?,1
+9,Science,sc,Matter in Our Surroundings,What is the term used to describe the amount of matter present in an object?,1
+9,Science,sc,Matter in Our Surroundings,What is the state of water at room temperature (25°C) in a glass? Justify your answer.,2
+9,Science,sc,Matter in Our Surroundings,What is the difference between pure substance and mixture? Explain with examples. (5 marks),5
+9,Science,sc,Matter in Our Surroundings,"What are the three main states of matter, and give one example of each?",5
+9,Science,sc,Matter in Our Surroundings,"What is the difference between a solid, a liquid, and a gas? Explain your answer with examples. (5 marks)",5
+9,Science,sc,Matter in Our Surroundings,What is the difference between pure substance and mixture? Illustrate your answer with two examples. (10 marks),10
+9,Science,sc,Atoms and Molecules,What is the smallest unit of a molecule?,1
+9,Science,sc,Atoms and Molecules,What is the smallest unit of matter that retains the properties of an element?,1
+9,Science,sc,Atoms and Molecules,What is the smallest unit of matter that still retains the properties of an element?,2
+9,Science,sc,Atoms and Molecules,What is the smallest unit of matter that still retains the properties of an element?,5
+9,Science,sc,Atoms and Molecules,,10
+9,Science,sc,The Fundamental Unit of Life,What is the main function of the cell membrane?,1
+9,Science,sc,The Fundamental Unit of Life,What is the main function of the nucleus in a cell?,2
+9,Science,sc,The Fundamental Unit of Life,What are the three main functions of the nucleus in a cell? Explain each function briefly. (5 marks),5
+9,Science,sc,The Fundamental Unit of Life,What are the three main components of a cell membrane and their functions?,5
+9,Science,sc,The Fundamental Unit of Life,What are the three main components of a cell membrane? Describe their functions briefly. (5 marks),5
+9,Science,sc,The Fundamental Unit of Life,,10
+9,Science,sc,The Fundamental Unit of Life,"What are the three main components of a cell membrane, and what is their function in maintaining the structure and function of the cell?",10
+9,Social Science,ss,Democratic Politics,What is the main feature of a democratic government?,1
+9,Social Science,ss,Democratic Politics,What is the main characteristic of a democratic government?,1
+9,Social Science,ss,Democratic Politics,What is the main aim of the principle of separation of powers in a democratic government?,2
+9,Social Science,ss,Democratic Politics,What is the primary aim of the principle of majority rule in a democratic setup?,2
+9,Social Science,ss,Democratic Politics,What is the purpose of having a Constitution in a democratic country?,2
+9,Social Science,ss,Democratic Politics,What is the primary characteristic of a democratic government? Explain with an example.,5
+9,Social Science,ss,Democratic Politics,,5
+9,Social Science,ss,Democratic Politics,What is the significance of the principle of separation of powers in a democratic system?,5
+9,Social Science,ss,Democratic Politics,What is the significance of the concept of 'Separation of Powers' in a democratic government? Explain with examples. (10 marks),10
+9,Social Science,ss,Democratic Politics,Explain the concept of 'Separation of Powers' in a democracy. What are its advantages and disadvantages? (10 marks),10
+9,Social Science,ss,Democratic Politics,What are the main features of a democratic government? Explain two of them with examples. (10 marks),10
+9,Social Science,ss,Climate,What is the term used to describe the gradual increase in the average global temperature over the past century?,1
+9,Social Science,ss,Climate,"What is the process by which the Earth's atmosphere traps heat from the sun, leading to an increase in global temperatures?",1
+9,Social Science,ss,Climate,,2
+9,Social Science,ss,Climate,What is the term used to describe the gradual increase in the average global temperature due to the increasing levels of greenhouse gases in the atmosphere?,2
+9,Social Science,ss,Climate,What are the two main factors that determine the climate of a place? Explain their importance. (5 marks),5
+9,Social Science,ss,Climate,What are the causes of climate change? Describe two main reasons.,5
+9,Social Science,ss,Climate,,10
+9,Social Science,ss,Climate,What are the three main factors that affect the climate of a region? Explain each factor with an example. (10 marks),10
+9,Social Science,ss,Nazism and the Rise of Hitler,Who was the leader of the Nazi Party in Germany before Adolf Hitler?,1
+9,Social Science,ss,Nazism and the Rise of Hitler,What was the name of the political party founded by Adolf Hitler in Germany in 1920?,1
+9,Social Science,ss,Nazism and the Rise of Hitler,"What were the main reasons for the economic crisis in Germany in the 1920s and early 1930s, which contributed to the rise of Nazism?",2
+9,Social Science,ss,Nazism and the Rise of Hitler,"What were the key features of the Nazi Party's economic policies, which helped Hitler gain popularity among the Germans?",2
+9,Social Science,ss,Nazism and the Rise of Hitler,,5
+9,Social Science,ss,Nazism and the Rise of Hitler,What were the main reasons that contributed to the rise of Hitler to power in Germany in 1933?,5
+9,Social Science,ss,Nazism and the Rise of Hitler,"What were the main reasons behind the failure of the Weimar Republic in Germany, which contributed to the rise of Hitler and the Nazi Party?",5
+9,Social Science,ss,Nazism and the Rise of Hitler,,10
+9,Social Science,ss,Nazism and the Rise of Hitler,,10
+10,Mathematics,ma,Real Numbers,"If a and b are two irrational numbers such that a^2 + b^2 = 2, then what is the value of (a + b)^2?",1
+10,Mathematics,ma,Real Numbers,What is the decimal expansion of the rational number 3/11?,1
+10,Mathematics,ma,Real Numbers,,2
+10,Mathematics,ma,Real Numbers,"Write the decimal expansion of 0.25 up to 3 places of decimals. Also, find the value of (0.25) × 100.",5
+10,Mathematics,ma,Real Numbers,,10
+10,Mathematics,ma,Pair of Linear Equations,The equations 2x + 3y = 12 and x - 2y = -3 represent __________ parallel lines.,1
+10,Mathematics,ma,Pair of Linear Equations,Solve the following pair of linear equations:,2
+10,Mathematics,ma,Pair of Linear Equations,Solve the following pair of linear equations:,5
+10,Mathematics,ma,Pair of Linear Equations,Solve the following system of linear equations and find the values of x and y:,5
+10,Mathematics,ma,Pair of Linear Equations,Solve the following pair of linear equations by substitution method:,5
+10,Mathematics,ma,Pair of Linear Equations,,10
+10,Mathematics,ma,Pair of Linear Equations,,10
+10,Mathematics,ma,Quadratic Equations,"If x is a root of the quadratic equation x^2 + 5x + 6 = 0, then what is the value of x?",1
+10,Mathematics,ma,Quadratic Equations,,2
+10,Mathematics,ma,Quadratic Equations,Find the value of x in the equation: x^2 + 5x + 6 = 0.,2
+10,Mathematics,ma,Quadratic Equations,Solve the quadratic equation x^2 + 5x + 6 = 0. Write your answer in the form x = ...,5
+10,Mathematics,ma,Quadratic Equations,Solve the quadratic equation x^2 + 5x + 6 = 0. Give your answer correct to two decimal places.,10
+10,Mathematics,ma,Quadratic Equations,,10
+10,Mathematics,ma,Quadratic Equations,"Solve the quadratic equation x^2 + 5x + 6 = 0. Write the solution(s) in the form ax + b, where a and b are integers.",10
+10,Mathematics,ma,Statistics,"The mean of 5 numbers is 15. If one of the numbers is 12, what is the sum of the other 4 numbers?",1
+10,Mathematics,ma,Statistics,"The mean of the numbers 4, 6, 8, x, 10 is 7. Find the value of x.",1
+10,Mathematics,ma,Statistics,The mean marks of a class of 20 students is 60. The mean marks of a class of 15 students is 55. The mean marks of the total students is:,1
+10,Mathematics,ma,Statistics,"A survey of 50 students reveals that 20 students like coffee, 15 students like tea, and 5 students like both. Find the probability that a student selected at random likes coffee or tea.",2
+10,Mathematics,ma,Statistics,"The marks scored by 5 students in a mathematics test are: 60, 70, 80, 90, 85. Find the mean of these marks.",2
+10,Mathematics,ma,Statistics,"The marks obtained by 10 students in a mathematics test are 70, 80, 60, 90, 75, 80, 95, 85, 70, and 65. Find the mean marks of the students. (5 marks)",5
+10,Mathematics,ma,Statistics,"The marks obtained by 10 students in a mathematics test are 45, 50, 40, 55, 60, 35, 45, 50, 60, 52. Calculate the mean of the marks obtained by the students. (5 marks)",5
+10,Mathematics,ma,Statistics,"In a class, the marks scored by 20 students in a mathematics test are as follows: 40, 45, 50, 60, 70, 80, 85, 90, 95, 100, 40, 45, 50, 60, 70, 80, 85, 90, 95, 100. Find the mean of these marks.",5
+10,Mathematics,ma,Statistics,The marks of 5 students in a mathematics test are given below:,10
+10,Mathematics,ma,Statistics,,10
+10,Science,sc,Chemical Reactions,What is the term for the reactants in a chemical reaction?,1
+10,Science,sc,Chemical Reactions,What is the term for the substance that is added to a reaction to speed up the rate of reaction?,1
+10,Science,sc,Chemical Reactions,What is the term for the substance that helps a chemical reaction to occur?,1
+10,Science,sc,Chemical Reactions,What is the term for the amount of a substance that reacts with another substance in a chemical reaction?,2
+10,Science,sc,Chemical Reactions,What is the difference between a chemical reaction and a physical change? Provide one example of each.,2
+10,Science,sc,Chemical Reactions,,2
+10,Science,sc,Chemical Reactions,"What is the term used to describe the process by which one or more substances are converted into one or more new substances, resulting in the formation of new compounds?",5
+10,Science,sc,Chemical Reactions,,5
+10,Science,sc,Chemical Reactions,"Write a balanced chemical equation for the reaction between sodium metal and chlorine gas. Also, identify the type of chemical reaction involved. (10 marks)",10
+10,Science,sc,"Acids, Bases and Salts",What is the pH of a neutral solution?,1
+10,Science,sc,"Acids, Bases and Salts",What is the pH of a solution that is neutral?,2
+10,Science,sc,"Acids, Bases and Salts",What is the pH of a solution of a strong acid in water?,2
+10,Science,sc,"Acids, Bases and Salts",What is the common characteristic of all acids? (2 marks),2
+10,Science,sc,"Acids, Bases and Salts",What is the pH of a solution that contains equal concentrations of hydrochloric acid (HCl) and sodium hydroxide (NaOH)? Justify your answer.,5
+10,Science,sc,"Acids, Bases and Salts",,10
+10,Science,sc,"Acids, Bases and Salts",What is the pH of a solution that contains equal concentrations of HCl and NaOH at room temperature? Justify your answer.,10
+10,Science,sc,"Acids, Bases and Salts",,10
+10,Science,sc,Life Processes,"What is the process by which plants prepare their own food from sunlight, water, and carbon dioxide?",1
+10,Science,sc,Life Processes,What is the term for the process by which plants prepare their own food from sunlight?,1
+10,Science,sc,Life Processes,What is the main function of chloroplasts in plant cells?,1
+10,Science,sc,Life Processes,What is the main function of chlorophyll in plants?,2
+10,Science,sc,Life Processes,What is the main function of chloroplasts in plant cells?,2
+10,Science,sc,Life Processes,What is the role of chlorophyll in photosynthesis? Explain with the help of a diagram. (5 marks),5
+10,Science,sc,Life Processes,,10
+10,Social Science,ss,Federalism,What is the main characteristic of a federal government?,1
+10,Social Science,ss,Federalism,Which of the following is a characteristic of federalism?,1
+10,Social Science,ss,Federalism,What is the primary characteristic of a federal system of government?,1
+10,Social Science,ss,Federalism,What is the primary advantage of a federal system of government?,2
+10,Social Science,ss,Federalism,What is the primary characteristic of a federal system of government?,2
+10,Social Science,ss,Federalism,What is the primary reason for the establishment of a federal system of government?,5
+10,Social Science,ss,Federalism,What are the advantages of federalism in a country? Explain any two advantages. (10 marks),10
+10,Social Science,ss,Sectors of the Indian Economy,Which of the following sectors of the Indian economy is responsible for producing goods and services that are essential for the well-being of every individual?,1
+10,Social Science,ss,Sectors of the Indian Economy,What is the primary function of the Primary Sector in the Indian economy?,2
+10,Social Science,ss,Sectors of the Indian Economy,What is the primary distinction between the public and private sectors of the Indian economy?,2
+10,Social Science,ss,Sectors of the Indian Economy,What are the three main sectors of the Indian economy and briefly describe their characteristics?,5
+10,Social Science,ss,Sectors of the Indian Economy,"What are the three main sectors of the Indian economy, and how do they contribute to its overall growth? (5 marks)",5
+10,Social Science,ss,Sectors of the Indian Economy,What are the three main sectors of the Indian economy and how do they contribute to the country's GDP? (5 marks),5
+10,Social Science,ss,Sectors of the Indian Economy,"What are the three main sectors of the Indian economy, and how do they contribute to the country's overall economic growth? (Answer should be in 150-200 words)",10
+10,Social Science,ss,Sectors of the Indian Economy,"Distinguish between the public and private sectors of the Indian economy, highlighting their characteristics and differences. (10 marks)",10
+10,Social Science,ss,Nationalism in India,Who was the leader of the Swadeshi Movement in Bengal?,1
+10,Social Science,ss,Nationalism in India,Who was the founder of the Indian National Congress?,1
+10,Social Science,ss,Nationalism in India,What was the significance of the Swadeshi movement launched by the Indian National Congress in 1905?,2
+10,Social Science,ss,Nationalism in India,Who is credited with giving a call to the Quit India Movement in 1942?,2
+10,Social Science,ss,Nationalism in India,Which of the following was a major consequence of the Indian National Congress's movement for Swaraj?,2
+10,Social Science,ss,Nationalism in India,"What was the main objective of the Indian National Congress, established in 1885?",5
+10,Social Science,ss,Nationalism in India,"What were the main features of the Indian National Congress, established in 1885 by A.O. Hume?",5
+10,Social Science,ss,Nationalism in India,,10
