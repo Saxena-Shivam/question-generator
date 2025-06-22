@@ -6,8 +6,8 @@ from openai import OpenAI
 from groq import Groq
 import os
 from dotenv import load_dotenv
-
-load_dotenv("d:/GEN AI/chatbot/.env")
+# Load environment variables
+load_dotenv("D:/Project-ARC/Question_Paper_Generator/.env")
 groq_api_key = os.getenv("GROQ_API_KEY")
 client1 = Groq(api_key=groq_api_key)
 client = MongoClient("mongodb+srv://shivamsaxena562006:LZPRnz4ePeG7utqv@cluster0.7nvtxfb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")

@@ -1,7 +1,13 @@
 import random
 from pymongo import MongoClient
-
-client = MongoClient("mongodb+srv://shivamsaxena562006:LZPRnz4ePeG7utqv@cluster0.7nvtxfb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+import os
+from dotenv import load_dotenv
+# Load environment variables
+load_dotenv("D:/Project-ARC/Question_Paper_Generator/.env")
+# Get the MongoDB URI from the environment
+mongo_uri = os.getenv("MONGO_URI")
+# Connect to MongoDB
+client = MongoClient(mongo_uri)
 db = client["Questions"]
 subjects_collection = db["subjects"]
 

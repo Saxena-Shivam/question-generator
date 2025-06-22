@@ -6,9 +6,14 @@ import math
 # Initialize session state for generate_pressed
 if "generate_pressed" not in st.session_state:
     st.session_state.generate_pressed = False
-
+import os
+from dotenv import load_dotenv
+# Load environment variables
+load_dotenv("D:/Project-ARC/Question_Paper_Generator/.env")
+# Get the MongoDB URI from the environment
+mongo_uri = os.getenv("MONGO_URI")
 # Connect to MongoDB
-client = MongoClient("mongodb+srv://shivamsaxena562006:LZPRnz4ePeG7utqv@cluster0.7nvtxfb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+client = MongoClient(mongo_uri)
 db = client["Questions"]
 collection = db["subjects"]
 
