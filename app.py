@@ -98,7 +98,7 @@ def query_openrouter(messages):
             temperature=0.7
         )
 
-        st.write("Debug - Raw API Response:", response)
+        # st.write("Debug - Raw API Response:", response)
 
         if not response or not hasattr(response, "choices") or not response.choices:
             return "Error: AI returned incomplete response (missing choices)"
