@@ -321,4 +321,7 @@ if st.session_state.enter_pressed:
 
         st.write("### Descriptive Questions")
         for q in st.session_state.questions:
-            st.write(q)
+            if q.startswith("[Descriptive AI]"):
+                st.write(q)
+            else:
+                st.markdown(f"<div style='color:#ED3500'>{q}</div>", unsafe_allow_html=True)
