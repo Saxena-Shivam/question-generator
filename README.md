@@ -1,10 +1,13 @@
-# Question Paper Generator
+# 📈 EMA Adaptive Question Paper Generator
 
-This project is a **Question Paper Generator** web application built with [Streamlit](https://streamlit.io/) and Python. It allows users (teachers, educators, or students) to generate question papers for different classes, subjects, and topics, using both a database of real questions and AI-generated questions.
+This project is a **Question Paper Generator** web application built with [Streamlit](https://streamlit.io/) and Python. It allows teachers and educators to generate question papers for different classes, subjects, and topics, using both a database of real questions and AI-generated questions.  
+It now features an **EMA Adaptive Generator** that personalizes question papers for each student based on their past performance.
 
 ---
 
-## Features
+## 🌟 Features
+
+### General Features (Previous Generator)
 
 1. **Chapter Selection**
 
@@ -46,14 +49,80 @@ This project is a **Question Paper Generator** web application built with [Strea
 
    - AI-generated descriptive questions are saved to MongoDB.
 
-9. **Customizable Distribution**  
-   Distributes questions across selected topics as per user input.
-10. **CSV Export**
+9. **Customizable Distribution**
 
-- All question data can be exported using:
-  ```sh
-  python db_csv.py
-  ```
+   - Distributes questions across selected topics as per user input.
+
+10. **CSV Export**
+    - All question data can be exported using:
+      ```sh
+      python db_csv.py
+      ```
+
+---
+
+### EMA Adaptive Generator Features (New)
+
+- **Student-wise Adaptive Paper Generation:**  
+  Generates question papers tailored to each student’s strengths and weaknesses using Exponential Moving Average (EMA) of their previous exam scores.
+
+- **Exam Type & Syllabus Coverage:**  
+  Supports multiple exam types (Term 1, Mid Term, Term 2, End Term) with configurable syllabus coverage for each.
+
+- **Database & AI-Generated Questions:**  
+  Pulls questions from your MongoDB database. If not enough questions are available, generates new ones using an AI model (Groq LLM) based on textbook content.
+
+- **Modern, Interactive UI:**  
+  Sidebar for student, subject, and exam type selection. Main area shows progress, statistics, and generated questions in expandable, color-coded cards. Loading spinner during question generation for better UX.
+
+- **Downloadable Papers:**  
+  Download generated papers as a clean text file or as a CSV for analysis.
+
+- **Statistics & Meta Info:**  
+  Displays total questions, total marks, and number of AI-generated questions. Shows meta info: student, class, subject, exam type, generation date, and strategy.
+
+---
+
+## 🖥️ How It Works
+
+### **Frontend (Streamlit UI)**
+
+1. **Sidebar Controls:**  
+   Select a student, subject, and exam type.
+
+2. **Main Content:**  
+   Shows app title and description. On clicking "Generate EMA Adaptive Paper", calculates EMA for each topic based on the student’s past exam scores (before the selected exam), and displays a spinner while generating the paper.
+
+3. **Results Display:**  
+   Shows a success message and meta info. Statistics (total questions, marks, AI questions) in a collapsible section. Questions grouped by topic, each in a styled card showing marks, difficulty, source (DB/AI), and answer. Download buttons for text and CSV formats.
+
+---
+
+### **Backend (Logic & Data Flow)**
+
+1. **Database Connections:**  
+   Connects to MongoDB for student data, question bank, and textbook content.
+
+2. **EMA Calculation:**  
+   For each topic in the selected exam’s syllabus, fetches the last two exam scores for that topic and subject, before the current exam date, and calculates EMA.
+
+3. **Question Selection:**  
+   For each topic, determines the number and difficulty of questions based on EMA. Tries to fetch questions from the database. If not enough, generates additional questions using the Groq LLM, with textbook content as context.
+
+4. **Paper Assembly:**  
+   Collects all questions (DB and AI), with metadata (topic, marks, difficulty, source, answer). Stores the generated paper and questions in Streamlit session state for display and download.
+
+5. **Download Formatting:**  
+   Formats the question paper for text and CSV download, grouping by topic and including all relevant metadata.
+
+---
+
+## 🚦 User Flow
+
+1. **User selects student, subject, and exam type.**
+2. **Clicks "Generate EMA Adaptive Paper".**
+3. **App calculates EMA for each topic, determines question distribution, fetches/generates questions.**
+4. **Displays questions, stats, and download options.**
 
 ---
 
@@ -88,6 +157,7 @@ This project is a **Question Paper Generator** web application built with [Strea
    Create a `.env` file (or edit the provided one) with your API keys:
 
    ```
+   MONGO_URI=your_mongodb_uri
    GROQ_API_KEY=your_groq_api_key
    ```
 
@@ -106,6 +176,8 @@ This project is a **Question Paper Generator** web application built with [Strea
 ```
 .
 ├── app.py                # Main Streamlit app
+├── ema_paper.py          # EMA adaptive backend logic
+├── student_schema.py     # Student and exam data logic
 ├── add_textbook.py       # Script to add textbook content to MongoDB
 ├── textbook.json         # Source data for textbook content
 ├── requirements.txt      # Python dependencies
@@ -130,4 +202,4 @@ This project is for educational and demonstration purposes.
 
 ---
 
-\*\*Contributions and suggestions
+**Contributions and suggestions are welcome!**
