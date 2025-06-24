@@ -58,11 +58,7 @@ def insert_or_update_student(student_id, class_num, roll_number, name):
 
 def add_exam_to_student(student_id, exam_dict):
     try:
-        for t in exam_dict["topic_scores"]:
-            if "marks_obtained" in t and "max_marks" in t and t["max_marks"] > 0:
-                t["percentage"] = round((t["marks_obtained"] / t["max_marks"]) * 100, 1)
-            else:
-                t["percentage"] = 0.0
+        # Do NOT store percentage in DB, only marks_obtained and max_marks
         collection_students.update_one(
             {"student_id": student_id},
             {"$push": {"exams": exam_dict}},
@@ -72,6 +68,11 @@ def add_exam_to_student(student_id, exam_dict):
         print("Error adding exam:", e)
 
 def fetch_last_two_exam_scores(student_id, subject, topic, upto_date=None):
+    """
+    Returns the last two percentage scores for a topic in a subject for a student,
+    considering only exams before upto_date (if provided).
+    Percentage is calculated on the fly.
+    """
     student = collection_students.find_one({"student_id": student_id})
     if not student or "exams" not in student:
         return []
@@ -83,13 +84,17 @@ def fetch_last_two_exam_scores(student_id, subject, topic, upto_date=None):
     for exam in exams:
         for t in exam["topic_scores"]:
             if t["topic"] == topic:
-                scores.append(t.get("percentage", 0))
+                if t.get("max_marks", 0) > 0:
+                    percent = round((t.get("marks_obtained", 0) / t["max_marks"]) * 100, 1)
+                else:
+                    percent = 0.0
+                scores.append(percent)
     return scores[:2]
 
 if __name__ == "__main__":
-    # print("Deleting all previous students data...")
-    # collection_students.delete_many({})
-    # print("All previous students deleted.")
+    print("Deleting all previous students data...")
+    collection_students.delete_many({})
+    print("All previous students deleted.")
 
     student_list = [
         {"student_id": "S001", "name": "Alice", "class": 8, "roll": 12},
