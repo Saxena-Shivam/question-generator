@@ -87,9 +87,9 @@ def fetch_last_two_exam_scores(student_id, subject, topic, upto_date=None):
     return scores[:2]
 
 if __name__ == "__main__":
-    print("Deleting all previous students data...")
-    collection_students.delete_many({})
-    print("All previous students deleted.")
+    # print("Deleting all previous students data...")
+    # collection_students.delete_many({})
+    # print("All previous students deleted.")
 
     student_list = [
         {"student_id": "S001", "name": "Alice", "class": 8, "roll": 12},
