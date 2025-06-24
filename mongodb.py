@@ -55,18 +55,23 @@ subjects = [
     }
 ]
 
-# Marks categories
-mark_weights = [1, 2, 5, 10]
+# You can customize these as needed
+marks_list = [1, 2, 5, 10]
+difficulty_levels = ["easy", "medium", "hard"]
 
-# Function to generate question-answer pair from Groq
-def generate_qna(subject, chapter, class_level, marks):
+def generate_qna(subject, chapter, class_level, marks, difficulty):
     prompt = (
-        f"Generate a Class {class_level} level exam question in {subject} from the chapter '{chapter}' worth {marks} marks. "
-        f"Also give an ideal answer. Format:\nQuestion: <...>\nAnswer: <...>"
+        f"Generate a Class {class_level} {subject} exam question from the chapter \"{chapter}\".\n"
+        f"- Marks: {marks}\n"
+        f"- Difficulty: {difficulty} (easy/medium/hard)\n"
+        "Write the question and a model answer.\n"
+        "Format:\n"
+        "Question: <your question>\n"
+        "Answer: <model answer>"
     )
     try:
         response = groq_client.chat.completions.create(
-            model="llama3-8b-8192",  # or use "llama3-70b-8192"
+            model="llama3-8b-8192",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.7
         )
@@ -80,10 +85,17 @@ def generate_qna(subject, chapter, class_level, marks):
                 answer = line.split(":", 1)[1].strip()
             elif answer:
                 answer += " " + line.strip()
+        # Fill blanks if LLM leaves any field empty
+        if not question or question.lower() in ["question", ""]:
+            question = f"[Auto-generated] Write a {difficulty} question for '{chapter}' ({marks} marks)."
+        if not answer or answer.lower() in ["answer", ""]:
+            answer = "[Auto-generated answer not available.]"
         return question, answer
     except Exception as e:
         print(f"❌ Error from Groq: {e}")
-        return "[Placeholder Question]", "[Placeholder Answer]"
+        question = f"[Placeholder] Write a {difficulty} question for '{chapter}' ({marks} marks)."
+        answer = "[Placeholder answer not available.]"
+        return question, answer
 
 # Loop through each class and subject
 for class_level in range(6, 11):
@@ -95,14 +107,17 @@ for class_level in range(6, 11):
         topic_docs = []
         for chapter_name in chapters:
             questions = []
-            for marks in mark_weights:
-                for _ in range(random.randint(1, 3)):
-                    q, a = generate_qna(subject["subject_name"], chapter_name, class_level, marks)
-                    questions.append({
-                        "question": q,
-                        "answer": a,
-                        "marks": marks
-                    })
+            # For each marks and each difficulty, generate 2 questions
+            for marks in marks_list:
+                for difficulty in difficulty_levels:
+                    for _ in range(2):
+                        q, a = generate_qna(subject["subject_name"], chapter_name, class_level, marks, difficulty)
+                        questions.append({
+                            "question": q,
+                            "answer": a,
+                            "marks": marks,
+                            "difficulty": difficulty
+                        })
             topic_docs.append({
                 "topic_name": chapter_name,
                 "questions": questions
@@ -115,4 +130,4 @@ for class_level in range(6, 11):
             "topics": topic_docs
         })
 
-print("✅ Successfully inserted real Q&A data for Classes 6 to 10.")
+print("✅ Successfully inserted Q&A data with all difficulty levels for Classes 6 to 10.")
