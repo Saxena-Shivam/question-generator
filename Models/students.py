@@ -58,7 +58,6 @@ def insert_or_update_student(student_id, class_num, roll_number, name):
 
 def add_exam_to_student(student_id, exam_dict):
     try:
-        # Do NOT store percentage in DB, only marks_obtained and max_marks
         collection_students.update_one(
             {"student_id": student_id},
             {"$push": {"exams": exam_dict}},
@@ -92,9 +91,9 @@ def fetch_last_two_exam_scores(student_id, subject, topic, upto_date=None):
     return scores[:2]
 
 if __name__ == "__main__":
-    # print("Deleting all previous students data...")
-    # collection_students.delete_many({})
-    # print("All previous students deleted.")
+    print("Deleting all previous students data...")
+    collection_students.delete_many({})
+    print("All previous students deleted.")
 
     student_list = [
         {"student_id": "S001", "name": "Alice", "class": 8, "roll": 12},
@@ -119,14 +118,43 @@ if __name__ == "__main__":
             total_topics = len(topics)
             for exam_info in exam_types:
                 # Determine how many topics to include for this exam
-                if exam_info["syllabus_topics"] is None or exam_info["syllabus_topics"] > total_topics:
-                    topics_for_exam = topics
+                if exam_info["exam_type"] == "term1":
+                    topics_for_exam = topics[:1]  # Only first chapter
+                elif exam_info["exam_type"] == "mid_term":
+                    topics_for_exam = topics[:2]  # First two chapters
+                elif exam_info["exam_type"] == "term2":
+                    topics_for_exam = topics[2:3] if total_topics >= 3 else []  # Only third chapter if exists
+                elif exam_info["exam_type"] == "end_term":
+                    topics_for_exam = topics      # All chapters
                 else:
                     topics_for_exam = topics[:exam_info["syllabus_topics"]]
+
+                # Set max_marks based on exam_type
+                if exam_info["exam_type"] == "term1":
+                    max_marks = 20
+                elif exam_info["exam_type"] == "mid_term":
+                    max_marks = 80
+                elif exam_info["exam_type"] == "term2":
+                    max_marks = 20
+                elif exam_info["exam_type"] == "end_term":
+                    max_marks = 80
+                else:
+                    max_marks = 20
+
+                n = len(topics_for_exam)
+                indices = list(range(n))
+                random.shuffle(indices)
+                split1 = n // 3
+                split2 = 2 * n // 3
+
                 topic_scores = []
-                for topic in topics_for_exam:
-                    max_marks = random.choice([20, 25, 30])
-                    marks_obtained = random.randint(int(0.5 * max_marks), max_marks)
+                for idx, topic in enumerate(topics_for_exam):
+                    if idx in indices[:split1]:
+                        marks_obtained = random.randint(0, int(0.5 * max_marks))
+                    elif idx in indices[split1:split2]:
+                        marks_obtained = random.randint(int(0.5 * max_marks) + 1, int(0.75 * max_marks))
+                    else:
+                        marks_obtained = random.randint(int(0.75 * max_marks) + 1, max_marks)
                     topic_scores.append({
                         "topic": topic,
                         "marks_obtained": marks_obtained,

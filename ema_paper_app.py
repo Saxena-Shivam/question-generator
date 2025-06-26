@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 from ema_paper import generate_ema_adaptive_paper, calculate_ema
-from student_schema import fetch_last_two_exam_scores, subjects
+from Models.students import fetch_last_two_exam_scores, subjects
 from pymongo import MongoClient
 import os
 from dotenv import load_dotenv
