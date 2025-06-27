@@ -4,3 +4,8 @@ openai
 groq
 python-dotenv
 fpdf
+selenium
+pandas
+openpyxl
+bs4
+fake_useragent

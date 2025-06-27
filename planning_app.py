@@ -81,6 +81,74 @@ def get_past_performance(student_id, subject, topic, selected_exam_type):
     last_two = topic_scores[-2:]
     return round(sum(last_two) / len(last_two), 2) if last_two else 0.5
 
+def generate_daywise_schedule(all_subject_plans, days_left, hours_per_day):
+    # Helper to build a queue for a given hour type
+    def build_queue(hour_type):
+        subject_queues = []
+        for subj_plan in all_subject_plans:
+            queue = []
+            for p in subj_plan['plan']:
+                total = p[hour_type]
+                if total > 0:
+                    queue.append({
+                        "chapter": p["chapter"],
+                        "remaining_hours": total
+                    })
+            if queue:
+                subject_queues.append({
+                    "subject": subj_plan['subject'],
+                    "queue": queue
+                })
+        return subject_queues
+
+    # Prepare phase queues
+    phases = [
+        ("Learning", "learning_hours"),
+        ("Revision 1", "revision1_hours"),
+        ("Revision 2", "revision2_hours"),
+    ]
+    schedule = []
+    day = 1
+    for phase_name, hour_type in phases:
+        subject_queues = build_queue(hour_type)
+        subject_idx = 0
+        while day <= days_left and subject_queues:
+            hours_left = hours_per_day
+            today = []
+            while hours_left > 0 and subject_queues:
+                subj = subject_queues[subject_idx % len(subject_queues)]
+                subject_name = subj["subject"]
+                queue = subj["queue"]
+                while queue and hours_left > 0:
+                    chapter = queue[0]
+                    assign = min(chapter["remaining_hours"], hours_left)
+                    today.append({
+                        "phase": phase_name,
+                        "subject": subject_name,
+                        "chapter": chapter["chapter"],
+                        "hours": round(assign, 2)
+                    })
+                    chapter["remaining_hours"] -= assign
+                    hours_left -= assign
+                    if chapter["remaining_hours"] <= 0:
+                        queue.pop(0)
+                # If this subject has no more chapters, remove it from the cycle
+                if not queue:
+                    subject_queues.pop(subject_idx % len(subject_queues))
+                    if not subject_queues:
+                        break
+                    # Do not increment subject_idx if we just removed the current subject
+                else:
+                    subject_idx = (subject_idx + 1) % len(subject_queues)
+                    break  # Move to next subject for the next day's start
+            # Merge with previous day if already exists (for phase transitions)
+            if len(schedule) < day:
+                schedule.append({"day": day, "tasks": today})
+            else:
+                schedule[day-1]["tasks"].extend(today)
+            day += 1
+    return schedule
+
 def create_study_plan_pdf(student, exam_type_label, days_left, hours_per_day, total_hours, all_subject_plans):
     pdf = FPDF()
     pdf.add_page()
@@ -114,6 +182,26 @@ def create_study_plan_pdf(student, exam_type_label, days_left, hours_per_day, to
             pdf.cell(25, 8, str(p["revision1_hours"]), 1)
             pdf.cell(25, 8, str(p["revision2_hours"]), 1)
             pdf.ln()
+        pdf.ln(2)
+    return pdf.output(dest="S").encode("latin1")
+
+def create_daywise_schedule_pdf(student, exam_type_label, days_left, hours_per_day, schedule):
+    pdf = FPDF()
+    pdf.add_page()
+    pdf.set_font("Arial", "B", 16)
+    pdf.cell(0, 10, "Day-wise Study & Revision Schedule", ln=True, align="C")
+    pdf.set_font("Arial", "", 12)
+    pdf.ln(5)
+    pdf.cell(0, 10, f"Student: {student['name']} (Class {student['class']}, Roll {student['roll_number']})", ln=True)
+    pdf.cell(0, 10, f"Exam: {exam_type_label}", ln=True)
+    pdf.cell(0, 10, f"Days Left: {days_left} | Hours/Day: {hours_per_day}", ln=True)
+    pdf.ln(5)
+    for day in schedule:
+        pdf.set_font("Arial", "B", 12)
+        pdf.cell(0, 8, f"Day {day['day']}", ln=True)
+        pdf.set_font("Arial", "", 11)
+        for task in day["tasks"]:
+            pdf.cell(0, 8, f"- {task['phase']}: {task['subject']} | {task['chapter']} | {task['hours']} hrs", ln=True)
         pdf.ln(2)
     return pdf.output(dest="S").encode("latin1")
 
@@ -214,5 +302,24 @@ if st.button("Generate Study Plan"):
         label="Download Full Study Plan as PDF",
         data=pdf_bytes,
         file_name=f"study_plan_{student['name']}_{exam_type_label}.pdf",
+        mime="application/pdf"
+    )
+
+    # --- NEW: Day-wise schedule display and PDF download ---
+    daywise_schedule = generate_daywise_schedule(all_subject_plans, days_left, hours_per_day)
+    st.info("💡 **Note:** Along with your daily learning, give at least 1 hour to revise what you have learnt the previous day.")
+    st.markdown("### Day-wise Study & Revision Schedule")
+    for day in daywise_schedule:
+        st.markdown(f"**Day {day['day']}**")
+        for task in day["tasks"]:
+            st.write(f"- {task['phase']}: {task['subject']} | {task['chapter']} | {task['hours']} hrs")
+
+    daywise_pdf_bytes = create_daywise_schedule_pdf(
+        student, exam_type_label, days_left, hours_per_day, daywise_schedule
+    )
+    st.download_button(
+        label="Download Day-wise Schedule as PDF",
+        data=daywise_pdf_bytes,
+        file_name=f"daywise_schedule_{student['name']}_{exam_type_label}.pdf",
         mime="application/pdf"
     )
