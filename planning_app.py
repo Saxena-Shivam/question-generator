@@ -82,73 +82,70 @@ def get_past_performance(student_id, subject, topic, selected_exam_type):
     return round(sum(last_two) / len(last_two), 2) if last_two else 0.5
 
 def generate_daywise_schedule(all_subject_plans, days_left, hours_per_day):
-    # Helper to build a queue for a given hour type
-    def build_queue(hour_type):
-        subject_queues = []
-        for subj_plan in all_subject_plans:
-            queue = []
-            for p in subj_plan['plan']:
-                total = p[hour_type]
-                if total > 0:
-                    queue.append({
-                        "chapter": p["chapter"],
-                        "remaining_hours": total
-                    })
-            if queue:
-                subject_queues.append({
-                    "subject": subj_plan['subject'],
-                    "queue": queue
-                })
-        return subject_queues
-
-    # Prepare phase queues
+    # Prepare a list of (subject, phase, chapter, remaining_hours) in subject-cycle order
     phases = [
         ("Learning", "learning_hours"),
         ("Revision 1", "revision1_hours"),
         ("Revision 2", "revision2_hours"),
     ]
-    schedule = []
-    day = 1
-    for phase_name, hour_type in phases:
-        subject_queues = build_queue(hour_type)
-        subject_idx = 0
-        while day <= days_left and subject_queues:
-            hours_left = hours_per_day
-            today = []
-            while hours_left > 0 and subject_queues:
-                subj = subject_queues[subject_idx % len(subject_queues)]
-                subject_name = subj["subject"]
-                queue = subj["queue"]
-                while queue and hours_left > 0:
-                    chapter = queue[0]
-                    assign = min(chapter["remaining_hours"], hours_left)
-                    today.append({
+    # For each subject, build a queue of (phase, chapter, remaining_hours)
+    subject_queues = []
+    for subj_plan in all_subject_plans:
+        subject = subj_plan['subject']
+        queue = []
+        for phase_name, hour_type in phases:
+            for p in subj_plan['plan']:
+                total = p[hour_type]
+                if total > 0:
+                    queue.append({
                         "phase": phase_name,
+                        "chapter": p["chapter"],
+                        "remaining_hours": total
+                    })
+        if queue:
+            subject_queues.append({
+                "subject": subject,
+                "queue": queue
+            })
+
+    schedule = []
+    subject_idx = 0
+    for day in range(1, days_left + 1):
+        hours_left = hours_per_day
+        today = []
+        if not subject_queues:
+            break
+        start_subject_idx = subject_idx
+        while hours_left > 0 and subject_queues:
+            subj = subject_queues[subject_idx % len(subject_queues)]
+            subject_name = subj["subject"]
+            queue = subj["queue"]
+            while queue and hours_left > 0:
+                task = queue[0]
+                assign = min(task["remaining_hours"], hours_left)
+                if assign > 0:
+                    today.append({
+                        "phase": task["phase"],
                         "subject": subject_name,
-                        "chapter": chapter["chapter"],
+                        "chapter": task["chapter"],
                         "hours": round(assign, 2)
                     })
-                    chapter["remaining_hours"] -= assign
-                    hours_left -= assign
-                    if chapter["remaining_hours"] <= 0:
-                        queue.pop(0)
-                # If this subject has no more chapters, remove it from the cycle
-                if not queue:
-                    subject_queues.pop(subject_idx % len(subject_queues))
-                    if not subject_queues:
-                        break
-                    # Do not increment subject_idx if we just removed the current subject
-                else:
-                    subject_idx = (subject_idx + 1) % len(subject_queues)
-                    break  # Move to next subject for the next day's start
-            # Merge with previous day if already exists (for phase transitions)
-            if len(schedule) < day:
-                schedule.append({"day": day, "tasks": today})
+                task["remaining_hours"] -= assign
+                hours_left -= assign
+                if task["remaining_hours"] <= 0:
+                    queue.pop(0)
+            # If this subject has no more tasks, remove it from the cycle
+            if not queue:
+                subject_queues.pop(subject_idx % len(subject_queues))
+                if not subject_queues:
+                    break
+                # Do not increment subject_idx if we just removed the current subject
             else:
-                schedule[day-1]["tasks"].extend(today)
-            day += 1
+                subject_idx = (subject_idx + 1) % len(subject_queues)
+                break  # Move to next subject for the next day's start
+        schedule.append({"day": day, "tasks": today})
+        subject_idx = (subject_idx + 1) % len(subject_queues) if subject_queues else 0
     return schedule
-
 def create_study_plan_pdf(student, exam_type_label, days_left, hours_per_day, total_hours, all_subject_plans):
     pdf = FPDF()
     pdf.add_page()
@@ -201,7 +198,8 @@ def create_daywise_schedule_pdf(student, exam_type_label, days_left, hours_per_d
         pdf.cell(0, 8, f"Day {day['day']}", ln=True)
         pdf.set_font("Arial", "", 11)
         for task in day["tasks"]:
-            pdf.cell(0, 8, f"- {task['phase']}: {task['subject']} | {task['chapter']} | {task['hours']} hrs", ln=True)
+            if task["hours"] > 0:
+                pdf.cell(0, 8, f"- {task['phase']}: {task['subject']} | {task['chapter']} | {task['hours']} hrs", ln=True)
         pdf.ln(2)
     return pdf.output(dest="S").encode("latin1")
 
@@ -309,11 +307,16 @@ if st.button("Generate Study Plan"):
     daywise_schedule = generate_daywise_schedule(all_subject_plans, days_left, hours_per_day)
     st.info("💡 **Note:** Along with your daily learning, give at least 1 hour to revise what you have learnt the previous day.")
     st.markdown("### Day-wise Study & Revision Schedule")
+    phase_priority = {"Learning": 1, "Revision 1": 2, "Revision 2": 3}
     for day in daywise_schedule:
         st.markdown(f"**Day {day['day']}**")
-        for task in day["tasks"]:
-            st.write(f"- {task['phase']}: {task['subject']} | {task['chapter']} | {task['hours']} hrs")
-
+        sorted_tasks = sorted(
+            [task for task in day["tasks"] if task["hours"] > 0],
+            key=lambda x: phase_priority.get(x["phase"], 99)
+        )
+        for task in sorted_tasks:
+            if task["hours"] > 0:
+                st.write(f"- {task['phase']}: {task['subject']} | {task['chapter']} | {task['hours']} hrs")
     daywise_pdf_bytes = create_daywise_schedule_pdf(
         student, exam_type_label, days_left, hours_per_day, daywise_schedule
     )
